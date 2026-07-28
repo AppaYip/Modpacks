@@ -3077,11 +3077,6 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/allthemodium.pw.toml"
-hash = "1b062847fdba7e0854c12acbf80e631367c919fa984fd5acecec3174f5ce3f2e"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "3e36b6df867cf7a3aa9fc03398a6bf885c10bcf0f47d4ea9bff0bfa99b5362ff"
 metafile = true
@@ -3129,6 +3124,11 @@ metafile = true
 [[files]]
 file = "mods/armory-of-remnants.pw.toml"
 hash = "f9230180e003abb9698b61bae30c8efb27225b5b2dd067a2a720af978ba232af"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "44505ec6c8d7ac5948b3f192cff3db191b07c4d39d501ce3af916006cda3c5a6"
 metafile = true
 
 [[files]]
@@ -3662,6 +3662,16 @@ hash = "aa2ee25935ff64f2626023b07c4a5eb750e3ea4a6225dc028d5fbe503d01e9c1"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-spellbooks.pw.toml"
+hash = "cc32aa4ef01da1b3f16b3bec4bba92ba0fa9de63e12ade47032f6d670df3bb6f"
+metafile = true
+
+[[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "c497c937b7baa0dc2341b9a9f88cdc127b45b79c2c11d496561aa615b4a77389"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
@@ -3729,6 +3739,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "cd6b5fa044f26728b65cc1ccfe2c8e68b2a4860f6ed95398ac24251d7a186f03"
 metafile = true
 
 [[files]]
@@ -4037,8 +4052,8 @@ hash = "c75ec0f13a06a0bf503dab32ab604cc19e52a65238ccbe08575a74b83ab7b2a2"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+file = "mods/rats.pw.toml"
+hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
 metafile = true
 
 [[files]]
@@ -4229,6 +4244,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "0bbfbeabd0b7fdb20a85cb7cb1b07b95366dc6f6b71170e9ae0e3d1f4a0b4087"
 metafile = true
 
 [[files]]
