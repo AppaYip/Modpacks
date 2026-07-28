@@ -683,7 +683,7 @@ hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1"
+hash = "0ed1b71545ea0ed58356028848cef78f26b3d2e208fc3ad3447f53ed53d44c03"
 
 [[files]]
 file = "config/cataclysm.toml"
@@ -775,7 +775,7 @@ hash = "b7abc0a6531e6493fbe6e0734da6dde5a9471a5d94ce08d8df75584bfe910136"
 
 [[files]]
 file = "config/configurableextramobdrops/mobdropconfig.txt"
-hash = "8ec956f357561f8a80207a21122aefccdd50067f43f37c572930652628965a46"
+hash = "f0eaa6fb2faec17d624d052651b2b0304ca22976bc3d7254b50d4716f24014d6"
 
 [[files]]
 file = "config/configured-client.toml"
@@ -1420,42 +1420,6 @@ hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "5a21257ff56ff897f847f7d798ad4816d47f7a9af32c78032c521545be116780"
-
-[[files]]
-file = "config/jei/world/local/Aeternia/bookmarks.ini"
-hash = "2b9f77eb965dcdc08ae8c960b204a0c7ca5de93de1393552ccee09df3bee6b54"
-
-[[files]]
-file = "config/jei/world/local/Extremist_s_Survival_Testworld/bookmarks.ini"
-hash = "62010795984801bbe47a5178c567693a906f3b5e8dacceb7ee13a0ae1d4a8f02"
-
-[[files]]
-file = "config/jei/world/local/First_Test_World/bookmarks.ini"
-hash = "2a3d0a634a7db55f52477623b57559d8723f53d4c9e05f1d66ca5a8a84b1738a"
-
-[[files]]
-file = "config/jei/world/local/First_Type_of_Survival/bookmarks.ini"
-hash = "61339d473957c883f60a4b9ca37888a3d50df9b9631cd9cb1113dfd7c5f1bbb5"
-
-[[files]]
-file = "config/jei/world/local/New_World/bookmarks.ini"
-hash = "60a0294863674408d5fba2af1a97407d139078627f97de57c297faa7c486f635"
-
-[[files]]
-file = "config/jei/world/local/Newer_World/bookmarks.ini"
-hash = "3e7860ea4b324ddb0b03a8ee21a5a6c9038b8c0fcb09871217698ab8ffe36d63"
-
-[[files]]
-file = "config/jei/world/local/THE_playthru/bookmarks.ini"
-hash = "57140eb8f6a70402825ec625fa6f82262c212d7bd436d4eeadc97832dfdb892f"
-
-[[files]]
-file = "config/jei/world/local/UltraTestWorld/bookmarks.ini"
-hash = "67f81d8498be8d33cb4ae2ad90a96649b46bd4baa8364fcf504c5de476514e67"
-
-[[files]]
-file = "config/jei/world/local/videorecording_world/bookmarks.ini"
-hash = "064e916d80aa7b94eb53220c6a811cddb61860801cb61fec12c98fdbc193f8d2"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -2995,7 +2959,7 @@ hash = "1f1b162bfc5438035370ac9938f7e5842cd1f6475337672d44774f527ac7e9d6"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/exported_recipes3.js"
-hash = "9aee668bdedbbe6b9583b8bffd446d07ea52d12ab8e8b1ff02757662a202fa5b"
+hash = "c2313828cb2ec3576b566d6e126166f7a47ab584630407339983c93f883fac3f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/finalsword.txt"
