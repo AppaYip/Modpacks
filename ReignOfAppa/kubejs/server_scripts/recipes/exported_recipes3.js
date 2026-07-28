@@ -1,13 +1,4 @@
 ServerEvents.recipes(event => {
-    event.remove({output: 'refinedstorage:grid' })
-    event.remove({output: 'refinedstorage:machine_casing' })
-    event.remove({output: 'refinedstorage:raw_basic_processor' })
-    event.remove({output: 'refinedstorage:basic_processor' })
-    event.remove({output: 'refinedstorage:raw_advanced_processor' })
-    event.remove({output: 'refinedstorage:advanced_processor' })
-    event.remove({output: 'refinedstorage:raw_improved_processor' })
-    event.remove({output: 'refinedstorage:improved_processor' })
-    event.remove({output: 'refinedstorage:controller' })
     event.remove({output: 'zenith:zenith' })
 
     event.remove({output: 'minecraft:netherite_ingot' })
@@ -19,7 +10,6 @@ ServerEvents.recipes(event => {
     event.remove({output: 'minecraft:stone_shovel' })
     event.remove({output: 'minecraft:stone_hoe' })
 
-    event.remove({output: 'refinedstorage:disk_drive' })
     event.remove({output: 'ancient_elements:infernal_helmet' })
     event.remove({output: 'ancient_elements:infernal_chestplate' })
     event.remove({output: 'ancient_elements:infernal_leggings' })
@@ -260,95 +250,7 @@ event.shaped(
         C: 'terramity:empty_essence'
     }
 )
-event.shapeless(
-    Item.of('refinedstorage:raw_basic_processor'),
-    [
-        'refinedstorage:silicon',
-        'minecraft:redstone',
-        'create:copper_nugget'
-    ]
-)
-event.shapeless(
-    Item.of('refinedstorage:basic_processor'),
-    [
-        'caverns_and_chasms:silver_nugget',
-        'terramity:electronic_scrap',
-        'refinedstorage:raw_basic_processor'
-    ]
-)
-event.shapeless(
-    Item.of('refinedstorage:raw_advanced_processor'),
-    [
-        'create:zinc_nugget',
-        'refinedstorage:silicon',
-        'minecraft:redstone'
-    ]
-)
-event.shapeless(
-    Item.of('refinedstorage:advanced_processor'),
-    [
-        'terramity:electronic_scrap',
-        'caverns_and_chasms:silver_nugget',
-        'refinedstorage:raw_advanced_processor'
-    ]
-)
-event.shapeless(
-    Item.of('refinedstorage:raw_improved_processor'),
-    [
-        'minecraft:gold_nugget',
-        'minecraft:redstone',
-        'refinedstorage:silicon'
-    ]
-)
-event.shapeless(
-    Item.of('refinedstorage:improved_processor'),
-    [
-        'caverns_and_chasms:silver_nugget',
-        'terramity:electronic_scrap',
-        'refinedstorage:raw_improved_processor'
-    ]
-)
-event.shaped(
-    Item.of('refinedstorage:machine_casing', 2),
-    [
-        'ABA',
-        'BCB',
-        'ABA'
-    ],
-    {
-        B: 'create:brass_ingot',
-        A: 'createdeco:industrial_iron_ingot',
-        C: 'create:brass_casing'
-    }
-)
-event.shaped(
-    Item.of('refinedstorage:controller'),
-    [
-        'ABA',
-        'CDC',
-        'ACA'
-    ],
-    {
-        A: 'create:brass_sheet',
-        B: 'refinedstorage:advanced_processor',
-        C: 'minecraft:tinted_glass',
-        D: 'refinedstorage:machine_casing'
-    }
-)
-event.shaped(
-    Item.of('refinedstorage:disk_drive'),
-    [
-        'ABA',
-        'ACA',
-        'ADA'
-    ],
-    {
-        A: 'create:brass_sheet',
-        B: 'minecraft:chest',
-        C: 'refinedstorage:machine_casing',
-        D: 'refinedstorage:improved_processor'
-    }
-)
+
 event.shapeless(
     Item.of('mmt:raw_zirconium', 3),
     [
@@ -478,23 +380,7 @@ event.custom({
         }
     ]
 })
-event.shaped(
-    Item.of('refinedstorage:grid'),
-    [
-        'ABC',
-        'DEF',
-        'AGC'
-    ],
-    {
-        C: 'create:brass_sheet',
-        F: 'minecraft:glass',
-        G: 'refinedstorage:construction_core',
-        E: 'refinedstorage:machine_casing',
-        A: 'refinedstorage:improved_processor',
-        D: 'create:precision_mechanism',
-        B: 'refinedstorage:destruction_core'
-    }
-)
+
 event.smithing(
   'ancient_elements:infernal_helmet',                     // arg 1: output
   'ancient_elements:infernal_smithing_template', // arg 2: the smithing template

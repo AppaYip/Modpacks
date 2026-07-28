@@ -140,7 +140,6 @@
 'alexsmobs:void_worm_part' : '',
 'alexsmobs:warped_mosco' : '',
 'alexsmobs:warped_toad' : '',
-'allthemodium:piglich' : '',
 'ancient_elements:aetherial_glaze' : '',
 'ancient_elements:ancient_elemental' : '',
 'ancient_elements:ancient_elemental_intro' : '',
