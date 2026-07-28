@@ -1,0 +1,5 @@
+# Auto detect textfiles and perform LF normalization
+* text=auto
+* -text
+* -crlf
+
