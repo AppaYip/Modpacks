@@ -35030,6 +35030,10 @@ file = "shaderpacks/Visual-Vibrance-v0.3.5a.zip.txt"
 hash = "f894f58d2b4a4725d6206aaf168f9f746353c83151698c872c57d1e461bb2fd7"
 
 [[files]]
+file = "unsup.ini"
+hash = "7a6404a3c7a2ac857e74db0ad3e2ea1cd4bf207066de7cbea324828f77b4c198"
+
+[[files]]
 file = "visual-vibrance.pw.toml"
 hash = "c12007553937cee811337b3c338fa657abd217e950ec4e3d059c28d83004a69a"
 metafile = true
