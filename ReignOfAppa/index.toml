@@ -3636,13 +3636,13 @@ hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
 metafile = true
 
 [[files]]
-file = "mods/ice-and-fire-spellbooks.pw.toml"
-hash = "cc32aa4ef01da1b3f16b3bec4bba92ba0fa9de63e12ade47032f6d670df3bb6f"
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
 metafile = true
 
 [[files]]
-file = "mods/iceandfire-ce.pw.toml"
-hash = "c497c937b7baa0dc2341b9a9f88cdc127b45b79c2c11d496561aa615b4a77389"
+file = "mods/ice-and-fire-spellbooks.pw.toml"
+hash = "cc32aa4ef01da1b3f16b3bec4bba92ba0fa9de63e12ade47032f6d670df3bb6f"
 metafile = true
 
 [[files]]
