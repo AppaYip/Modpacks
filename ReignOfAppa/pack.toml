@@ -1,10 +1,10 @@
-name = "Reign of Calamity"
+name = "Reign of Appa"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "00d95c78fbc03c699e6c4f0be5ae3c4e502daba37b1bdb1924347fdc49953b77"
+hash = "0b2a9753598e63a45e20971727213f4ba66b7346a4bf112640fdf848bf08ecec"
 
 [versions]
 forge = "47.4.10"
