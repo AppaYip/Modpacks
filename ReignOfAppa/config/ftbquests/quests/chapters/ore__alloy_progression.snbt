@@ -1,0 +1,1658 @@
+{
+	autofocus_id: "140EF04BBA2BF195"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "ore__alloy_progression"
+	group: "30D554BA21B94801"
+	icon: "terramity:nyxium"
+	id: "15FDCF53B0BDED8E"
+	images: [
+		{
+			height: 1.6d
+			image: "valoria:item/pearlium_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			height: 2.2d
+			image: "minecraft:item/flint"
+			rotation: 0.0d
+			width: 2.2d
+			x: -5.5d
+			y: 5.5d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/tie1.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			height: 1.6d
+			image: "minecraft:item/iron_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -5.5d
+			y: 11.5d
+		}
+		{
+			height: 1.6d
+			image: "evenbetternether:item/pyrite_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			height: 1.6d
+			image: "alexscaves:item/azure_neodymium_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			height: 1.6d
+			image: "alexscaves:item/scarlet_neodymium_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -0.5d
+			y: 11.5d
+		}
+		{
+			height: 1.6d
+			image: "minecraft:item/copper_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -5.5d
+			y: 8.5d
+		}
+		{
+			height: 1.6d
+			image: "betterend:item/thallasium_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/tie2.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 5.5d
+			y: 12.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/amethyst_shard"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.5d
+			y: 10.0d
+		}
+		{
+			height: 1.6d
+			image: "minecraft:item/gold_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -8.5d
+			y: 11.5d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/tie3.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.5d
+			y: 23.0d
+		}
+		{
+			height: 1.6d
+			image: "betterend:item/terminite_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -2.0d
+			y: 14.5d
+		}
+		{
+			height: 2.0d
+			image: "terramity:item/ruby"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 16.0d
+		}
+		{
+			height: 2.4d
+			image: "terramity:item/onyx"
+			rotation: 0.0d
+			width: 2.4d
+			x: -2.0d
+			y: 16.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/diamond"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.5d
+			y: 16.0d
+		}
+		{
+			height: 2.0d
+			image: "terramity:item/topaz"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 14.5d
+		}
+		{
+			height: 1.6d
+			image: "secretsofthevoid:item/shimmersteel_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: 1.0d
+			y: 16.0d
+		}
+		{
+			height: 2.0d
+			image: "terramity:item/sapphire"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			height: 1.6d
+			image: "valoria:item/ethereal_shard"
+			rotation: 0.0d
+			width: 1.6d
+			x: -4.0d
+			y: 26.5d
+		}
+		{
+			height: 1.6d
+			image: "composite_material:item/dungeon_steel_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -7.0d
+			y: 26.5d
+		}
+		{
+			height: 1.6d
+			image: "composite_material:item/obsidian_steel_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -8.5d
+			y: 25.5d
+		}
+		{
+			height: 1.6d
+			image: "valoria:item/cobalt_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -2.5d
+			y: 25.5d
+		}
+		{
+			height: 1.8d
+			image: "composite_material:item/allay_steel_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -5.5d
+			y: 25.5d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/tie4.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.5d
+			y: 32.5d
+		}
+		{
+			height: 1.6d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -5.5d
+			y: 32.0d
+		}
+		{
+			height: 1.6d
+			image: "betterend:item/aeternium_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -5.5d
+			y: 41.5d
+		}
+		{
+			height: 1.6d
+			image: "caverns_and_chasms:item/necromium_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -5.5d
+			y: 33.5d
+		}
+		{
+			height: 1.6d
+			image: "legendary_monsters:item/enderitium_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -5.5d
+			y: 35.0d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/tie5.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.5d
+			y: 41.5d
+		}
+		{
+			height: 1.8d
+			image: "terramity:item/iridium"
+			rotation: 0.0d
+			width: 1.8d
+			x: -5.5d
+			y: 45.0d
+		}
+		{
+			height: 1.8d
+			image: "terramity:item/cosmilite_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -6.5d
+			y: 43.0d
+		}
+		{
+			height: 1.8d
+			image: "valoria:item/jade"
+			rotation: 0.0d
+			width: 1.8d
+			x: -6.5d
+			y: 40.0d
+		}
+		{
+			height: 1.8d
+			image: "terramity:item/virentium_alloy"
+			rotation: 0.0d
+			width: 1.8d
+			x: -4.5d
+			y: 40.0d
+		}
+		{
+			height: 1.8d
+			image: "terramity:item/dimlite_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -4.5d
+			y: 43.0d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/tie6.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.5d
+			y: 52.0d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/tie7.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.5d
+			y: 59.5d
+		}
+		{
+			height: 1.8d
+			image: "terramity:item/conductite"
+			rotation: 0.0d
+			width: 1.8d
+			x: -5.5d
+			y: 50.5d
+		}
+		{
+			height: 1.8d
+			image: "terramity:item/hellspec_alloy"
+			rotation: 0.0d
+			width: 1.8d
+			x: -7.0d
+			y: 51.5d
+		}
+		{
+			height: 1.8d
+			image: "valoria:item/crimtane_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -8.5d
+			y: 52.5d
+		}
+		{
+			height: 1.8d
+			image: "enigmaticlegacy:item/etherium_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -5.5d
+			y: 53.0d
+		}
+		{
+			height: 1.8d
+			image: "terramity:item/void_alloy"
+			rotation: 0.0d
+			width: 1.8d
+			x: -4.0d
+			y: 51.5d
+		}
+		{
+			height: 1.8d
+			image: "valoria:item/nature_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -2.5d
+			y: 52.5d
+		}
+		{
+			height: 1.8d
+			image: "valoria:item/void_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -5.5d
+			y: 59.0d
+		}
+		{
+			height: 1.8d
+			image: "valoria:item/infernal_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -6.5d
+			y: 60.5d
+		}
+		{
+			height: 1.8d
+			image: "allthemodium:item/allthemodium_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -5.5d
+			y: 62.0d
+		}
+		{
+			height: 1.8d
+			image: "valoria:item/aquarius_ingot"
+			rotation: 0.0d
+			width: 1.8d
+			x: -4.5d
+			y: 60.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:item/stick"
+			rotation: 0.0d
+			width: 1.5d
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			height: 1.6d
+			image: "k_balance:item/krushk_ingot_b"
+			rotation: 0.0d
+			width: 1.6d
+			x: -10.0d
+			y: 10.0d
+		}
+		{
+			height: 1.6d
+			image: "ancient_elements:item/tin_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			height: 1.6d
+			image: "ancient_elements:item/steel_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -10.0d
+			y: 11.5d
+		}
+		{
+			height: 1.6d
+			image: "ancient_elements:item/lead_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -2.0d
+			y: 11.5d
+		}
+		{
+			height: 2.0d
+			image: "smc:item/perkin_ingot"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.5d
+			y: 10.0d
+		}
+		{
+			height: 1.6d
+			image: "iter_rpg:item/magmanum_chunk"
+			rotation: 0.0d
+			width: 1.6d
+			x: -11.5d
+			y: 10.0d
+		}
+		{
+			height: 1.6d
+			image: "dungeons_and_combat:item/silver_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -11.5d
+			y: 11.5d
+		}
+		{
+			height: 1.6d
+			image: "eidolon:item/silver_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -11.5d
+			y: 8.5d
+		}
+		{
+			height: 1.6d
+			image: "caverns_and_chasms:item/silver_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -10.0d
+			y: 8.5d
+		}
+		{
+			height: 1.6d
+			image: "undergarden:item/froststeel_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -8.5d
+			y: 8.5d
+		}
+		{
+			height: 1.6d
+			image: "undergarden:item/cloggrum_ingot"
+			rotation: 0.0d
+			width: 1.6d
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			height: 2.0d
+			image: "ancient_elements:item/palladium_ingot"
+			rotation: 0.0d
+			width: 2.0d
+			x: -5.5d
+			y: 14.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The pickaxes to the &cright&r of the main path are ones that are the same tier as the ones to the left of them, &9but aren't specifically required to progress.&r"
+				""
+				"The pickaxes to the &aleft&r of the main path are ones that are the same/different tier as the ones to the right of them, but&9 require the pickaxe tier to the right of them.&r"
+				""
+				"You can obtain some vanilla and modded materials in a &n&ddifferent&r&r way now, for example obtaining Netherite requires a create mod mixing heated basin, same goes for Iridium from Terramity and some other custom materials I featured in this modpack."
+			]
+			id: "140EF04BBA2BF195"
+			size: 1.0d
+			tasks: [{
+				id: "46F77788E2E439C5"
+				title: "Tier 0 - Wood Tier"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				""
+				"{image:minecraft:block/logs/oak_log_top width:100 height:100 align:center}"
+			]
+			id: "17880AEC3A24EC96"
+			subtitle: "Wood is obtainable by cutting down trees."
+			tasks: [{
+				id: "5C3EB7CA3A1C2E7B"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			id: "65C8AEA4F68D7C0E"
+			size: 1.0d
+			tasks: [{
+				id: "6F02F121DEEF92BC"
+				title: "Tier 0 - Wood Tier"
+				type: "checkmark"
+			}]
+			title: "Tier 1 - Stone Tier"
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				""
+				"{image:valoria:block/pearlium_block width:100 height:100 align:center}"
+			]
+			id: "79673E48F58FD093"
+			subtitle: "Pearlium is found in chests."
+			tasks: [{
+				id: "6A885864D86E1E85"
+				item: {
+					Count: 1
+					id: "valoria:pearlium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			description: [
+				""
+				"{image:minecraft:block/gravel width:100 height:100 align:center}"
+			]
+			id: "1ACE62BF08E8E9C5"
+			subtitle: "Flint is obtainable by mining gravel. It's a pretty low but not impossible chance."
+			tasks: [{
+				id: "07DB3AD47E67D30D"
+				item: {
+					Count: 1
+					id: "composite_material:flint_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.5d
+		}
+		{
+			id: "183968A6AF433D4E"
+			size: 1.0d
+			tasks: [{
+				id: "08819D6D4B5598DE"
+				title: "Tier 0 - Wood Tier"
+				type: "checkmark"
+			}]
+			title: "Tier 2 - Iron Tier"
+			x: -5.5d
+			y: 7.0d
+		}
+		{
+			description: ["{image:minecraft:block/iron_ore width:100 height:100 align:center}"]
+			id: "1DE3A8268F862699"
+			subtitle: "Iron is found in caves and chests."
+			tasks: [{
+				id: "2598F59874B4A59F"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 11.5d
+		}
+		{
+			description: [
+				""
+				"{image:alexscaves:block/energized_galena_scarlet width:100 height:100 align:center}"
+			]
+			id: "19DE49BF88449298"
+			subtitle: "Magnetic Caves exclusive."
+			tasks: [{
+				id: "6708696AE36D7376"
+				item: {
+					Count: 1
+					id: "alexscaves_torpedoes:scarlet_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 11.5d
+		}
+		{
+			description: [
+				""
+				"{image:alexscaves:block/energized_galena_azure width:100 height:100 align:center}"
+			]
+			id: "72E84C305B934B29"
+			subtitle: "Magnetic Caves exclusive."
+			tasks: [{
+				id: "3B951139ED9D90CA"
+				item: {
+					Count: 1
+					id: "alexscaves_torpedoes:azure_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			description: [
+				""
+				"{image:minecraft:block/copper_ore width:100 height:100 align:center}"
+			]
+			id: "1C3C69CB15E2E303"
+			subtitle: "Copper is found in caves."
+			tasks: [{
+				id: "645F7A4EB72890B0"
+				item: {
+					Count: 1
+					id: "composite_material:copper_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 8.5d
+		}
+		{
+			description: [
+				""
+				"{image:betterend:block/thallasium_ore width:100 height:100 align:center}"
+			]
+			id: "73813080E266C9FE"
+			subtitle: "End exclusive."
+			tasks: [{
+				id: "21DFD1C53DCD93E1"
+				item: {
+					Count: 1
+					id: "betterend:thallasium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			description: [
+				""
+				"{image:evenbetternether:block/nether_pyrite_ore width:100 height:100 align:center}"
+			]
+			icon: {
+				Count: 1
+				id: "evenbetternether:pyrite_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6387DE08E17DF5A2"
+			subtitle: "Nether Exclusive."
+			tasks: [{
+				id: "751B57DB2836E726"
+				item: {
+					Count: 1
+					id: "evenbetternether:pyrite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			description: ["{image:minecraft:block/amethyst_block width:100 height:100 align:center}"]
+			id: "338945B1B8317F0C"
+			subtitle: "Amethyst is found in amethyst geodes as a cluster."
+			tasks: [{
+				id: "77762081DA97A98D"
+				item: {
+					Count: 1
+					id: "composite_material:amethyst_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 10.0d
+		}
+		{
+			description: ["{image:minecraft:block/gold_ore width:100 height:100 align:center}"]
+			id: "25F91C32FB87EA66"
+			subtitle: "Gold is found in caves, but mostly common in mesa biomes."
+			tasks: [{
+				id: "6C48736AE92D3451"
+				item: {
+					Count: 1
+					id: "minecraft:golden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 11.5d
+		}
+		{
+			id: "2F3E5C52932C2DFC"
+			size: 1.0d
+			tasks: [{
+				id: "75BD9A61C1E601D5"
+				title: "Tier 3 - Obsidian Tier"
+				type: "checkmark"
+			}]
+			title: "Tier 3 - Diamond Tier"
+			x: -5.5d
+			y: 13.0d
+		}
+		{
+			description: ["{image:minecraft:block/diamond_ore1 width:100 height:100 align:center}"]
+			id: "613A7E53230736C1"
+			subtitle: "Diamonds are found in chests, caves and other loot tables. One of the most important materials in the game."
+			tasks: [{
+				id: "5799B4ECED63FB03"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 16.0d
+		}
+		{
+			description: [
+				""
+				"{image:secretsofthevoid:block/shimmersteel_block width:100 height:100 align:center}"
+			]
+			id: "7A4D29F9A64AF794"
+			subtitle: "Shimmersteel is obtainable by smelting pearls."
+			tasks: [{
+				id: "3ABE5B136896A1A2"
+				item: {
+					Count: 1
+					id: "secretsofthevoid:shimmersteel_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.0d
+		}
+		{
+			description: [
+				""
+				"{image:terramity:block/end_onyx_ore width:100 height:100 align:center}"
+			]
+			id: "33168E6217DDBF51"
+			subtitle: "Onytx is found in the End and chests."
+			tasks: [{
+				id: "7639958EE1163779"
+				item: {
+					Count: 1
+					id: "terramity:onyx_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 16.0d
+		}
+		{
+			description: [
+				""
+				"{image:terramity:block/nether_ruby_ore width:100 height:100 align:center}"
+			]
+			id: "1347888B6DF740AC"
+			subtitle: "Ruby is found in the Nether and chests."
+			tasks: [{
+				id: "322CD7B1DD283049"
+				item: {
+					Count: 1
+					id: "terramity:ruby_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 16.0d
+		}
+		{
+			description: [
+				""
+				"{image:terramity:block/deepslate_topaz_ore width:100 height:100 align:center}"
+			]
+			id: "4211F8AEB4AECFF0"
+			subtitle: "Topaz is found in underground deserts and chests."
+			tasks: [{
+				id: "5A21BB4D944D2B03"
+				item: {
+					Count: 1
+					id: "terramity:topaz_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 14.5d
+		}
+		{
+			description: [
+				""
+				"{image:terramity:block/deepslate_sapphire_ore width:100 height:100 align:center}"
+			]
+			id: "691F930AA10478DF"
+			subtitle: "Sapphire is found in underground ice biomes and chests."
+			tasks: [{
+				id: "046A503CF0127124"
+				item: {
+					Count: 1
+					id: "terramity:sapphire_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			description: [
+				""
+				"{image:betterend:block/terminite_block width:100 height:100 align:center}"
+			]
+			id: "6A4EC714608B629D"
+			subtitle: "Terminite is obtainable by alloying Iron and Ender Dust."
+			tasks: [{
+				id: "391A594C8AEA2743"
+				item: {
+					Count: 1
+					id: "betterend:terminite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 14.5d
+		}
+		{
+			description: [
+				""
+				"{image:minecraft:block/obsidian width:100 height:100 align:center}"
+			]
+			id: "349B73CFC59E2EF5"
+			subtitle: "Obsidian Steel is craftable with obsidian, iron and quartz."
+			tasks: [{
+				id: "36AA230165495380"
+				item: {
+					Count: 1
+					id: "composite_material:obsidian_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 25.5d
+		}
+		{
+			description: [
+				""
+				"{image:composite_material:block/dungeon_steel_block width:100 height:100 align:center}"
+			]
+			id: "5BF8D4A925D849D8"
+			subtitle: "Dungeon Steel is obtainable by throwing Obsidian Steel near a spawner. 30% Chance of success."
+			tasks: [{
+				id: "0A82CBEFC9497303"
+				item: {
+					Count: 1
+					id: "composite_material:dungeon_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 26.5d
+		}
+		{
+			description: [
+				""
+				"{image:composite_material:block/allay_steel_block width:100 height:100 align:center}"
+			]
+			id: "4D8CA0A521A99F1E"
+			subtitle: "Allay Steel is obtainable by giving an Allay a Dungeon Steel Ingot."
+			tasks: [{
+				id: "375FCA9AE6F08344"
+				item: {
+					Count: 1
+					id: "composite_material:allay_steel_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 25.5d
+		}
+		{
+			id: "2757B1F3E1DFDA0C"
+			subtitle: "Ethereal Shards are dropped by the Necromancer."
+			tasks: [{
+				id: "178E372E60FFCBAA"
+				item: {
+					Count: 1
+					id: "valoria:ethereal_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 26.5d
+		}
+		{
+			description: [
+				""
+				"{image:valoria:block/cobalt_ore width:100 height:100 align:center}"
+			]
+			id: "16461C5694D69848"
+			subtitle: "Cobalt is found in caves."
+			tasks: [{
+				id: "4A474FB06D07364E"
+				item: {
+					Count: 1
+					id: "valoria:cobalt_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 25.5d
+		}
+		{
+			description: [""]
+			id: "5F9B80CFAEEC96AE"
+			size: 1.2d
+			tasks: [{
+				id: "3A1635C196F79A2C"
+				title: "Tier 3 - Obsidian Tier"
+				type: "checkmark"
+			}]
+			title: "Tier 4 - Netherite Tier"
+			x: -5.3999999999999995d
+			y: 29.4d
+		}
+		{
+			description: ["{image:minecraft:block/ancient_debris_top width:100 height:100 align:center}"]
+			id: "545CB76EBE6999AB"
+			subtitle: "Netherite is found in the Nether below lava pools (Near the bedrock floor)."
+			tasks: [{
+				id: "01BD59B029A700DA"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 32.0d
+		}
+		{
+			description: [
+				""
+				"{image:betterend:block/aeternium_block width:100 height:100 align:center}"
+			]
+			id: "0F0D4B9D58475A24"
+			subtitle: "Aeternium is obtainable by alloying Terminite and Netherite."
+			tasks: [{
+				id: "6F3A8550575A626A"
+				item: {
+					Count: 1
+					id: "betterend:aeternium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 41.5d
+		}
+		{
+			description: [
+				""
+				"{image:legendary_monsters:block/enderitium_ore width:100 height:100 align:center}"
+			]
+			id: "37E73056E1CE55E2"
+			subtitle: "Enderitium is found in the End."
+			tasks: [{
+				id: "779D8A988E3D762A"
+				item: {
+					Count: 1
+					id: "legendary_monsters:enderitium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 35.0d
+		}
+		{
+			description: [
+				""
+				"{image:caverns_and_chasms:block/necromium_block width:100 height:100 align:center}"
+			]
+			id: "546BF2CE88460AB7"
+			subtitle: "Necromium is craftable with Silver and Netherite."
+			tasks: [{
+				id: "3C4C0631F7FD69F1"
+				item: {
+					Count: 1
+					id: "caverns_and_chasms:necromium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 33.5d
+		}
+		{
+			id: "23DEBAD8A167DC0B"
+			size: 1.2d
+			tasks: [{
+				id: "0582C9455FADBF73"
+				title: "Tier 3 - Obsidian Tier"
+				type: "checkmark"
+			}]
+			title: "Tier 5 - Virentium Tier"
+			x: -5.5d
+			y: 38.0d
+		}
+		{
+			description: [
+				""
+				"{image:terramity:block/gaianite_cluster_ore width:100 height:100 align:center}"
+			]
+			id: "79BB0E85610B74DC"
+			tasks: [{
+				id: "3367895E99478CCC"
+				item: {
+					Count: 1
+					id: "terramity:virentium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 40.0d
+		}
+		{
+			description: [
+				""
+				"{image:valoria:block/picrite_jade_ore width:100 height:100 align:center}"
+			]
+			id: "256186DA8C26B012"
+			subtitle: "Jade is found in Valoria."
+			tasks: [{
+				id: "5A3FFE3F8C209F35"
+				item: {
+					Count: 1
+					id: "valoria:jade_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 40.0d
+		}
+		{
+			id: "6ACB1BC5756364A2"
+			tasks: [{
+				id: "43D1CE285B48D164"
+				item: {
+					Count: 1
+					id: "terramity:iridium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 45.0d
+		}
+		{
+			id: "3BEC7AA40739DDB7"
+			tasks: [{
+				id: "07A4772416AB0C71"
+				item: {
+					Count: 1
+					id: "terramity:dimlite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 43.0d
+		}
+		{
+			id: "784F4A53BF9734F4"
+			tasks: [{
+				id: "3EFF8923010C35DE"
+				item: {
+					Count: 1
+					id: "terramity:cosmilite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 43.0d
+		}
+		{
+			id: "2635CD1C05847A77"
+			size: 1.2d
+			tasks: [{
+				id: "12C8314B1D0D8330"
+				title: "Tier 3 - Obsidian Tier"
+				type: "checkmark"
+			}]
+			title: "Tier 5 - Virentium Tier"
+			x: -5.5d
+			y: 48.0d
+		}
+		{
+			id: "5017DAEE0A833C08"
+			tasks: [{
+				id: "504D2DA509320A19"
+				item: {
+					Count: 1
+					id: "terramity:hellspec_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 51.5d
+		}
+		{
+			id: "6D64E2787B64395B"
+			tasks: [{
+				id: "5D99A426ADD13BB6"
+				item: {
+					Count: 1
+					id: "terramity:conductite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 50.5d
+		}
+		{
+			id: "08DE5FD8AEA5CB1F"
+			tasks: [{
+				id: "72DBBBF867F4F175"
+				item: {
+					Count: 1
+					id: "valoria:aquarius_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 60.5d
+		}
+		{
+			id: "14AFE53A7D358430"
+			tasks: [{
+				id: "763B496B41F56838"
+				item: {
+					Count: 1
+					id: "valoria:void_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 59.0d
+		}
+		{
+			id: "7B087B002F0B7CA6"
+			tasks: [{
+				id: "4A683D98B8D1279D"
+				item: {
+					Count: 1
+					id: "terramity:void_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 51.5d
+		}
+		{
+			id: "7FF5CCDD2BA65AE0"
+			tasks: [{
+				id: "03943F87F6CE3E9B"
+				item: "allthemodium:allthemodium_pickaxe"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 62.0d
+		}
+		{
+			id: "4B8EA9259E7FAEE9"
+			tasks: [{
+				id: "028B187F9555CA45"
+				item: {
+					Count: 1
+					id: "valoria:infernal_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 60.5d
+		}
+		{
+			id: "20C2FB12F5DFC672"
+			tasks: [{
+				id: "5681176F329EF402"
+				item: {
+					Count: 1
+					id: "enigmaticlegacy:etherium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 53.0d
+		}
+		{
+			id: "351248C9FD81FB38"
+			tasks: [{
+				id: "7445E81346B544AB"
+				item: {
+					Count: 1
+					id: "valoria:nature_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 52.5d
+		}
+		{
+			id: "2F6F4A4744D888CE"
+			tasks: [{
+				id: "0DA8795F26470759"
+				item: {
+					Count: 1
+					id: "valoria:crimtane_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 52.5d
+		}
+		{
+			id: "7E8EB6DE38A5C558"
+			size: 1.2d
+			tasks: [{
+				id: "7BF4C25D150791DC"
+				title: "Tier 3 - Obsidian Tier"
+				type: "checkmark"
+			}]
+			title: "Tier 5 - Virentium Tier"
+			x: -5.5d
+			y: 57.0d
+		}
+		{
+			id: "75478F545D544670"
+			tasks: [{
+				id: "6299F72D220DBB1D"
+				title: "Tier 3.5"
+				type: "checkmark"
+			}]
+			title: "Tier 3.5 - Cobalt Tier"
+			x: -5.5d
+			y: 23.0d
+		}
+		{
+			id: "3A04076DEE9E9707"
+			tasks: [{
+				id: "65CDE0EE8A44632F"
+				item: "terramity:gaianite_cluster"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 40.0d
+		}
+		{
+			id: "5064BCF16346967B"
+			tasks: [{
+				id: "2BB8B02AB3724471"
+				item: "terramity:untapped_dimlite"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 43.0d
+		}
+		{
+			id: "514787FF3C407EC3"
+			tasks: [{
+				id: "5CCC64DBED97A8F5"
+				item: "terramity:raw_cosmilite"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 43.0d
+		}
+		{
+			id: "4B245E7286A17D46"
+			tasks: [{
+				id: "58111132B088F5A1"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 32.0d
+		}
+		{
+			description: [
+				""
+				"{image:k_balance:block/krushk_ore2 width:100 height:100 align:center}"
+			]
+			id: "1F6F1CA428FAF138"
+			subtitle: "Multi-Dimensional ore."
+			tasks: [{
+				id: "039B9ABB1A15FB4B"
+				item: {
+					Count: 1
+					id: "k_balance:krushk_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: 10.0d
+		}
+		{
+			id: "5273C8464223FCC0"
+			tasks: [{
+				id: "40BD440D0C3F9F81"
+				item: {
+					Count: 1
+					id: "ancient_elements:steel_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: 11.5d
+		}
+		{
+			id: "7D60EFB98FDA3DF4"
+			tasks: [{
+				id: "528B1FFA2538E8C1"
+				item: {
+					Count: 1
+					id: "ancient_elements:lead_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 11.5d
+		}
+		{
+			id: "3424A69D33240454"
+			tasks: [{
+				id: "13F6041A8013776C"
+				item: {
+					Count: 1
+					id: "ancient_elements:tin_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			id: "0B3FB00B600A0E3C"
+			tasks: [{
+				id: "05C8DA2FEE3BD55F"
+				item: {
+					Count: 1
+					id: "iter_rpg:magmanum_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 10.0d
+		}
+		{
+			id: "7B9FC6EFE88FB92A"
+			tasks: [{
+				id: "7B3D2F777AB4195B"
+				item: {
+					Count: 1
+					id: "dungeons_and_combat:silver_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 11.5d
+		}
+		{
+			id: "7A824282392E0385"
+			tasks: [{
+				id: "52D53BB01ED9285A"
+				item: {
+					Count: 1
+					id: "smc:perkin_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 10.0d
+		}
+		{
+			id: "6BC9DF715E6964CD"
+			tasks: [{
+				id: "3E2B2C881D933FDF"
+				item: {
+					Count: 1
+					id: "eidolon:silver_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 8.5d
+		}
+		{
+			id: "0C84C472273AB903"
+			tasks: [{
+				id: "7C0655D5354E95E2"
+				item: {
+					Count: 1
+					id: "caverns_and_chasms:silver_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: 8.5d
+		}
+		{
+			id: "2E351CBBE5A86FBF"
+			subtitle: "Undergarden exclusive."
+			tasks: [{
+				id: "423752339A0BF16C"
+				item: {
+					Count: 1
+					id: "undergarden:froststeel_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 8.5d
+		}
+		{
+			id: "5650F86A99A32F6B"
+			tasks: [{
+				id: "64D400D8871BCD0E"
+				item: {
+					Count: 1
+					id: "undergarden:cloggrum_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			description: [
+				""
+				"{image:ancient_elements:block/palladium_ore width:100 height:100 align:center}"
+			]
+			id: "38EB0D74C2FF8E7C"
+			tasks: [{
+				id: "4CA22961C7E73A28"
+				item: {
+					Count: 1
+					id: "ancient_elements:palladium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 14.5d
+		}
+	]
+	title: "&#5AA8FFO&#61A1F4r&#6899E9e &#7E83C8\\& &#8C75B1A&#936EA6l&#9B669Bl&#A25F90o&#A95885y &#B7496FP&#BE4264r&#C63A59o&#CD334Eg&#D42C43r&#DB2537e&#E21D2Cs&#E91621s&#F10F16i&#F8070Bo&#FF0000n"
+}

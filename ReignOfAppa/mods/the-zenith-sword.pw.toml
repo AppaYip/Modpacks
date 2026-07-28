@@ -1,0 +1,13 @@
+name = "The Zenith Sword"
+filename = "zenith-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38d0009c48bb4303c3e871d6fcff94b41de6cdf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7479514
+project-id = 1414386

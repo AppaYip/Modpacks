@@ -1,0 +1,829 @@
+{
+	autofocus_id: "319DCF0EEB54E158"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "armor_sets"
+	group: "30D554BA21B94801"
+	icon: "irons_spellbooks:armor_pile"
+	id: "63EADC69451C2785"
+	images: [
+		{
+			height: 1.5d
+			hover: ["Tier 1 - Leather"]
+			image: "ieor:textures/ftbquesttitles/tierone1.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 8.0d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			hover: ["Tier 2 - Iron"]
+			image: "ieor:textures/ftbquesttitles/tiertwo2.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 18.5d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			hover: ["Tier 3 - Diamond"]
+			image: "ieor:textures/ftbquesttitles/tierthree3.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 30.0d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			hover: ["Tier 4 - Netherite"]
+			image: "ieor:textures/ftbquesttitles/tierfour4.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 42.0d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			hover: ["Tier 5 - Scoria"]
+			image: "ieor:textures/ftbquesttitles/tierfive5.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 51.5d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			hover: ["Tier 6 - Spectral"]
+			image: "ieor:textures/ftbquesttitles/tiersix6.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 62.5d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			image: "ieor:textures/ftbquesttitles/tierseven.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 74.0d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			image: "ieor:textures/ftbquesttitles/tiereight.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 86.5d
+			y: 5.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The tiers represent different stages of progression that include some armor sets with the following defense in order:"
+				""
+				"Tier I - Defense 0-5 on chestplate"
+				"Tier II - Defense 6-7 on chestplate"
+				"Tier III - Defense 8 on chestplate"
+				"Tier IV - Defense 9-11 on chestplate"
+				"Tier V - Defense 12-13 on chestplate"
+				"Tier VI - Defense 14-15 on chestplate"
+				"&k&5Tier VII - Defense 15+ on chestplate&r&r"
+				""
+				"There are only sets with abilities or magic spell power buffs that are included in this chapter. There aren't MOSTLY any ore/non ability sets."
+				"{@pagebreak}"
+				"Some armor sets may have lesser defense while being in a higher tier. This is because some sets have other qualities that make them rank so high up."
+				""
+				"Also, there are sometimes half-sets which means that armor set isn't finished (Has 1-2 pieces of armor missing) but some are still included because of their great synnergy with other parts of armor from different sets."
+			]
+			id: "319DCF0EEB54E158"
+			rewards: [{
+				id: "3426B07A80AE3A30"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "293E4EE50361418E"
+				title: "Armor Sets"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["088AB1B168138721"]
+			id: "14372F20014BD488"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "43A35813AB7D2E85"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/leather)"
+					}
+				}
+				title: "Any #forge:armor/leather"
+				type: "item"
+			}]
+			title: "Tier I - Basic"
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			id: "4EED161427503CE5"
+			tasks: [
+				{
+					id: "43F6CD3180C06D7F"
+					item: {
+						Count: 1
+						id: "iter_rpg:azure_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "147F3B2874832210"
+					item: {
+						Count: 1
+						id: "iter_rpg:azure_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28AA9178074B43DB"
+					item: {
+						Count: 1
+						id: "iter_rpg:azure_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34198B7FEA75A2B6"
+					item: {
+						Count: 1
+						id: "iter_rpg:azure_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Azure Set"
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			id: "69F7E0262BFAD126"
+			tasks: [
+				{
+					id: "1A91B1D4D67315F7"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_mask"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "007BE362544364C5"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "099B911389E7C3F6"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D872E0245017ABF"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Hazmat Set"
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			id: "7FEC226F2355FCF5"
+			tasks: [
+				{
+					id: "1EC05D7F50B735B4"
+					item: {
+						Count: 1
+						id: "dungeons_and_combat:exiled_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71D156948B1082CC"
+					item: {
+						Count: 1
+						id: "dungeons_and_combat:exiled_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Exiled Half-Set"
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			id: "0A2EF285B220464D"
+			tasks: [
+				{
+					id: "7044D2D4AC364DDE"
+					item: {
+						Count: 1
+						id: "minecraft:golden_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "49D92D7DBF504DCA"
+					item: {
+						Count: 1
+						id: "minecraft:golden_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F516421996A63FF"
+					item: {
+						Count: 1
+						id: "minecraft:golden_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2085C25F72EE2DC6"
+					item: {
+						Count: 1
+						id: "minecraft:golden_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			id: "25953A7277D50429"
+			tasks: [
+				{
+					id: "6484C05A44412E82"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "280D07D70E613F09"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2DF2D86A9B975628"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0CAB5C6318C21290"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			id: "4188108452C9DD84"
+			tasks: [
+				{
+					id: "7B58D47BA8B67FE8"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "75068A030CA872DF"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6545859C3907CE90"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78F79400D42AFEB9"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			id: "23EA6A600C6DFC65"
+			tasks: [
+				{
+					id: "5C9E352C1B160500"
+					item: {
+						Count: 1
+						id: "iter_rpg:damned_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DFD49D0A17A2540"
+					item: {
+						Count: 1
+						id: "iter_rpg:damned_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3AD251A48DDA56FC"
+					item: {
+						Count: 1
+						id: "iter_rpg:damned_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52E7EE7A2848C8C8"
+					item: {
+						Count: 1
+						id: "iter_rpg:damned_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			id: "32259F22CB851A3A"
+			tasks: [
+				{
+					id: "230A862BD6175451"
+					item: {
+						Count: 1
+						id: "composite_material:copper_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52B674D12B3A864F"
+					item: {
+						Count: 1
+						id: "composite_material:copper_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "015EE3169EC86782"
+					item: {
+						Count: 1
+						id: "composite_material:copper_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7287EA4238D3F485"
+					item: {
+						Count: 1
+						id: "composite_material:copper_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2AC3C245FA00BA8D"]
+			id: "09CC017E5B74E4CA"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "6A3BDEE253172DE6"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/iron)"
+					}
+				}
+				title: "Any #forge:armor/iron"
+				type: "item"
+			}]
+			title: "Tier II - Standard"
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			id: "09249DE0C2787B0A"
+			tasks: [
+				{
+					id: "58BF75819F799C95"
+					item: {
+						Count: 1
+						id: "ancient_elements:lead_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E0EC321ED728E64"
+					item: {
+						Count: 1
+						id: "ancient_elements:lead_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71061E8E4E5EF915"
+					item: {
+						Count: 1
+						id: "ancient_elements:lead_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79797161A7A39CA9"
+					item: {
+						Count: 1
+						id: "ancient_elements:lead_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			id: "088AB1B168138721"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "0008A24D94DBC460"
+				item: "sniffsweapons:binding_string"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -8.0d
+		}
+		{
+			id: "2AC3C245FA00BA8D"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "7B303765745C53D0"
+				item: "astral_calamity_extras:wrought_armor_plating"
+				type: "item"
+			}]
+			x: 18.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["12992EB3C66CD031"]
+			description: [""]
+			id: "1304F42EF650221F"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "3E0A541172C596C1"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/diamond)"
+					}
+				}
+				title: "Any #forge:armor/diamond"
+				type: "item"
+			}]
+			title: "Tier III - Advanced"
+			x: 30.0d
+			y: -0.5d
+		}
+		{
+			id: "12992EB3C66CD031"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "09842BB9C785BF86"
+				item: "mmt:cobalt_plate"
+				type: "item"
+			}]
+			x: 30.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["23AA7B69262D09A0"]
+			description: [""]
+			id: "011E4E5EFDC37609"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "132FCED8AA9D4C59"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/netherite)"
+					}
+				}
+				title: "Any #forge:armor/netherite"
+				type: "item"
+			}]
+			title: "Tier IV - Reinforced"
+			x: 42.0d
+			y: -0.5d
+		}
+		{
+			id: "23AA7B69262D09A0"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "44B4EBEEF22021A0"
+				item: "born_in_chaos_v1:armor_plate_from_dark_metal"
+				type: "item"
+			}]
+			x: 42.0d
+			y: -8.0d
+		}
+		{
+			id: "5DDABF2F284FE29E"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "2C7A7DFDDFAC627A"
+				item: "mmt:abiding_alloy_plate"
+				type: "item"
+			}]
+			x: 74.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["5DDABF2F284FE29E"]
+			description: [""]
+			id: "45B71503F1862193"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "569E9F86977B6D4D"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/celestium)"
+					}
+				}
+				title: "Any #forge:armor/celestium"
+				type: "item"
+			}]
+			title: "Tier VII - Champion"
+			x: 74.0d
+			y: -0.5d
+		}
+		{
+			id: "4E2202DE4D7940D8"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "7A006AD3F219E2D0"
+				item: "mmt:lunium_nova_plate"
+				type: "item"
+			}]
+			x: 62.5d
+			y: -8.0d
+		}
+		{
+			id: "63701AA3CFCBDC15"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "558EBA0270DD269B"
+				item: "kubejs:molten_vulcanic_sheetmetal"
+				type: "item"
+			}]
+			x: 52.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["63701AA3CFCBDC15"]
+			description: [""]
+			id: "35409E3C1FE38439"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "7DFEB63498D2BEC7"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/scoria)"
+					}
+				}
+				title: "Any #forge:armor/scoria"
+				type: "item"
+			}]
+			title: "Tier V - Superior"
+			x: 52.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4E2202DE4D7940D8"]
+			description: [""]
+			id: "5A7C044B9DAD3CB8"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "45D5E8A7F39F2222"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/spectrillium)"
+					}
+				}
+				title: "Any #forge:armor/spectrillium"
+				type: "item"
+			}]
+			title: "Tier VI - Resistant"
+			x: 62.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["260540FB4400AB70"]
+			description: [""]
+			id: "2A36644B912E4022"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "56B318E3329ADD1E"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:armor/ethereal)"
+					}
+				}
+				title: "Any #forge:armor/ethereal"
+				type: "item"
+			}]
+			title: "Tier VIII - Godlike"
+			x: 86.5d
+			y: -0.5d
+		}
+		{
+			id: "260540FB4400AB70"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "6D9C395F9C4E7A8A"
+				item: "ancient_elements:alloy_of_elements"
+				type: "item"
+			}]
+			x: 86.5d
+			y: -8.0d
+		}
+	]
+	title: "&#946237Armor Sets&r"
+}

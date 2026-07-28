@@ -1,0 +1,13 @@
+name = "DisableAlltheores"
+filename = "disablealltheores-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ce71c4bb407a60c276e23770d26af3ccabb81aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7941161
+project-id = 1451159

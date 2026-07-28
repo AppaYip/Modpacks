@@ -1,0 +1,12 @@
+{
+	id: "66F103466AEB25F7"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ item: "refinedstorage:1k_storage_disk", weight: 0.5f }
+		{ item: "refinedstorage:4k_storage_disk", weight: 0.3f }
+		{ item: "refinedstorage:16k_storage_disk", weight: 0.2f }
+		{ item: "refinedstorage:64k_storage_disk", weight: 0.1f }
+	]
+	title: "Storage Rewards"
+}

@@ -1,0 +1,12 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flames_of_the_nether"
+	group: "2638C4868A19C93C"
+	id: "3E4B936B247C807A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Flames of the Nether"
+}

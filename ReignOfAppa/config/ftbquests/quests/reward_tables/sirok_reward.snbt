@@ -1,0 +1,20 @@
+{
+	id: "132B00196DA2179F"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "endrem:old_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ count: 6, item: "cataclysm:ancient_metal_ingot", random_bonus: 6 }
+		{ count: 12, item: "astral_calamity_extras:sandworm_scale", random_bonus: 12 }
+		{ count: 4, item: "dungeons_and_combat:blessed_dust", random_bonus: 4 }
+	]
+	title: "Sirok reward"
+}

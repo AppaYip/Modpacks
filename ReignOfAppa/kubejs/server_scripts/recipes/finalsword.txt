@@ -1,0 +1,32 @@
+   event.custom({
+    type: "create:mechanical_crafting",
+    pattern: [
+        " DBH ",
+        "AEFGA",
+        "JKILM",
+        "ANOPA",
+        " CQC "
+    ],
+    key: {
+        A: { item: "armageddon_mod:eclipsium_alloy" },
+        B: { item: "kubejs:quantum_alloy" },
+        C: { item: "celestisynth:celestial_netherite_ingot" },
+        D: { item: "cataclysm_spellbooks:murasama_blade" },
+        E: { item: "hazennstuff:legionnaire_warlock_axe" },
+        F: { item: "traveloptics:galenic_polarizer" },
+        G: { item: "hazennstuff:ice_pike" },
+        H: { item: "traveloptics:trident_of_the_eternal_maelstrom" },
+        I: { item: "smc:excalibur" },
+        J: { item: "lethality:defiled_greatsword" },
+        K: { item: "brutality:deathsaw" },
+        L: { item: "brutality:event_horizon" },
+        M: { item: "hazennstuff:the_devourer" },
+        N: { item: "lethality:devils_devastation"},
+        O: { item: "lethality:starlight"},
+        P: { item: "traveloptics:the_obliterator"},
+        Q: { item: "traveloptics:voidstrike_reaper"}
+    },
+    result: {
+        item: "lethality:gaels_greatsword"
+    }
+})

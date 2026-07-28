@@ -1,0 +1,13 @@
+name = "Mellow"
+filename = "Mellow Shader v3.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9b6c22d2da4d793f9949524e18bf8d7dd1b5f27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7981160
+project-id = 1113130

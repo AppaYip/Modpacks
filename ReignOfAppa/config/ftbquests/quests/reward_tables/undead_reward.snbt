@@ -1,0 +1,43 @@
+{
+	id: "793978DFC50E2941"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "brutality:blood_pack"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "endrem:undead_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "traveloptics:blood_echo"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "brutality:blood_clot_anklet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ count: 18, item: "irons_spellbooks:blood_vial", random_bonus: 6 }
+	]
+	title: "Undead Reward"
+}

@@ -1,0 +1,13 @@
+name = "Pixion's Rebrush"
+filename = "Pixion's Rebrush v1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cec07ae6ac32ec7970fb065f83a37fc83744f56f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8116078
+project-id = 1447660

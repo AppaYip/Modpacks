@@ -1,0 +1,801 @@
+{
+	autofocus_id: "7C66BE0FE573C2D9"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "infernum_bosses"
+	group: "7E4DAE23B4B00652"
+	icon: "born_in_chaos_v1:lifestealer_skull"
+	id: "17C9990AE0400A03"
+	images: [
+		{
+			dependency: "0AD693933FBD66D2"
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/resonance.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependency: "7C66BE0FE573C2D9"
+			height: 2.0d
+			image: "cataclysm:item/void_eye"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			height: 1.4d
+			image: "valoria:item/pyratite_crystal"
+			rotation: 0.0d
+			width: 1.4d
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependency: "3FCCA0CA67959FA9"
+			height: 1.2d
+			image: "traveloptics:particle/cursed_blast_3"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 12.0d
+		}
+		{
+			dependency: "149ACE565DBC0C6A"
+			height: 2.4d
+			image: "cataclysm:item/cursed_eye"
+			rotation: 0.0d
+			width: 2.4d
+			x: -4.5d
+			y: 12.0d
+		}
+		{
+			height: 1.4d
+			image: "valoria:item/pyratite_crystal"
+			rotation: 90.0d
+			width: 1.4d
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			height: 1.4d
+			image: "valoria:item/pyratite_crystal"
+			rotation: -90.0d
+			width: 1.4d
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			height: 1.4d
+			image: "valoria:item/pyratite_crystal"
+			rotation: 180.0d
+			width: 1.4d
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependency: "3FCCA0CA67959FA9"
+			height: 2.0d
+			image: "traveloptics:item/smithing_template/witherite_upgrade_smithing_template"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 12.0d
+		}
+		{
+			dependency: "0EE03ED3C947A388"
+			height: 2.0d
+			image: "cataclysm:item/necklace_of_the_desert"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.0d
+			y: 16.5d
+		}
+		{
+			dependency: "1E963A958C748A94"
+			height: 2.0d
+			image: "placebo:textures/wings/angel.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 22.5d
+		}
+		{
+			dependency: "5155652A8307FBFF"
+			height: 2.0d
+			image: "cataclysm:item/lacrima"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.0d
+			y: 19.0d
+		}
+		{
+			dependency: "0EE03ED3C947A388"
+			height: 2.0d
+			image: "brutality:item/sword/hf_murasama/hf_murasama_inventory"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 14.5d
+		}
+		{
+			dependency: "499988096F660A43"
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/calamity.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: 24.5d
+		}
+		{
+			dependency: "499988096F660A43"
+			height: 5.0d
+			image: "cataclysm:textures/entity/leviathan/portal/abyss_portal_idle_2.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.0d
+			y: 27.0d
+		}
+		{
+			height: 2.0d
+			image: "ancient_elements:particle/infernal_explosion"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.0d
+			y: 29.5d
+		}
+		{
+			height: 2.0d
+			image: "legendary_monsters:particle/annihilation_explosion_2"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 32.5d
+		}
+		{
+			height: 6.0d
+			image: "terramity:block/hexing_circle"
+			rotation: 0.0d
+			width: 6.0d
+			x: 0.0d
+			y: 39.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0AD693933FBD66D2"]
+			id: "7C66BE0FE573C2D9"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "6D5CEF4AA6EA2501"
+				title: "Infernum Bosses"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C66BE0FE573C2D9"]
+			description: [
+				"The Ender Guardian was the first shulker who looked an enderman in the eyes. However he didn't look a NORMAL enderman in the eyes. It was Vaedric, the fallen wanderer. Vaedric got angry and basically threw him into the void. The shulker was falling and falling, but when he finally had the cooldown to teleport, he teleported into an end lab where they studied him and made him into a giant endstone golem. They installed mental blocks so he couldn't teleport away, and now he's known as the Astral Wrath."
+				""
+				"Race - Golem"
+				"Type - Shulker"
+				"Element - Ender"
+				"Threat Level - &a☠☠&r"
+			]
+			hide_dependency_lines: true
+			icon: "cataclysm:ender_guardian_spawn_egg"
+			id: "5986590B73F1D105"
+			rewards: [{
+				id: "28338808F2894F63"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "diamondtier"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:ender_guardian_spawn_egg"
+				id: "6F4C398B6EF07845"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#B300FF&lA&#B306FA&ls&#B40CF6&lt&#B412F1&lr&#B518EC&la&#B51DE7&ll &#B629DE&lW&#B62FD9&lr&#B735D4&la&#B73BD0&lt&#B841CB&lh&#B847C6&l, &#B952BD&lt&#B958B8&lh&#BA5EB3&le &#BB6AAA&lE&#BB70A5&ln&#BB76A0&ld&#BC7B9B&le&#BC8197&lr &#BD8D8D&lG&#BD9289&lu&#BE9785&la&#BE9C81&lr&#BEA17D&ld&#BEA679&li&#BFAB75&la&#BFB071&ln"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5986590B73F1D105"]
+			description: [
+				"The Ender Guardian was the first shulker who looked an enderman in the eyes. However he didn't look a NORMAL enderman in the eyes. It was Vaedric, the fallen wanderer. Vaedric got angry and basically threw him into the void. The shulker was falling and falling, but when he finally had the cooldown to teleport, he teleported into an end lab where they studied him and made him into a giant endstone golem. They installed mental blocks so he couldn't teleport away, and now he's known as the Astral Wrath."
+				""
+				"Threat Level - &a☠☠&r"
+				"Theme - GTSD Boss 3 &e(Machinae Supremacy)&r"
+			]
+			icon: "irons_spellbooks:tyros_statue"
+			id: "149ACE565DBC0C6A"
+			rewards: [{
+				id: "00E2C60163178645"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "diamondtier"
+			tasks: [{
+				entity: "irons_spellbooks:fire_boss"
+				icon: "irons_spellbooks:tyros_statue"
+				id: "731726A99613A320"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#2F2116&lT&#372515&ly&#3E2814&lr&#462C14&lo&#4E3013&ls&#563412&l, &#653B10&lt&#6D3F0F&lh&#74430F&le &#844A0D&lF&#8B4E0C&li&#93520B&lr&#9B550B&ls&#A3590A&lt &#B26108&lF&#BA6407&ll&#C16807&la&#C96C06&lm&#D17005&le&#D87304&lb&#E07703&le&#E87B02&la&#F07F02&lr&#F78201&le&#FF8600&lr"
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["149ACE565DBC0C6A"]
+			id: "696297E145301DB7"
+			subtitle: "A valuable metal found in locked chests."
+			tasks: [{
+				id: "437C12023EF36C87"
+				item: "irons_spellbooks:pyrium_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Pyrium!"
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["5986590B73F1D105"]
+			id: "57D9B15F93522BBB"
+			tasks: [{
+				id: "40FAE7B727EE3279"
+				item: "traveloptics:void_spellweave_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Voidweave Ingots!"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["149ACE565DBC0C6A"]
+			description: [
+				"Maledictus is a cursed frozen paladin with wings that was exiled to the Frozen Prison. It weilds the power of ice and that's because he killed many frozen creatures. He hides within his prison and until disturbed will not start to fight."
+				""
+				"Race - Knight"
+				"Type - Cold"
+				"Element - Ice"
+				"Threat Level - &c☠☠☠☠☠&r"
+			]
+			icon: "cataclysm:maledictus_spawn_egg"
+			id: "3FCCA0CA67959FA9"
+			rewards: [{
+				id: "3F5E762A59699BA2"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "diamondtier"
+			subtitle: "\"The first frostbearer\""
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: "cataclysm:maledictus_spawn_egg"
+				id: "4910355CE722214D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFA500&lT&#EDAB0F&lh&#DBB21F&le &#B6BF3D&lH&#A4C54C&lo&#92CC5C&la&#80D26B&lr&#6DD87A&lf&#5BDF8A&lr&#49E599&lo&#37ECA8&ls&#24F2B7&lt&#12F9C7&l, &#00FFD6&lM&#00FFD6&la&#00FFD6&ll&#00FFD6&le&#00FFD6&ld&#00FFD6&li&#00FFD6&lc&#00FFD6&lt&#00FFD6&lu&#00FFD6&ls"
+			x: -4.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3FCCA0CA67959FA9"]
+			id: "45A3E5647BB12079"
+			subtitle: "A frozen, soul-filled metal dropped by Maledictus."
+			tasks: [{
+				id: "5FB600305790E9B5"
+				item: "cataclysm:cursium_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Cursium!"
+			x: -6.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3FCCA0CA67959FA9"]
+			description: [
+				"\"I remember the last time he has used the wrathful triheaded abomination, it helped us in the cleansing, however it harmed more than it aided. This one though, an upgraded version, seeping with fuel, wires and screws, though a prototype, still capable of untold destruction yet to be unleashed. This was the first time I was not afraid, but disturbed by Erebus. Collecting souls, imprisoning them in a corpse amalgam fueled with a star, and then recreating it entirely. It sits still in the abandoned factory, immovable until charged with the same star that fueled the lesser before...\""
+				""
+				"Threat Level - &4☠☠☠☠☠☠&r"
+				"Theme - Apocalypse Fabrications &e(RGRedsky)&r"
+			]
+			icon: "cataclysm:the_harbinger_spawn_egg"
+			id: "0EE03ED3C947A388"
+			rewards: [
+				{
+					id: "045BADE12849E14B"
+					type: "xp"
+					xp: 80
+				}
+				{
+					id: "253D0FF7DEB610B0"
+					item: "cataclysm:music_disc_the_harbinger"
+					type: "item"
+				}
+			]
+			shape: "goldtier"
+			size: 1.0d
+			subtitle: "\"Yes, he deserves the glaze\""
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:the_harbinger_spawn_egg"
+				id: "2D74CBFA7884DF3A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#C61314&lP&#C61314&lr&#C61314&lo&#C61314&lt&#C61314&lo&#C61314&lt&#C61314&ly&#C11617&lp&#BB191B&le &#B02022&lZ&#AB2325&le&#A62628&lr&#A02A2C&lo&#9B2D2F&l, &#903336&lt&#8B373A&lh&#853A3D&le &#7A4044&lH&#754347&la&#6F474B&lr&#6A4A4E&lb&#654D51&li&#5F5055&ln&#5A5458&lg&#54575C&le&#4F5A5F&lr"
+			x: 2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0EE03ED3C947A388"]
+			description: [
+				"The Ancient Remnant is a dinosaur species that lived in the desert. However, the villagers decided to settle in the desert too. The dinosaurs did not like this, and tried to scare the villagers away. The villagers, shaken up and enraged, talked to their village ancient builder, who is the only builder capable of constructing a serpent artifact capable of imprisoning a desert dinosaur in the desert tomb. The villagers first built the temple, then they cursed it, and it has been resting there for hundereds of years. Today, it's a skeleton, but even stronger than before. You can wake it up in the desert pyramid."
+				""
+				"Race - Dinosaur"
+				"Type - Desert"
+				"Element - Earth"
+				"Threat Level - &c☠☠☠☠☠&r"
+			]
+			icon: "cataclysm:ancient_remnant_spawn_egg"
+			id: "5155652A8307FBFF"
+			rewards: [
+				{
+					id: "61F033ABC4C55D4D"
+					type: "xp"
+					xp: 80
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A458AEB62AFA67B"
+					type: "all_table"
+				}
+			]
+			shape: "goldtier"
+			subtitle: "\"Finally, a suitable host for ka-hor!\""
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: "cataclysm:ancient_remnant_spawn_egg"
+				id: "3EE55674C9192AF3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#6B4513&lD&#6D4716&lu&#6E4919&ln&#704C1C&le&#714E1F&lb&#735022&lo&#745225&lr&#765428&ln&#78572B&le &#7B5B31&lR&#7C5D34&le&#7E6037&ln&#80623A&le&#81643D&lv&#836640&la&#846843&ln&#866B46&lt&#876D49&l, &#8B714E&lt&#8C7351&lh&#8E7654&le &#917A5A&lA&#927C5D&ln&#947E60&lc&#968163&li&#978366&le&#998569&ln&#9A876C&lt &#9E8C72&lR&#9F8E75&le&#A19078&lm&#A2927B&ln&#A4957E&la&#A59781&ln&#A79984&lt"
+			x: -2.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["0EE03ED3C947A388"]
+			id: "47F9A1D947FFEBE3"
+			tasks: [{
+				id: "2FD3568610F02165"
+				item: "cataclysm:witherite_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Witherite!"
+			x: 2.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5155652A8307FBFF"]
+			description: [
+				"Scylla was a human that was very fond of electricity. She was a scientist that was one of the scientists that constructed The Wither. After the great Withering, she decided to make a machine of her own. It failed, catastrophically, and she was badly injured. The core she made - called a Tesla Bulb exploded and infused with her blood. She wanted to rule as she discovered her powers, but failed again because her powers were unstable and they took over, guiding her into an acropolis. She knows she can't escape because of the guards blocking her path and due to her being unable to fly, so she accepted her fate and rests in the center of the arena."
+				""
+				"Race - Human"
+				"Type - Electric"
+				"Element - Electricity"
+				"Threat Level - &e☠☠☠&r"
+			]
+			icon: "cataclysm:scylla_spawn_egg"
+			id: "1E963A958C748A94"
+			rewards: [
+				{
+					id: "451EE3C0D5C1F338"
+					type: "xp"
+					xp: 80
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2DE3C10A641DB0C3"
+					type: "all_table"
+				}
+			]
+			shape: "diamondtier"
+			subtitle: "\"They say lightning doesn't strike tw-\""
+			tasks: [{
+				entity: "cataclysm:scylla"
+				icon: "cataclysm:scylla_spawn_egg"
+				id: "7831A45F1F56580C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFE9AD&lE&#F4E5B1&ly&#E9E0B4&le &#D3D7BB&lo&#C8D3BF&lf &#B1CAC6&lt&#A6C6CA&lh&#9BC1CD&le &#85B8D4&lS&#7AB4D8&lt&#6FAFDB&lo&#64ABDF&lr&#59A6E2&lm&#4EA2E6&l, &#3799ED&lS&#2C95F1&lc&#2190F4&ly&#168CF8&ll&#0B87FB&ll&#0083FF&la"
+			x: 2.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["1E963A958C748A94"]
+			description: [
+				"\"A sacred vessel of the gods, the virtue is a blinding deity that has angellic wings and will obliterate anything that disturbs its eternal rest.\""
+				""
+				"Race - Spirit"
+				"Type - Heavenly"
+				"Threat Level - &c☠☠☠☠☠&r"
+			]
+			icon: "terramity:virtue_spawn_egg"
+			id: "499988096F660A43"
+			rewards: [{
+				id: "2BF288C8A3CB2932"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "diamondtier"
+			size: 1.0d
+			subtitle: "\"Machine, I will cut you down...\""
+			tasks: [{
+				entity: "terramity:virtue"
+				icon: "terramity:virtue_spawn_egg"
+				id: "1BCF3322382EBBD3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFEF6E&lD&#FFF074&le&#FFF07A&li&#FFF180&lt&#FFF286&ly&#FFF28C&l'&#FFF392&ls &#FFF49E&lC&#FFF5A4&ll&#FFF6AA&lo&#FFF6B0&ln&#FFF7B7&le&#FFF8BD&l, &#FFF9C9&lt&#FFFACF&lh&#FFFAD5&le &#FFFCE1&lV&#FFFCE7&li&#FFFDED&lr&#FFFEF3&lt&#FFFEF9&lu&#FFFFFF&le"
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["1E963A958C748A94"]
+			id: "1CEDF8C773DE5952"
+			tasks: [{
+				id: "09509061370AD4F7"
+				item: "cataclysm:essence_of_the_storm"
+				type: "item"
+			}]
+			title: "Unlocking Storm Essence!"
+			x: 4.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["499988096F660A43"]
+			id: "3D12D9044C582DB7"
+			subtitle: "A prevelant material in the use of Reverium alloys."
+			tasks: [{
+				id: "7300E96A70568206"
+				item: "terramity:angel_feather"
+				type: "item"
+			}]
+			title: "Unlocking Angel Feathers!"
+			x: -2.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["499988096F660A43"]
+			description: [
+				"The Leviathan is a deep sea creature that is lurking in the abyss. When you activate the altar, you can summon it and it will awaken, however be prepared. This is a fish unlike any other, as it has improved speed, is very strong and literally invincible outside of water. Oh, most importantly- it can shoot a ginormous laser out of it's mouth."
+				""
+				"Race - Sea Creature"
+				"Type - Leviathan"
+				"Element - Abyssal"
+				"Threat Level - &e☠☠☠&r"
+				"Song - Orbit, Metal Cover"
+			]
+			hide_dependency_lines: true
+			icon: "cataclysm:the_leviathan_spawn_egg"
+			id: "71E92084078D4A7B"
+			rewards: [
+				{
+					id: "274637D09A0D2969"
+					type: "xp"
+					xp: 80
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16A5FB1B0BC72996"
+					type: "all_table"
+				}
+			]
+			shape: "netheritetier"
+			subtitle: "\"Entering ecological deadzone...\""
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:the_leviathan_spawn_egg"
+				id: "6F7416C5094BDA33"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#02000E&lB&#040014&le&#07001B&la&#090021&lr&#0C0027&le&#0E002E&lr &#13003A&lo&#160041&lf &#1B004D&lt&#1D0054&lh&#20005A&le &#250067&lD&#27006D&le&#2A0073&la&#2C007A&ld&#2F0080&ll&#310087&li&#33008D&lg&#360093&lh&#38009A&lt&#3B00A0&ls&#3D00A6&l, &#4200B3&lt&#4500B9&lh&#4700C0&le &#4C00CC&lL&#4F00D3&le&#5100D9&lv&#5400DF&li&#5600E6&la&#5900EC&lt&#5B00F2&lh&#5E00F9&la&#6000FF&ln"
+			x: 3.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["149ACE565DBC0C6A"]
+			description: [
+				"Lord Pumpkinhead is a stronger version of Sir Pumpkinhead, and it has 3 phases: 1. He rides his horse and attacks you with numerous patterns 2. He jumps off of his horse and both him and his horse start attacking you 3. His head deattaches from his body and it's almost invulnerable to ranged attacks."
+				""
+				"Race - Undead"
+				"Type - Horseman"
+				"Element - Curse"
+				"Threat Level - &6☠☠☠☠&r"
+			]
+			icon: "born_in_chaos_v1:lord_pumpkinhead_spawn_egg"
+			id: "2137E782495D95B5"
+			rewards: [
+				{
+					id: "7AECB5428A415779"
+					type: "xp"
+					xp: 80
+				}
+				{
+					exclude_from_claim_all: true
+					id: "543A86BF69F60850"
+					type: "all_table"
+				}
+			]
+			shape: "goldtier"
+			tasks: [{
+				entity: "born_in_chaos_v1:lord_pumpkinhead"
+				icon: "born_in_chaos_v1:lord_pumpkinhead_spawn_egg"
+				id: "1DE23647B6033DC9"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FF9100&lH&#F89200&le&#F09400&la&#E99500&ld&#E19701&ll&#DA9801&le&#D29A01&ls&#CB9B01&ls &#BC9E01&lH&#B4A001&lo&#ADA102&lr&#A5A302&ls&#9EA402&le&#96A602&lm&#8FA702&la&#87A902&ln&#80AA03&l, &#71AD03&lL&#69AE03&lo&#62B003&lr&#5AB103&ld &#4BB404&lP&#44B604&lu&#3CB704&lm&#35B904&lp&#2DBA04&lk&#26BC04&li&#1EBD04&ln&#17BF05&lh&#0FC005&le&#08C205&la&#00C305&ld"
+			x: -3.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["71E92084078D4A7B"]
+			description: [
+				"\"I remember back when Erebus was testing this one. It was one of the strongest sentinels he has ever constructed. Created to bring order to the Nether. All bowed to Ignis, as he was ruthless and did not hesitate to execute. Reinforced with synthetic incandescent metals such as Ignitium, its power is immeasurable. Its defeat will cause its armies to scatter throughout the landscapes. However, as I know Erebus, this is definetly not his last catastrophic construct...\""
+				""
+				"Race - Knight"
+				"Type - Infernal"
+				"Element - Fire"
+				"Threat Level - &6☠☠☠☠&r"
+			]
+			icon: "cataclysm:ignis_spawn_egg"
+			id: "23E940D610750DF0"
+			rewards: [
+				{
+					id: "43C2154B99CFA723"
+					type: "xp"
+					xp: 80
+				}
+				{
+					exclude_from_claim_all: true
+					id: "20A3E557D64D7F60"
+					type: "all_table"
+				}
+			]
+			shape: "goldtier"
+			size: 1.0d
+			subtitle: "\"The orderbringer\""
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: "cataclysm:ignis_spawn_egg"
+				id: "4AEBEF6DF8E0117E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FF7C00&lI&#F77700&ln&#EF7200&lf&#E76E00&le&#DF6900&lr&#D86400&ln&#D05F00&la&#C85B00&ll &#B85100&lM&#B04C00&li&#A84800&ls&#A04300&la&#993E00&ln&#913900&lt&#893400&lh&#813000&lr&#792B00&lo&#712600&lp&#692100&le&#611D00&l, &#521300&lI&#4A0E00&lg&#420A00&ln&#3A0500&li&#320000&ls"
+			x: -2.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["23E940D610750DF0"]
+			description: [
+				"\"I am seeing this machine for the first time too, mortal. I saw what kinds of fearmongering creations he made. I knew of what apocalyptic potential Erebus had. Yet I could have never predicted this. This \"Obliterator\" is truly deadly. It's equipped with weapons no being has ever witnessed. Not even I. I have no knowledge beyond this point. Good luck. You will be tested by it. You, indefinetly will fall too before its wrath..."
+				""
+				"Threat Level - &6☠☠☠☠&r"
+				"Theme - Zenith Fabrications &e(PinPinNeon)&r"
+			]
+			icon: "legendary_monsters:the_obliterator_spawn_egg"
+			id: "69C9B1F7B78DF56D"
+			rewards: [{
+				id: "697E20BEC4504970"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "goldtier"
+			size: 1.0d
+			subtitle: "\"My final machine, your final test.\""
+			tasks: [{
+				entity: "legendary_monsters:the_obliterator"
+				icon: "legendary_monsters:the_obliterator_spawn_egg"
+				id: "6BFEC043B3FEA43E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#2C392B&lE&#2B3F2C&ln&#29442D&li&#284A2E&lg&#27502F&lm&#265530&la&#245B31&lt&#236132&li&#226633&lc &#1F7235&lC&#1E7736&lo&#1D7D37&ln&#1C8338&ls&#1A8839&lt&#198E3A&lr&#18943B&lu&#17993C&lc&#159F3E&lt&#14A43F&l, &#12B041&lt&#10B542&lh&#0FBB43&le &#0DC645&lO&#0BCC46&lb&#0AD247&ll&#09D748&li&#08DD49&lt&#06E34A&le&#05E84B&lr&#04EE4C&la&#03F44D&lt&#01F94E&lo&#00FF4F&lr"
+			x: 2.5d
+			y: 32.5d
+		}
+		{
+			dependencies: [
+				"73613CD2EBEC1AFB"
+				"08E49E8749E783ED"
+			]
+			description: [
+				"\"The Enchanters. What a shame. I thought they had grown in strength. Instead, they hit rock bottom. Humiliating. They had been known for their horrifying actions, their cursed rituals, and their immense sorcering power. I faced them once. We fought for a long time. They were strong then, yet they were no match. Only their final attempt to defeat me was their superior. He too, fell, and I stood victorious. Not much is known about them. Rumors say they hold the world together, even if their acts may disturb others.\""
+				""
+				""
+				"Race - Villager"
+				"Type - Archmage"
+				"Element - Blood"
+				"Threat Level - &4☠☠☠☠☠☠&r"
+			]
+			icon: "terramity:gundalf_spawn_egg"
+			id: "696979CB316F4E7A"
+			rewards: [
+				{
+					id: "440F3680256C346F"
+					type: "xp"
+					xp: 80
+				}
+				{
+					auto: "no_toast"
+					command: "/difficulty4"
+					id: "3F6A9100F1DB8563"
+					type: "command"
+				}
+			]
+			shape: "netheritetier"
+			size: 2.0d
+			subtitle: "\"Your mental fortitude is fading... Losing trust, ending friendship, and rage escalating...\""
+			tasks: [{
+				entity: "terramity:gundalf"
+				icon: "terramity:gundalf_spawn_egg"
+				id: "493E76B798CF7ACF"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#282828&lT&#2C2828&lh&#302828&le &#382828&lS&#3C2727&lu&#402727&lp&#442727&le&#482727&lr&#4C2727&li&#502727&lo&#542727&lr&#582727&l, &#602727&lA&#632626&lr&#672626&lc&#6B2626&lh&#6F2626&lm&#732626&la&#772626&lg&#7B2626&le &#832626&lG&#872626&lu&#8B2525&ln&#8F2525&ld&#932525&la&#972525&ll&#9B2525&lf"
+			x: 0.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["69C9B1F7B78DF56D"]
+			description: ["Threat Level - ☠☠☠"]
+			icon: "terramity:enchanter_merlin_spawn_egg"
+			id: "73613CD2EBEC1AFB"
+			rewards: [{
+				id: "0DEEFAFE95FF3C3D"
+				type: "xp"
+				xp: 120
+			}]
+			shape: "netheritetier"
+			subtitle: "\"Signs of self disappointment start infiltrating...\""
+			tasks: [{
+				entity: "terramity:enchanter_merlin"
+				icon: "terramity:enchanter_merlin_spawn_egg"
+				id: "34AA19AD6B6A5776"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#0083FF&lM&#097EF6&le&#1279ED&lr&#1C75E3&ll&#2570DA&li&#2E6BD1&ln&#3766C8&l, &#4A5DB5&lt&#5358AC&lh&#5C53A3&le &#6F4A90&lE&#784587&lm&#80417F&lp&#883D77&lo&#90396F&lw&#983567&le&#A0315F&lr&#A82D57&le&#B0294F&ld &#BF2040&lE&#C71C38&ln&#CF1830&lc&#D71428&lh&#DF1020&la&#E70C18&ln&#EF0810&lt&#F70408&le&#FF0000&lr"
+			x: -2.5d
+			y: 39.0d
+		}
+		{
+			dependencies: ["69C9B1F7B78DF56D"]
+			description: ["Threat Level - ☠☠☠☠☠"]
+			icon: "terramity:sorceress_circe_spawn_egg"
+			id: "08E49E8749E783ED"
+			rewards: [{
+				id: "4CDDCA073AE08DE4"
+				type: "xp"
+				xp: 120
+			}]
+			shape: "netheritetier"
+			subtitle: "\"Symptoms of paranoia begin invading...\""
+			tasks: [{
+				entity: "terramity:sorceress_circe"
+				icon: "terramity:sorceress_circe_spawn_egg"
+				id: "3C10D461A6A0CB65"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#246900&lC&#2C6500&li&#336200&lr&#3B5E00&lc&#425B00&le&#4A5700&l, &#595000&lt&#604C00&lh&#684800&le &#774100&lB&#7F3E00&lr&#863A00&li&#8E3600&lm&#953300&ls&#9D2F00&lt&#A42B00&lo&#AC2800&ln&#B32400&le &#C31D00&lS&#CA1900&lo&#D21600&lr&#D91200&lc&#E10E00&le&#E80B00&lr&#F00700&le&#F70400&ls&#FF0000&ls"
+			x: 2.5d
+			y: 39.0d
+		}
+		{
+			dependencies: ["696979CB316F4E7A"]
+			id: "3351237BAA60EA23"
+			subtitle: "One of the most important materials in the modpack."
+			tasks: [{
+				id: "7023223C0C805FA2"
+				item: "terramity:antiprism"
+				type: "item"
+			}]
+			title: "Unlocking Antiprism!"
+			x: 0.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["71E92084078D4A7B"]
+			id: "6EDEA4B8214A9BC0"
+			tasks: [{
+				id: "14674E01696FFDCE"
+				item: "traveloptics:abyssal_spellweave_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Abyssweave Ingots!"
+			x: 1.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["2137E782495D95B5"]
+			id: "190760211A5CA957"
+			tasks: [{
+				id: "620F1FB2D5CF7520"
+				item: "born_in_chaos_v1:magical_holiday_candy"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["23E940D610750DF0"]
+			id: "13155D090BAE39FC"
+			tasks: [{
+				id: "3729DC6BB9A54012"
+				item: "traveloptics:flame_tempered_handguard"
+				type: "item"
+			}]
+			title: "Unlocking Flame-Tempered Handguards!"
+			x: -2.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["23E940D610750DF0"]
+			id: "688029507A7CB351"
+			tasks: [{
+				id: "111479A936FBE3E2"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Ignitium!"
+			x: -3.5d
+			y: 29.5d
+		}
+		{
+			dependencies: ["69C9B1F7B78DF56D"]
+			id: "44A608682DFD9492"
+			subtitle: "Can be used to make annihilator's armor."
+			tasks: [{
+				id: "23693627ACA86C7E"
+				item: "legendary_monsters:portal_shard"
+				type: "item"
+			}]
+			title: "Unlocking Portal Shards!"
+			x: 4.5d
+			y: 32.5d
+		}
+		{
+			description: ["\"Erebus and I fought side by side to get rid of all wrongdoings. Though after time, I realized, we were no better than the evil we once sought to extinguish. One, Erebus, experimented on lesser mortals. I, Umbraxis, murdered in cold blood, like they did before. We seperated paths, and I am not sure of what terrifying machines he has designed from then...\""]
+			id: "6F92B9FB26A4FAE4"
+			tasks: [{
+				id: "38C7A1BF89EE4806"
+				title: "Lore Entry: Erebus"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 29.5d
+		}
+	]
+	title: "Reign of Lords"
+}

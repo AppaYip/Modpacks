@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "catastrophes_before_the_calamity"
+	group: "05D993FF468F0B18"
+	icon: "terramity:spectral_soul"
+	id: "0A5F19B297040455"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		description: ["From true Hardmode, to beating Tyros, therefore unlocking the Profaned Age."]
+		id: "0F7D6B61F04989B8"
+		tasks: [{
+			id: "30B455123BFD5A0C"
+			title: "The Awakening"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Catastrophes before the Calamity"
+}

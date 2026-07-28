@@ -1,0 +1,13 @@
+name = "Brutality - A Terramity Addon"
+filename = "brutality-0.8.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8600d1665405db20a5e5177142f324acfb412bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7224161
+project-id = 1298802

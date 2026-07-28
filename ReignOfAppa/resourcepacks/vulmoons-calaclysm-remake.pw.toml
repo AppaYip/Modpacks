@@ -1,0 +1,13 @@
+name = "Vulmoons cataclysm remake"
+filename = "Vulmoons calaclysm remake_0.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "036bbf7e16796645dc3d73ff68c4233f18ca62d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8066785
+project-id = 1359195

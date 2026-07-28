@@ -1,0 +1,13 @@
+name = "difficulty modifier"
+filename = "difficulty_multiplier-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7dccad3506741a553aff7c89d7381cf8bbf65b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7011320
+project-id = 1276432

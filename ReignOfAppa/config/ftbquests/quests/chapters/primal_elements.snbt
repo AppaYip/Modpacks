@@ -1,0 +1,145 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "primal_elements"
+	group: "0566FDA4895DFEF7"
+	icon: "valoria:nature_core"
+	id: "70876C87EEA48A46"
+	images: [
+		{
+			height: 2.0d
+			image: "relics:item/aqua_walker_bubble"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "dungeons_and_combat:particle/acid_flame_gif"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			image: "enigmaticlegacy:item/earth_heart"
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "ancient_elements:particle/frost_attack_new"
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.0d
+			y: 3.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The \"Primal Elements\" are four elements grouped into one, the \"Primal Elements\". These elements have their own magic classes, spells, armors and weapons. This chapter includes:"
+				""
+				"&3-Ice Element (Ice)&r"
+				""
+				"&2-Nature Element (Nature)&r"
+				""
+				"&9-Aqua Element (Water)&r"
+				""
+				"&7-Geo Element (Earth)&r"
+			]
+			id: "6127D99C88EA3518"
+			shape: "gear"
+			tasks: [{
+				id: "50D07E039699FBB0"
+				title: "Primal Elements"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "traveloptics:aqua_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "traveloptics:aqua_power"
+				}
+			}
+			id: "42AA0859C0840646"
+			shape: "hexagon"
+			subtitle: "\"Become an aquamancer\""
+			tasks: [{
+				id: "384E5250A12A4036"
+				type: "checkmark"
+			}]
+			title: "Aqua Path"
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:ice_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:ice_power"
+				}
+			}
+			id: "62DC66CEBD029DA9"
+			shape: "hexagon"
+			subtitle: "\"Become a cryomancer\""
+			tasks: [{
+				id: "2552513FE0600AF6"
+				type: "checkmark"
+			}]
+			title: "Ice Path"
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:nature_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:nature_power"
+				}
+			}
+			id: "4F47B6300E409E00"
+			shape: "hexagon"
+			subtitle: "\"Become a biomancer\""
+			tasks: [{
+				id: "34B51B097EFF9964"
+				type: "checkmark"
+			}]
+			title: "Nature Path"
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "gtbcs_geomancy_plus:geo_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "gtbcs_geomancy_plus:geo_power"
+				}
+			}
+			id: "6CC21632BE6CCE58"
+			shape: "hexagon"
+			subtitle: "\"Become a geomancer\""
+			tasks: [{
+				id: "19C811C33366AA3A"
+				type: "checkmark"
+			}]
+			title: "Geo Path"
+			x: 10.0d
+			y: 3.5d
+		}
+	]
+	title: "Primal Elements"
+}

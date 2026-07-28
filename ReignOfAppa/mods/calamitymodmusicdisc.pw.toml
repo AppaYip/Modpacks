@@ -1,0 +1,13 @@
+name = "CalamityMusicDisc"
+filename = "CalamityMusicDisc1.20.1 1.01.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6410e9e49cec091a44fcd2ff1e441d90748e545e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5397525
+project-id = 962707

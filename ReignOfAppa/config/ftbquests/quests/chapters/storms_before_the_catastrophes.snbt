@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "storms_before_the_catastrophes"
+	group: "05D993FF468F0B18"
+	icon: "terramity:lost_soul"
+	id: "3D0F29E205D319BE"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		description: ["From \"hardmode\", up until True Hardmode, the Trial Guardian."]
+		id: "4A6977B2E2BE51FC"
+		tasks: [{
+			id: "5402576634FE3F6D"
+			title: "The Awakening"
+			type: "checkmark"
+		}]
+		x: -0.5d
+		y: 0.0d
+	}]
+	title: "Storms before the Catastrophes"
+}

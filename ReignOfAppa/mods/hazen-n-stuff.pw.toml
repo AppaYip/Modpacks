@@ -1,0 +1,13 @@
+name = "Hazen 'N Stuff"
+filename = "hazennstuff-watered-down-edition-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c1f91348f92e77e830a569d20733ab13251afe0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7501581
+project-id = 1231627

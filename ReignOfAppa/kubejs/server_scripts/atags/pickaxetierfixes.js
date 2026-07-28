@@ -1,0 +1,4 @@
+ServerEvents.tags('item', event => {
+  event.add('forge:diamond_tools', 'terramity:sapphire_pickaxe', 'terramity:topaz_pickaxe', 'terramity:ruby_pickaxe', 'terramity:onyx_pickaxe', 'undergarden:utherium_pickaxe', 'dungeons_and_combat:blessed_gold_pickaxe', 'elementus:steel_pickaxe', 'ancient_elements:jungle_steel_pickaxe', 'tohiro_ores:wulfrum_pickaxe', 'ancient_elements:palladium_pickaxe', 'meaningfulmaterials:infernium_pickaxe', 'iter_rpg:ametrine_pickaxe', 'unusualend:pearlescent_pickaxe', 'blazegear:brimsteel_pickaxe', 'dungeons_and_combat:sandstone_pickaxe')
+  event.add('forge:iron_tools', 'composite_material:amethyst_pickaxe', 'tohiro_ores:cobalt_pickaxe', 'dungeons_and_combat:silver_pickaxe', 'iter_rpg:magmanum_pickaxe', 'metal_works:rose_gold_pickaxe', 'metal_works:bronze_pickaxe', 'undergarden:froststeel_pickaxe', 'orevolution:platinum_pickaxe')
+})

@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "paradoxx_01",
+      "uniqueId": "5d23874c-e937-45a5-8ae2-cd799f0152d0"
+    },
+    "time": 1780221977978,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5vlaM5doSz"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "paradoxx_01",
+      "uniqueId": "5d23874c-e937-45a5-8ae2-cd799f0152d0"
+    },
+    "time": 1780221898509,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/F1tG82qvT9"
+    }
+  }
+]

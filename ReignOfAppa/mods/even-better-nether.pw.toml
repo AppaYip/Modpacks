@@ -1,0 +1,13 @@
+name = "Even Better Nether"
+filename = "evenbetternether-1.3.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f1b290bc4befb693854b2f0283a2ab3b4e66986"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6547913
+project-id = 1264093

@@ -1,0 +1,11 @@
+{
+	id: "0FFE05876F69B63E"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 4, item: "astral_calamity_extras:gilded_ingot", random_bonus: 4 }
+		{ item: "artifacts:golden_hook" }
+		{ count: 20, item: "minecraft:golden_carrot", random_bonus: 10 }
+	]
+	title: "Lord Reward"
+}

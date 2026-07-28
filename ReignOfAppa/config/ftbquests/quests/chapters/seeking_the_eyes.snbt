@@ -1,0 +1,302 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "seeking_the_eyes"
+	group: "2638C4868A19C93C"
+	icon: "minecraft:ender_eye"
+	id: "1DB0D3308E40D792"
+	images: [{
+		height: 2.0d
+		image: "ieor:textures/otherimages/calamitytextlogo.png"
+		rotation: 0.0d
+		width: 6.0d
+		x: -2.5d
+		y: 5.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2790BE5E00AB4B29"
+			shape: "hexagon"
+			tasks: [{
+				id: "737D6789676770EE"
+				title: "The Eyes"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			icon: "minecraft:end_portal_frame"
+			id: "428EA734BA4C67D4"
+			shape: "hexagon"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_portal_frame"
+				id: "52C056CE37C5ACA3"
+				type: "dimension"
+			}]
+			title: "The End"
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "6600BA2367AFD261"
+			tasks: [{
+				id: "2A9FC93BE8BA0666"
+				item: {
+					Count: 1
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "3FBDF8439C912379"
+			tasks: [{
+				id: "532FD2D5AE0E1059"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			id: "2958C5EC978E1955"
+			tasks: [{
+				id: "55566DE510D80C1F"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			id: "2CAF6D6FA604CFCF"
+			tasks: [{
+				id: "09ECC8DC302EAA62"
+				item: {
+					Count: 1
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			id: "54BFC9670703F640"
+			tasks: [{
+				id: "19A28BAF535ACF6C"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			id: "7A95D351D6932BA1"
+			tasks: [{
+				id: "43CC07774116BD5C"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			id: "22ACECBA90506F7F"
+			tasks: [{
+				id: "4E2D8BF698B18DB4"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "0354C55B8750997D"
+			tasks: [{
+				id: "0D2C06A87CE83583"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "1C5BEA351EB0EEE3"
+			tasks: [{
+				id: "5A8C58D221E7955A"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			id: "52E0640802C7B324"
+			tasks: [{
+				id: "3EE543FAB2DC32EB"
+				item: {
+					Count: 1
+					id: "endrem:guardian_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "5988A3FA75B720A2"
+			tasks: [{
+				id: "4ABCD1D379CE3721"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			id: "1F718EE18D8483E8"
+			tasks: [{
+				id: "16C3FE0E95B93C5B"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "75F674CE5D51F0E7"
+			tasks: [{
+				id: "3195DAD5BE817C85"
+				item: {
+					Count: 1
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			id: "10DAB6F9102359C2"
+			tasks: [{
+				id: "0FCBEEC0B4309632"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "7EDE04710DA7B89E"
+			tasks: [{
+				id: "734433B7BA8699FD"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "56453CF9CE8A82BC"
+			tasks: [{
+				id: "7195E24F0B7FA6ED"
+				item: {
+					Count: 1
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+	title: "Seeking the Eyes"
+}

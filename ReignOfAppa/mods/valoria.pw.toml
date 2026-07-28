@@ -1,0 +1,13 @@
+name = "Valoria"
+filename = "Valoria-1.20.1-1.0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae536463afd8c5cc0c1e948c4cdf58da06e65bf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8070228
+project-id = 698244

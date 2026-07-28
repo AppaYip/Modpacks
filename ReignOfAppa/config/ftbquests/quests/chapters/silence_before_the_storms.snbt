@@ -1,0 +1,539 @@
+{
+	autofocus_id: "73770B5E99018019"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "silence_before_the_storms"
+	group: "05D993FF468F0B18"
+	icon: "terramity:spiteful_soul"
+	id: "2CF8902933BB8A2E"
+	images: [
+		{
+			height: 2.0d
+			image: "cataclysm:item/necklace_of_the_desert"
+			rotation: 0.0d
+			width: 2.0d
+			x: 12.5d
+			y: -10.0d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/sbfts.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/dirt2"
+			rotation: 0.0d
+			width: 1.17d
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/logs/oak_log_x"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/logs/oak_log_x"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/logs/oak_log_x"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/leaves/azalea_leaves_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/leaves/azalea_leaves_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/leaves/azalea_leaves_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/leaves/azalea_leaves_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/leaves/azalea_leaves_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/leaves/azalea_leaves_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/leaves/azalea_leaves_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/dirt2"
+			rotation: 0.0d
+			width: 1.17d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/dirt2"
+			rotation: 0.0d
+			width: 1.17d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/dirt2"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.0d
+			y: 1.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"From the beginning, the Desert Scourge, all the way up until the Ender Dragon."
+				""
+				"-If there is a quest that says \"Locked by _____\", go to the Boss Progression quest chapter to get more info."
+			]
+			id: "73770B5E99018019"
+			rewards: [{
+				id: "2754109C4A65188E"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "1E38DEFDD23E3F08"
+				title: "The Awakening"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2027A6D264BEA1E6"]
+			id: "33B94483DDC27FDC"
+			rewards: [{
+				id: "7C7A0108D7CC02F2"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "\"You'll need this. Forever.\""
+			tasks: [{
+				id: "1CF3CDF5CBA5E78A"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73770B5E99018019"]
+			id: "2027A6D264BEA1E6"
+			rewards: [{
+				id: "65EB203427B6C0D5"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "14859EF2D44DBC8F"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Wood"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["33B94483DDC27FDC"]
+			id: "27A9F725A8C2B827"
+			rewards: [{
+				id: "2EEFD5B41FEF9744"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "22252326BBF5F497"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(composite_material:flint_tools)"
+					}
+				}
+				title: "Any #composite_material:flint_tools"
+				type: "item"
+			}]
+			title: "Flint Tools"
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["33B94483DDC27FDC"]
+			id: "3EC9DE7EB6DCA479"
+			rewards: [{
+				id: "7264488B5E201BBE"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				advancement: "minecraft:story/upgrade_tools"
+				criterion: ""
+				id: "088B4E6DA5F492BD"
+				type: "advancement"
+			}]
+			title: "Stone Tools"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			description: ["The Crystallized Ruins is a structure underwater which may contain some useful items like pearlium - on par with stone and flint tools."]
+			icon: "valoria:crystal_stone"
+			id: "76C1D214EEC2F8E4"
+			rewards: [{
+				id: "1585DD339489E8A4"
+				item: "valoria:pearlium_ingot"
+				random_bonus: 5
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B339C9389923B82"
+				structure: "valoria:crystallized_deep_ruins"
+				type: "structure"
+			}]
+			title: "Crystallzied Ruins"
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"33B94483DDC27FDC"
+				"76C1D214EEC2F8E4"
+			]
+			id: "2D7BBC1B3E149000"
+			rewards: [{
+				id: "2CB6FB66779DF340"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "29950E63C0DE6D8B"
+				item: {
+					Count: 1
+					id: "valoria:pearlium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"3EC9DE7EB6DCA479"
+				"27A9F725A8C2B827"
+				"2D7BBC1B3E149000"
+			]
+			dependency_requirement: "one_completed"
+			description: [""]
+			id: "45A04300F970AF7A"
+			rewards: [{
+				id: "03DDAA8FB8D950A1"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "woodtier"
+			size: 1.2d
+			tasks: [{
+				id: "6463ABE6BC5F07D3"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33B94483DDC27FDC"]
+			id: "2B9777DFE40324C8"
+			tasks: [{
+				id: "080094895416C58A"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			id: "75986320A1A12C22"
+			rewards: [
+				{
+					id: "05BEB16E13EBB570"
+					item: "minecraft:leather"
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "2FB6CF51C2D9A9B5"
+					item: "minecraft:string"
+					random_bonus: 3
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "781086E9B0B86D00"
+					item: "minecraft:leather"
+					type: "item"
+				}
+				{
+					id: "7F3EFE95B4AFAEC1"
+					item: "minecraft:string"
+					type: "item"
+				}
+			]
+			title: "Basic Backpack Materials"
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"2B9777DFE40324C8"
+				"75986320A1A12C22"
+			]
+			id: "25A9277789C4FA02"
+			tasks: [{
+				id: "5F9F5DB0120A4864"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"3EC9DE7EB6DCA479"
+				"27A9F725A8C2B827"
+				"2D7BBC1B3E149000"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "63F65A4459778C38"
+			tasks: [{
+				id: "58ED8C2AD34FB207"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"25A9277789C4FA02"
+				"63F65A4459778C38"
+			]
+			id: "5E505002B07F63B7"
+			tasks: [{
+				id: "30C1AB35A2359CB4"
+				item: "sophisticatedbackpacks:copper_backpack"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"45A04300F970AF7A"
+				"5E505002B07F63B7"
+			]
+			id: "3E5B0D2D681CBB5F"
+			tasks: [{
+				id: "4E828ECB0D3C49F2"
+				item: "sophisticatedbackpacks:iron_backpack"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["684EFEC23F5DBE26"]
+			description: ["This beast of a worm hides in the desert sands, waiting for something to walk by so it can attack it. It sits, frozen in place, then it burrows out and surprise attacks its prey. It can shoot acidic spit which is a feature of its nuclear ancestors. See, long ago, this species lived in the toxic caves, either swimming in the acid, or biting through solid radrock. 99% of all toxic caves were eradicated and evaporated due to a hellish fragment containing a bioweapon that kills radioactive material. It ended up here, dried out, but still alive and evolved."]
+			icon: {
+				Count: 1
+				id: "block_factorys_bosses:sandworm_gauntlet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "39A6A262DA177FD5"
+			rewards: [
+				{
+					command: "/weather thunder"
+					icon: "legendary_monsters:eye_of_sandstorm"
+					id: "30E4C8DC9D3F3717"
+					type: "command"
+				}
+				{
+					id: "2940C2004720A71D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "rsquare"
+			subtitle: "\"I've lost all ambition, of worldly aclaim\""
+			tasks: [{
+				entity: "block_factorys_bosses:sandworm"
+				id: "2C8E942DBB267521"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#789258&lD&#7A8F52&le&#7D8B4C&ls&#7F8846&le&#828440&lr&#84813A&lt &#897A2F&lS&#8C7729&lc&#8E7423&lo&#91701D&lu&#936D17&lr&#966911&lg&#98660B&le"
+			x: 12.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["53CD04E9FD898EE9"]
+			id: "684EFEC23F5DBE26"
+			rewards: [
+				{
+					command: "/locate structure block_factorys_bosses:sandworm_nest"
+					id: "29BA202A67CA15D4"
+					type: "command"
+				}
+				{
+					id: "7D99303CB8FB92BA"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [
+				{
+					id: "65AA3CB7C4B386EB"
+					item: "legendary_monsters:crystal_of_sandstorm"
+					type: "item"
+				}
+				{
+					entity: "legendary_monsters:dune_sentinel"
+					icon: "legendary_monsters:dune_sentinel_spawn_egg"
+					id: "61D1740EFD9A9C38"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Locate the Scourge"
+			x: 10.5d
+			y: -10.0d
+		}
+		{
+			description: [""]
+			id: "53CD04E9FD898EE9"
+			tasks: [{
+				id: "4392255E992478EC"
+				item: "legendary_monsters:eye_of_sandstorm"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -8.5d
+		}
+		{
+			id: "4A9C068A09E7810E"
+			tasks: [{
+				id: "2B2DDB672AB5242E"
+				item: "sophisticatedbackpacks:diamond_backpack"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 4.5d
+		}
+	]
+	title: "Silence before the Storms"
+}

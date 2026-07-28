@@ -1,0 +1,558 @@
+{
+	autofocus_id: "0FFF2DD973402230"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ascended_bosses"
+	group: "7E4DAE23B4B00652"
+	icon: "cataclysm:remnant_skull"
+	id: "4074A6EF6EC741AB"
+	images: [
+		{
+			dependency: "499988096F660A43"
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/cynosure.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			dependency: "6055817CA2CB3C5E"
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/epilogue.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: 32.0d
+		}
+		{
+			dependency: "3D064E50702B0DD6"
+			height: 3.0d
+			image: "brutality:item/pocket_black_hole"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 40.5d
+		}
+		{
+			dependency: "5F1B03479DEBF7B0"
+			height: 3.0d
+			image: "terramity:particle/ultra_glint"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 48.5d
+		}
+		{
+			dependency: "5F1B03479DEBF7B0"
+			height: 2.0d
+			image: "terramity:particle/ultra_glint"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.0d
+			y: 48.0d
+		}
+		{
+			dependency: "5F1B03479DEBF7B0"
+			height: 2.0d
+			image: "terramity:particle/ultra_glint"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: 50.5d
+		}
+		{
+			dependency: "5F1B03479DEBF7B0"
+			height: 2.0d
+			image: "terramity:particle/ultra_glint"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 49.5d
+		}
+		{
+			dependency: "5F1B03479DEBF7B0"
+			height: 2.0d
+			image: "terramity:particle/ultra_glint"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 47.0d
+		}
+		{
+			dependency: "2584C555BE46A137"
+			height: 1.0d
+			image: "fdbosses:textures/gui/skills/geburah/divine_judgement.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 26.5d
+		}
+		{
+			dependency: "2584C555BE46A137"
+			height: 2.0d
+			image: "enigmaticlegacy:item/the_judgement"
+			rotation: 45.0d
+			width: 2.0d
+			x: 3.0d
+			y: 26.0d
+		}
+		{
+			dependency: "36DB0E3D6158CFCD"
+			height: 1.0d
+			image: "minecraft:block/soul_fire_0"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.5d
+			y: 21.0d
+		}
+		{
+			dependency: "36DB0E3D6158CFCD"
+			height: 1.0d
+			image: "minecraft:block/fire_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 20.0d
+		}
+		{
+			dependency: "7C4963EFEEED327C"
+			height: 2.0d
+			image: "celestisynth:textures/entity/visuals/solaris_spin_soul.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: 17.5d
+		}
+		{
+			dependency: "7C4963EFEEED327C"
+			height: 2.0d
+			image: "fdbosses:item/lightning_core"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: 17.5d
+		}
+		{
+			dependency: "0FFF2DD973402230"
+			height: 3.0d
+			image: "ancient_elements:particle/aetherium_glint"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependency: "0D5D891081D03548"
+			height: 2.0d
+			image: "monsterexpansion:item/skrythe_frill"
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.5d
+			y: 20.0d
+		}
+		{
+			dependency: "0D5D891081D03548"
+			height: 2.0d
+			image: "monsterexpansion:item/skrythe_frill"
+			rotation: -25.0d
+			width: 2.0d
+			x: 8.5d
+			y: 20.5d
+		}
+		{
+			dependency: "0E9B5C39566A6F06"
+			height: 5.0d
+			image: "cataclysm:particle/desert_glyph_8"
+			rotation: 0.0d
+			width: 5.0d
+			x: -4.5d
+			y: 25.0d
+		}
+		{
+			dependency: "6055817CA2CB3C5E"
+			height: 3.0d
+			image: "brutality:particle/flat/frostmourne_wave"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 29.5d
+		}
+		{
+			dependency: "0E9B5C39566A6F06"
+			height: 2.0d
+			image: "traveloptics:item/desert_jewel_fragment"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: 25.5d
+		}
+		{
+			dependency: "6055817CA2CB3C5E"
+			height: 2.0d
+			image: "celestisynth:textures/entity/visuals/frostbound_shard_pulse.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 29.5d
+		}
+		{
+			dependency: "5F1B03479DEBF7B0"
+			height: 4.0d
+			image: "brutality:textures/gui/spells/celestia/spell_container/fg.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: 48.5d
+		}
+		{
+			dependency: "5F1B03479DEBF7B0"
+			height: 2.0d
+			image: "terramity:item/neutron_star"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 48.5d
+		}
+		{
+			height: 3.0d
+			image: "minecraft:block/sculk_souls"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			height: 4.0d
+			image: "celestisynth:textures/entity/visuals/solaris_spin_soul.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			dependency: "10F68BE2CAD21C5F"
+			height: 1.5d
+			image: "block_factorys_bosses:item/dragon_bone"
+			rotation: 90.0d
+			width: 1.5d
+			x: 0.0d
+			y: 13.5d
+		}
+		{
+			dependency: "10F68BE2CAD21C5F"
+			height: 1.5d
+			image: "block_factorys_bosses:item/dragon_bone"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 13.5d
+		}
+		{
+			dependency: "0B7764E51322551F"
+			height: 1.0d
+			image: "block_factorys_bosses:item/dragon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 13.5d
+		}
+		{
+			dependency: "3D064E50702B0DD6"
+			height: 3.0d
+			image: "ancient_elements:particle/cosmic_explosion"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 40.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0AD693933FBD66D2"]
+			id: "0FFF2DD973402230"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "6EDCF09EC5762CF0"
+				title: "Infernum Bosses"
+				type: "checkmark"
+			}]
+			title: "Godlike Bosses"
+			x: 0.0d
+			y: 9.75d
+		}
+		{
+			dependencies: ["7C4963EFEEED327C"]
+			description: [
+				"Near bedrock, where the world's bones press against the void, something watches. It was never born. It was grown. A single sculk relative, fused to the living stone, its pupil a wound that never closes. Its gaze does not see., but instead perceive. It stares into darkness, waiting for a crack in the ceiling for sunlight to enter, even in a tiny amount...\""
+				""
+				""
+				""
+				"Threat Level - ☠☠☠☠"
+				"Summon - Locate it in a chesed arena deep in the underground."
+			]
+			icon: "fdbosses:chesed_trophy"
+			id: "0D5D891081D03548"
+			rewards: [{
+				id: "2C137686CE452624"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "netheritetier"
+			tasks: [{
+				entity: "fdbosses:chesed"
+				icon: "fdbosses:chesed_trophy"
+				id: "281E8AF932FE169A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#041928&lS&#102B38&lo&#1D3C48&lu&#294E59&ll&#366069&ls&#427179&lt&#4E8389&lo&#5B959A&lr&#67A7AA&lm &#80CACA&lC&#8CDCDB&lo&#99EDEB&lr&#A5FFFB&le&#98ECE9&l, &#7DC6C6&lT&#6FB2B5&lh&#629FA3&le &#477980&lC&#3A666E&lh&#2C535D&le&#1F3F4B&ls&#112C3A&le&#041928&ld"
+			x: 1.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["36DB0E3D6158CFCD"]
+			description: [
+				"Health: 1000 (1400 in hardmode)"
+				"Damage: 100 (120 in hardmode)"
+				""
+				"\"A dark figure, who was once a normal soldier, consumed by envy and guidance, he sought Khyros not as a foe, but as a master instead. He wanted power, and to shape the world into his own need. Admiration turned into devotion, and devotion into surrender. He was consumed by darkness, and now is only a shadow within our world...\""
+				""
+				"Race - ???"
+				"Type - ???"
+				"Element - Darkness"
+				"Threat Level - &8☠☠☠☠☠☠☠☠&r"
+			]
+			icon: "fdbosses:malkuth_trophy"
+			id: "0E9B5C39566A6F06"
+			rewards: [{
+				id: "29D489CEA4185C93"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "netheritetier"
+			tasks: [{
+				entity: "fdbosses:malkuth"
+				icon: "fdbosses:malkuth_trophy"
+				id: "4A6B737D5769AC1A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FF8600&lA&#F5890A&le&#EB8C14&lt&#E0901F&le&#D69329&lr&#CC9633&ln&#C2993D&lu&#B89C47&ls &#A3A35C&lT&#99A666&lw&#8FA970&li&#85AC7A&ln&#7AB085&lf&#70B38F&li&#66B699&lr&#5CB9A3&le&#52BCAD&l, &#3DC3C2&lM&#33C6CC&la&#29C9D6&ll&#1FCCE0&lk&#14D0EB&lu&#0AD3F5&lt&#00D6FF&lh"
+			x: 2.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["2584C555BE46A137"]
+			description: [
+				"Health: 1000 (1400 in hardmode)"
+				"Damage: 100 (120 in hardmode)"
+				""
+				"\"A dark figure, who was once a normal soldier, consumed by envy and guidance, he sought Khyros not as a foe, but as a master instead. He wanted power, and to shape the world into his own need. Admiration turned into devotion, and devotion into surrender. He was consumed by darkness, and now is only a shadow within our world...\""
+				""
+				"Race - ???"
+				"Type - ???"
+				"Element - Darkness"
+				"Threat Level - &8☠☠☠☠☠☠☠☠&r"
+			]
+			icon: "fdbosses:geburah_trophy"
+			id: "6055817CA2CB3C5E"
+			rewards: [{
+				id: "7B3FBFD87C6DED54"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "netheritetier"
+			tasks: [{
+				entity: "fdbosses:geburah"
+				icon: "fdbosses:geburah_trophy"
+				id: "6E32F605A4DCE7C4"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFBA00&lJ&#F4B203&lu&#E9AB06&ld&#DEA308&lg&#D39B0B&le &#BD8C11&lo&#B28413&lf &#9C7519&lA&#916D1C&ll&#86651E&ll&#7B5E21&l, &#654E27&lG&#5A4729&le&#4F3F2C&lb&#44372F&lu&#392F32&lr&#2E2834&la&#232037&lh"
+			x: 3.5d
+			y: 26.0d
+		}
+		{
+			description: [
+				"\"One mortal, consumed by negative emotions and corrupted by Nihility. I've known him for a long time, longer than you've set out on this adventure, friend. He had immense potential. Even his masters envied him. Soon, they all kicked him out, hated him for his might and bravery. He was mad. In sorrow and grief. \"How could they do this to me?\" He thought. He joined the corrupted forces. He joined evil, and purused Nihility, survived it because of his pure dominant blood. He trained, and trained, sought immense power, to turn this world into his own realm. Hated by many, even outside of his quote on quote home. He had to take action. Put this world into absolute order. In order to do that, he had to have cosmic level power. So he wandered. Discovered. Fought, and found this artifact. On direct contact, it almost devoured him whole, corrupted his mind and took over. Now he waits in the Ender's citadel, stands still, overwhelmed by the corruption, awaiting for someone to wake him with a cleansing Excrucius and end his suffering...\""
+				""
+				""
+				""
+				"Threat Level - ☠☠☠☠☠☠☠☠"
+				"Summon - Use a Withered Excrucius on the Nightwarden."
+				"Recommended Armor: Galactrium/Aeonite"
+			]
+			icon: "traveloptics:the_nightwarden_spawn_egg"
+			id: "5F1B03479DEBF7B0"
+			shape: "netheritetier"
+			subtitle: "\"Such an existence that defies comprehension.\""
+			tasks: [{
+				id: "7068023AEE739261"
+				title: "nightwarden"
+				type: "checkmark"
+			}]
+			title: "&#5600FF&lE&#5400F7&lv&#5100EF&le&#4F00E7&ln&#4C00DF&lt &#4800CF&lH&#4500C7&lo&#4300BF&lr&#4000B7&li&#3E00AF&lz&#3B00A7&lo&#39009F&ln&#370097&l, &#320088&lt&#2F0080&lh&#2D0078&le &#280068&lN&#260060&li&#230058&lg&#210050&lh&#1E0048&lt&#1C0040&lw&#1A0038&la&#170030&lr&#150028&ld&#120020&le&#100018&ln"
+			x: 0.0d
+			y: 40.5d
+		}
+		{
+			dependencies: ["5F1B03479DEBF7B0"]
+			description: [
+				"\"A final barrier between becoming ascendant, created by the Nightwarden himself with the starwoven artifact, to prevent others from reaching ascendance. It was created to face foes even stronger than its creator, and be the absolute final test to end the other reigns."
+				""
+				""
+				""
+				"Threat Level - ☠☠☠☠☠☠☠☠☠"
+				"Summon - Strike the super sniffer with lightning in its second phase at 10% HP."
+				"Recommended Armor: Galactrium/Exodium/Nyxium"
+			]
+			hide_until_deps_complete: true
+			icon: "terramity:ultra_sniffer_spawn_egg"
+			id: "529991B8256E9E31"
+			rewards: [{
+				id: "24A6DDEF97938102"
+				type: "xp_levels"
+				xp_levels: 450
+			}]
+			shape: "netheritetier"
+			subtitle: "\"Oh no no no no. I'm the UPGRADE.\""
+			tasks: [{
+				entity: "terramity:ultra_sniffer"
+				icon: "terramity:ultra_sniffer_spawn_egg"
+				id: "5C1B769E4EE1A16C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#83FAFF&lT&#82F4FF&lh&#81EEFF&le &#7FE2FF&lA&#7EDCFF&ll&#7CD5FF&lp&#7BCFFF&lh&#7AC9FF&la &#78BDFF&la&#77B7FF&ln&#76B1FF&ld &#74A5FF&lt&#739FFF&lh&#7198FF&le &#6F8CFF&lO&#6E86FF&lm&#6D80FF&le&#6C7AFF&lg&#6B74FF&la&#6A6EFF&l, &#6862FF&lt&#665BFF&lh&#6555FF&le &#6349FF&lU&#6243FF&ll&#613DFF&lt&#6037FF&lr&#5F31FF&la &#5D25FF&lS&#5B1EFF&ln&#5A18FF&li&#5912FF&lf&#580CFF&lf&#5706FF&le&#5600FF&lr"
+			x: 0.0d
+			y: 48.5d
+		}
+		{
+			dependencies: ["0D5D891081D03548"]
+			id: "36DB0E3D6158CFCD"
+			tasks: [{
+				entity: "monsterexpansion:skrythe"
+				icon: "monsterexpansion:skrythe_spawn_egg"
+				id: "3516F35A9AB77017"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#383D47&lR&#33404F&le&#2E4258&la&#294560&lp&#244869&le&#1F4B71&lr &#145082&lD&#0F538B&lr&#0A5693&la&#05589C&lg&#005BA4&lo&#005BA4&ln&#005BA4&l, &#005BA4&lS&#005BA4&lk&#005BA4&lr&#005BA4&ly&#005BA4&lt&#005BA4&lh&#005BA4&le"
+			x: 9.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0B7764E51322551F"]
+			id: "7C4963EFEEED327C"
+			tasks: [{
+				entity: "monsterexpansion:rhyza"
+				icon: "monsterexpansion:rhyza_spawn_egg"
+				id: "5F23949A477C19F1"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#E9E8CF&lE&#DEDAC8&lt&#D3CCC2&lh&#C8BEBB&le&#BCAFB4&lr&#B1A1AD&lb&#A693A7&lo&#9B85A0&lr&#907799&ln&#856992&le &#6E4C85&lW&#633E7E&ly&#633E7E&lv&#633E7E&le&#633E7E&lr&#633E7E&ln&#633E7E&l, &#633E7E&lR&#633E7E&lh&#633E7E&ly&#633E7E&lz&#633E7E&la"
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["0E9B5C39566A6F06"]
+			id: "2584C555BE46A137"
+			tasks: [{
+				entity: "monsterexpansion:rakoth"
+				icon: "monsterexpansion:rakoth_spawn_egg"
+				id: "3B91724CE36E5B5B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#240F00&lP&#321D08&lr&#412B10&li&#4F3917&lm&#5D471F&la&#6C5527&ll &#887036&lE&#977E3E&lx&#A58C46&lc&#B39A4E&la&#C2A855&lv&#D0B65D&la&#D0B65D&lt&#D0B65D&lo&#D0B65D&lr&#D0B65D&l, &#D0B65D&lR&#D0B65D&la&#D0B65D&lk&#D0B65D&lo&#D0B65D&lt&#D0B65D&lh"
+			x: -4.5d
+			y: 25.0d
+		}
+		{
+			dependencies: ["6055817CA2CB3C5E"]
+			id: "00F8A9A182EDD040"
+			tasks: [{
+				entity: "monsterexpansion:leivekilth"
+				icon: "monsterexpansion:leivekilth_spawn_egg"
+				id: "2E06BC2F524923B1"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#669B9B&lC&#5F99A2&lr&#5796A9&ly&#5094B0&lo&#4991B8&lg&#428FBF&le&#3A8CC6&ln&#338ACD&li&#2C88D4&lc &#1D83E2&lW&#1680EA&la&#0F7EF1&ll&#077BF8&lr&#0079FF&lu&#0079FF&ls&#0079FF&l, &#0079FF&lL&#0079FF&le&#0079FF&li&#0079FF&lv&#0079FF&le&#0079FF&lk&#0079FF&li&#0079FF&ll&#0079FF&lt&#0079FF&lh"
+			x: 0.0d
+			y: 29.5d
+		}
+		{
+			description: ["\"I remember this one. We fought side by side in the great Nether war. He was the strongest amongst us all. The most ruthless. Yet ever since his return from the Ecto district, he started acting strange. His responses were weak, almost as if his entire mind has gotten numb. One day, he snapped. He started killing those of his own. I managed to escape his wrath, but it's as if something got ahold of him. Something big. He departed from our lands, and set off. I've never heard of him after. Only rumors have spread, that he has been imprisoned inside his own mind, and the curse has completely taken over. You'll see for yourself, \"hero\"...\""]
+			id: "3D064E50702B0DD6"
+			tasks: [{
+				entity: "legendary_monsters:posessed_paladin"
+				icon: "legendary_monsters:posessed_paladin_spawn_egg"
+				id: "262F829CF0FA37B6"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFA500&lT&#F29D03&lh&#E59505&le &#CB840B&lP&#BD7C0D&lo&#B07410&ll&#A36B13&lt&#966315&le&#895B18&lr&#7C531A&lg&#6F4A1D&le&#624220&li&#543A22&ls&#473225&lt&#3A2928&l, &#20192D&lP&#26273A&lo&#2C3547&ls&#334354&ls&#395162&le&#3F5F6F&ls&#456D7C&ls&#4B7B89&le&#528A96&ld &#5EA6B0&lP&#64B4BD&la&#6AC2CB&ll&#70D0D8&la&#77DEE5&ld&#7DECF2&li&#83FAFF&ln"
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["0FFF2DD973402230"]
+			dependency_requirement: "one_completed"
+			description: [
+				"An infernal version of the dragon we know, who is much more powerful and spreads large fires. It can create fireballs, flamenadoes, fly and attack you with fire and other dragonly things."
+				""
+				"Threat Level - 💀💀💀"
+				"Summon - Walk to the top of the dragon tower and the fight will begin"
+				"Recommended Armor: "
+			]
+			hide_dependency_lines: true
+			icon: "block_factorys_bosses:infernal_dragon_spawn_egg"
+			id: "0B7764E51322551F"
+			rewards: [
+				{
+					id: "3583261A1578512B"
+					type: "xp"
+					xp: 80
+				}
+				{
+					auto: "no_toast"
+					command: "/gamestage add @s yharon_stage"
+					id: "4695C75E2739A43E"
+					type: "command"
+				}
+			]
+			shape: "irontier"
+			subtitle: "\"The enemy ascended beyond your control!\""
+			tasks: [{
+				entity: "block_factorys_bosses:infernal_dragon"
+				icon: "block_factorys_bosses:infernal_dragon_spawn_egg"
+				id: "7C433D7FF4800BDD"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#600202&lA&#5F0404&ls&#5E0605&lh&#5D0807&ll&#5C0A09&lo&#5C0C0A&lr&#5B0E0C&ld&#5A100E&l, &#581411&lt&#571613&lh&#561814&le &#541C18&lI&#541D19&ln&#531F1B&lf&#52211D&le&#51231E&lr&#502520&ln&#4F2722&la&#4E2923&ll &#4C2D27&lD&#4C2F28&lr&#4B312A&la&#4A332C&lg&#49352D&lo&#48372F&ln"
+			x: 0.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["0B7764E51322551F"]
+			icon: "roacw:charged_auric_ingot"
+			id: "3BD269F945789600"
+			tasks: [{
+				id: "412A338B2014B3F2"
+				title: "Auric Age!"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 13.5d
+		}
+	]
+	title: "Trial of the Insane"
+}

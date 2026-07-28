@@ -1,0 +1,118 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "radiant_elements"
+	group: "0566FDA4895DFEF7"
+	icon: "valoria:aquarius_core"
+	id: "521DF2D52B2135C8"
+	images: [
+		{
+			height: 3.0d
+			image: "terramity:item/energized_core"
+			rotation: 0.0d
+			width: 3.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "terramity:particle/holy_glint"
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			color: 16714245
+			height: 2.0d
+			image: "born_in_chaos_v1:particle/pumpkin_explosion"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.5d
+			y: 3.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The \"Radiant Elements\" are three elements grouped into one, the \"Radiant Elements\". These elements have their own magic classes, spells, armors and weapons. This chapter includes:"
+				""
+				"&e-Holy Element (Holy)&r"
+				""
+				"&b-Lightning Element (Electricity)&r"
+				""
+				"&4-Technomancy Element (Mech)&r"
+			]
+			id: "64A860795193F2B3"
+			shape: "gear"
+			tasks: [{
+				id: "4CC76B7E045CDB7A"
+				title: "Primal Elements"
+				type: "checkmark"
+			}]
+			title: "Radiant Elements"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:holy_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:holy_power"
+				}
+			}
+			id: "355680004F859D5A"
+			shape: "hexagon"
+			subtitle: "\"Become a reveromancer\""
+			tasks: [{
+				id: "522A9B04EA7BC46C"
+				type: "checkmark"
+			}]
+			title: "Holy Path"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:lightning_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:lightning_power"
+				}
+			}
+			id: "43891CB88F570686"
+			shape: "hexagon"
+			subtitle: "\"Become an electromancer\""
+			tasks: [{
+				id: "60428B9752E78CC7"
+				type: "checkmark"
+			}]
+			title: "Lightning Path"
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "cataclysm_spellbooks:technomancy_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "cataclysm_spellbooks:technomancy_power"
+				}
+			}
+			id: "1C61BD951D1D1B95"
+			shape: "hexagon"
+			subtitle: "\"Become a technomancer\""
+			tasks: [{
+				id: "5DAB1BF99A90A600"
+				type: "checkmark"
+			}]
+			title: "Mech Path"
+			x: 6.5d
+			y: 3.5d
+		}
+	]
+	title: "Radiant Elements"
+}

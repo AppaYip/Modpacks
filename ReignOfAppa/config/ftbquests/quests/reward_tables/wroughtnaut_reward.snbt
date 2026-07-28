@@ -1,0 +1,11 @@
+{
+	id: "3C9512E9C83D21D0"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 6, item: "iter_rpg:deepsteel_ingot", random_bonus: 6 }
+		{ count: 12, item: "astral_calamity_extras:wrought_armor_plating", random_bonus: 12 }
+		{ item: "terramity:steel_shell" }
+	]
+	title: "Wroughtnaut Reward"
+}

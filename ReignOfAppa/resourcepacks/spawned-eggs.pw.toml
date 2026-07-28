@@ -1,0 +1,13 @@
+name = "Spawned Eggs"
+filename = "Spawned_Eggs_1.16-26.1_r1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04773c693e493e5348970db0bb1509e41960de19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7931305
+project-id = 1118395

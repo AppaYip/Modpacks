@@ -1,0 +1,1 @@
+ItemStages.restrict(<item:lifefruit:life_fruit>, "post_dryador");

@@ -1,0 +1,13 @@
+name = "Remnants Of A Cruel World"
+filename = "roacw-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcc110ea102ccbddb1d81650a5d320e2f1602704"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8041608
+project-id = 1530229

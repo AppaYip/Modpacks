@@ -1,0 +1,1591 @@
+{
+	autofocus_id: "0233019D8E5264D9"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "bosses"
+	group: "7E4DAE23B4B00652"
+	icon: "born_in_chaos_v1:shattered_skull"
+	id: "22B44CF2BC48511C"
+	images: [
+		{
+			click: "command:/tellraw @a [{\"text\":\"A golden feather falls to the ground. The Sun's gaze shifts elsewhere...\",\"bold\":true,\"color\":\"#ffd152\"}]"
+			dependency: "549ABEB50C4B50DF"
+			height: 1.0d
+			image: "mowziesmobs:item/sol_visage"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			click: "command:tellraw @a [{\"text\":\"The abomination of wrought metal crumbles as its metallic shingles suddenly stop...\",\"bold\":true,\"color\":\"#5c5c5c\"}]"
+			dependency: "206E6EE1994EA27F"
+			height: 1.0d
+			image: "mowziesmobs:item/wrought_helmet_icon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 9.5d
+		}
+		{
+			dependency: "0233019D8E5264D9"
+			height: 1.0d
+			image: "mowziesmobs:item/wrought_axe_icon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			dependency: "206E6EE1994EA27F"
+			height: 2.0d
+			image: "astral_calamity_extras:item/essence_of_sunlight"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 12.0d
+		}
+		{
+			dependency: "0233019D8E5264D9"
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/prologue.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependency: "0233019D8E5264D9"
+			height: 1.0d
+			hover: ["Steel"]
+			image: "minecraft:item/iron_chestplate2"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			height: 2.0d
+			image: "terramity_paisleys_summoning:item/occultemblem"
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.0d
+			y: 12.0d
+		}
+		{
+			alpha: 155
+			click: "command:/tellraw @a [{\"text\":\"At long last, the allays and golems have been set free. You have freed the overworld of the evocation's wrath...\",\"bold\":true,\"color\":\"#53767f\"}]"
+			dependency: "3D07DC1F86FFE9B4"
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/bad_omen.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 10.0d
+		}
+		{
+			dependency: "206E6EE1994EA27F"
+			height: 1.0d
+			hover: ["Steel"]
+			image: "dungeons_and_combat:item/heavy_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 12.0d
+		}
+		{
+			alpha: 200
+			click: "command:/tellraw @p {\"text\":\"The tundra shimmers with a frigid mineral...\",\"color\":\"aqua\",\"bold\":true}"
+			dependency: "0FFB5606107A5CFB"
+			height: 1.0d
+			image: "mowziesmobs:item/icecrystal"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 27.0d
+		}
+		{
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/prelude.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: -0.5d
+			y: 22.5d
+		}
+		{
+			click: "command:tellraw @p [{\"text\":\"A sunken metal has risen from the world's core pressure to the ocean floors...\",\"bold\":true,\"color\":\"#407291\"}]"
+			dependency: "2C5F85A31EC38AD8"
+			height: 1.2d
+			image: "endrem:item/guardian_eye"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 15.5d
+		}
+		{
+			dependency: "549ABEB50C4B50DF"
+			height: 1.0d
+			image: "terramity:item/sapphire_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 15.5d
+		}
+		{
+			dependency: "2C52BD9175C8591C"
+			height: 2.0d
+			image: "lethality:textures/gui/ice.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 27.0d
+		}
+		{
+			alpha: 200
+			click: "command:tellraw @p [{\"text\":\"You are slowly gaining knowledge about the durable ancient materials the previous civilizations used...\",\"bold\":true,\"color\":\"#4599f2\"}]"
+			dependency: "0FFB5606107A5CFB"
+			height: 0.9d
+			image: "legendary_monsters:item/eye_of_frost"
+			rotation: 0.0d
+			width: 0.9d
+			x: 4.0d
+			y: 27.0d
+		}
+		{
+			height: 1.5d
+			image: "boss_checklist:textures/gui/bosses/block_factorys_bosses_sandworm.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 18.5d
+		}
+		{
+			click: "command:tellraw @p [{\"text\":\"The Desert is rumbling with deposits of durable armor remains...\",\"bold\":true,\"color\":\"#69451b\"}]"
+			dependency: "2C52BD9175C8591C"
+			height: 0.8d
+			image: "legendary_monsters:item/eye_of_sandstorm"
+			rotation: 0.0d
+			width: 0.8d
+			x: 1.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			hover: ["Anthektite"]
+			image: "dungeons_and_combat:item/sandstone_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 19.0d
+		}
+		{
+			dependency: "0FFB5606107A5CFB"
+			height: 2.0d
+			image: "minecraft:item/snowball"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 27.0d
+		}
+		{
+			dependency: "2C52BD9175C8591C"
+			height: 2.0d
+			image: "legendary_monsters:item/eye_of_moss2"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: 19.0d
+		}
+		{
+			alpha: 155
+			click: "command:tellraw @p [{\"text\":\"After the defeat of their leader, the gnomes have decided on gifting you the permission to weild Virentium and Dimlite gear.\",\"bold\":true,\"color\":\"#ff4242\"}]"
+			dependency: "3BCEF2EB36A3BF00"
+			height: 1.5d
+			image: "terramity:item/ocarina_of_power"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.5d
+			y: 43.0d
+		}
+		{
+			alpha: 100
+			dependency: "076D4A2B2CA22CF2"
+			height: 1.6d
+			image: "terramity:item/red_gnome_hat"
+			rotation: 0.0d
+			width: 1.6d
+			x: -0.5d
+			y: 40.5d
+		}
+		{
+			dependency: "076D4A2B2CA22CF2"
+			height: 1.0d
+			image: "minecraft:item/netherite_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 41.5d
+		}
+		{
+			alpha: 100
+			dependency: "0FFB5606107A5CFB"
+			height: 2.0d
+			image: "born_in_chaos_v1:textures/mob_effect/snow_storm.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 31.0d
+		}
+		{
+			click: "command:/tellraw @p {\"text\":\"Loud screeches can be heard from the ocean floor.\",\"color\":\"dark_blue\",\"bold\":true}"
+			dependency: "315796EC3257B63F"
+			height: 1.0d
+			image: "cofh_core:textures/mob_effect/chilled.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 29.5d
+		}
+		{
+			dependency: "315796EC3257B63F"
+			height: 1.8d
+			image: "born_in_chaos_v1:item/boneheart"
+			rotation: 0.0d
+			width: 1.8d
+			x: 0.0d
+			y: 35.0d
+		}
+		{
+			click: "command:tellraw @p [{\"text\":\"Whispers echo throughout the catacomb's halls...\",\"bold\":true,\"color\":\"#625347\"}]"
+			dependency: "076D4A2B2CA22CF2"
+			height: 1.0d
+			image: "brutality:item/curio/charm/smoke_stone/smoke_stone_inventory"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 35.0d
+		}
+		{
+			alpha: 155
+			dependency: "3BCEF2EB36A3BF00"
+			height: 0.7d
+			image: "minecraft:block/amethyst_cluster"
+			rotation: 90.0d
+			width: 0.7d
+			x: -4.0d
+			y: 41.5d
+		}
+		{
+			alpha: 155
+			dependency: "3BCEF2EB36A3BF00"
+			height: 0.7d
+			image: "minecraft:block/amethyst_cluster"
+			rotation: 0.0d
+			width: 0.7d
+			x: -4.5d
+			y: 41.0d
+		}
+		{
+			alpha: 155
+			dependency: "3BCEF2EB36A3BF00"
+			height: 0.7d
+			image: "minecraft:block/amethyst_cluster"
+			rotation: 180.0d
+			width: 0.7d
+			x: -4.5d
+			y: 42.0d
+		}
+		{
+			alpha: 155
+			dependency: "3BCEF2EB36A3BF00"
+			height: 0.7d
+			image: "minecraft:block/amethyst_cluster"
+			rotation: -90.0d
+			width: 0.7d
+			x: -5.0d
+			y: 41.5d
+		}
+		{
+			dependency: "3BCEF2EB36A3BF00"
+			height: 2.6d
+			image: "caverns_and_chasms:block/ender_brazier_fire"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 45.5d
+		}
+		{
+			click: "command:/tellraw @p [{\"text\":\"A virus-like energy seems to be taking over the world and infecting everything, corrupting and empowering everything hostile...\",\"bold\":true,\"color\":\"#ff0000\"}]"
+			dependency: "4E179D098A4FFCA6"
+			height: 2.0d
+			image: "ancient_elements:textures/mob_effect/cosmic_shock.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 46.5d
+		}
+		{
+			dependency: "3BCEF2EB36A3BF00"
+			height: 1.0d
+			hover: ["Topaz (Dragon)"]
+			image: "terramity:item/topaz_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 46.5d
+		}
+		{
+			alpha: 100
+			dependency: "0FFB5606107A5CFB"
+			height: 1.0d
+			hover: ["Diarkrite"]
+			image: "terramity:item/sapphire_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 31.0d
+		}
+		{
+			alpha: 100
+			dependency: "315796EC3257B63F"
+			height: 1.0d
+			hover: ["Diarkrite"]
+			image: "celestisynth:item/lunar_stone_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 35.0d
+		}
+		{
+			dependency: "549ABEB50C4B50DF"
+			height: 2.0d
+			image: "enigmaticlegacy:item/ocean_stone"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: 15.5d
+		}
+		{
+			dependency: "2C5F85A31EC38AD8"
+			height: 2.0d
+			image: "starcatcher:item/lava_crab"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 15.5d
+		}
+		{
+			dependency: "2C52BD9175C8591C"
+			height: 1.0d
+			image: "ancient_elements:item/titanium_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 27.0d
+		}
+		{
+			height: 1.0d
+			hover: ["Anthektite"]
+			image: "ancient_elements:item/ancient_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 19.0d
+		}
+		{
+			dependency: "076D4A2B2CA22CF2"
+			height: 1.2d
+			image: "galosphere:block/pink_salt_straw_down_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 39.5d
+		}
+		{
+			dependency: "076D4A2B2CA22CF2"
+			height: 1.2d
+			image: "galosphere:block/pink_salt_straw_down_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 38.5d
+		}
+		{
+			dependency: "4E179D098A4FFCA6"
+			height: 2.5d
+			image: "iter_rpg:item/living_vine"
+			rotation: 0.0d
+			width: 2.5d
+			x: 1.0d
+			y: 53.0d
+		}
+		{
+			dependency: "4E179D098A4FFCA6"
+			height: 3.0d
+			image: "lifefruit:block/life_fruit_crop_stage_2"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.0d
+			y: 51.0d
+		}
+		{
+			dependency: "076D4A2B2CA22CF2"
+			height: 1.0d
+			image: "galosphere:item/pink_salt_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 37.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["All bosses have their own description, consisting of &blore,&r &esummoning information&r and &cthreat level.&r The threat level is rated on how difficult the boss is in &bthat stage of progression&r, not in the entire modpack. To the left of the boss quests, there are specific chestplates. Those are the recommended armors for that boss. Also when you beat a boss, an &eimage next to/near the quest&r will appear, clicking it will make an aftermath message pop up in &cchat.&r"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0233019D8E5264D9"
+			rewards: [{
+				id: "594765F23DBBF2A7"
+				type: "xp"
+				xp: 2
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "506D57DAD9807FA2"
+				title: "Bosses and their descriptions"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0233019D8E5264D9"]
+			description: [
+				"In ages past, the first guardians were forged to protect treasures long forgotten. Or so the scrolls claim. I suspect their true purpose was darker."
+				"The Ferrous Wroughtnaut stands motionless in a hidden underground chamber, a metal colossus awaiting no master, only victims. Its Axe bears the scars of wars no living soul remembers. The ancients built its armor to reject every blade. But nothing is perfect. A wound from a forgotten battle still gapes in its chest, a blade still lodged beneath the metal. The guardians left it open as a mere lesson. When the Wroughtnaut falls, it kneels for the first time in a thousand years and yields its axe and a shard of its own armory to the one who understood. To the one, who aimed for the wound."
+				""
+				""
+				""
+				"Threat Level: ☠"
+				"Summon: Find a Wrought Chamber underground."
+				"Recommended Armor: Iron"
+			]
+			id: "206E6EE1994EA27F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5ADA62F093B56B7C"
+					table_id: 4365416209101693392L
+					type: "all_table"
+				}
+				{
+					id: "5FE9D86D429ABAD6"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "28DA4F5EC1B90B1E"
+					item: {
+						Count: 1
+						id: "endrem:corrupted_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: "mowziesmobs:wroughtnaut_spawn_egg"
+				id: "5E2C35CCBEA640AA"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#B0B0B0&lL&#ACACAC&li&#A8A8A8&lv&#A4A4A4&li&#A0A0A0&ln&#9C9C9C&lg &#949494&lA&#909090&lr&#8C8C8C&lm&#888888&lo&#848484&lr&#808080&l, &#787878&lt&#747474&lh&#707070&le &#696969&lF&#656565&le&#616161&lr&#5D5D5D&lr&#595959&lo&#555555&lu&#515151&ls &#494949&lW&#454545&lr&#414141&lo&#3D3D3D&lu&#393939&lg&#353535&lh&#313131&lt&#2D2D2D&ln&#292929&la&#252525&lu&#212121&lt"
+			x: -1.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["206E6EE1994EA27F"]
+			description: [
+				"\"Long ago, a cult of creatures started worshipping the sun's energy, believing in its primordial power that can destroy anything when forsaken. Umuvthi stands as their last guardian, a feathered tyrant lying still beneath the acacia trees, its feathers the color of dying light. It sleeps and relaxes, while its masked cultists kneel. They believe the sun will answer them. They do not know they are the sacrifice. When Umuvthi rises, its followers throw themselves between you and their god. Their wounds become its healing. Strike the bird, and a masked believer falls silent. And when it tires of patience, it smites its foe with the sole energy it believes in. The cult believes they seek a supreme being beyond the sun. They do not know the Virtue has never once looked their way. But Umuvthi knows. That is why it keeps them praying. When the bird falls, its feathers dim. The masks shatter, and something far above finally turns its head...\""
+				""
+				"Threat Level: ☠☠"
+				"Summon: Find an Umvuthana Grove in arid biomes."
+				"Recommended Armor: Titan"
+			]
+			id: "549ABEB50C4B50DF"
+			rewards: [
+				{
+					command: "/gamestage add @s gold_age"
+					icon: "alltheores:gold_gear"
+					id: "22C37B5D3C03B04E"
+					title: "Gold Available!"
+					type: "command"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "22BA6C864ABD3CE9"
+					table_id: 2623343273444791832L
+					type: "all_table"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1FE8DD2D2F6EFA22"
+					table_id: 590391415384294519L
+					type: "choice"
+				}
+				{
+					id: "3AD9099676B0FC1D"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "30BA55CEEB5B1583"
+					item: {
+						Count: 1
+						id: "endrem:evil_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: "mowziesmobs:umvuthi_spawn_egg"
+				id: "09D1192D3A4C58F0"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFD968&lU&#F9D263&lm&#F4CA5D&lv&#EEC358&lu&#E8BC52&lt&#E3B44D&lh&#DDAD47&li&#D8A642&l, &#CC9737&lt&#C79031&lh&#C1892C&le &#B67A21&lS&#B0731B&lu&#AB6B16&ln&#A56410&lb&#9F5D0B&li&#9A5505&lr&#944E00&ld"
+			x: 1.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["206E6EE1994EA27F"]
+			hide_dependency_lines: false
+			id: "50D938277BDEEB77"
+			rewards: [{
+				id: "2CB03C4801F6ACA7"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			subtitle: "Can be used to make Titan Armor and some other useful stuff."
+			tasks: [{
+				id: "34422B02DFFF57FF"
+				item: "astral_calamity_extras:wrought_armor_plating"
+				type: "item"
+			}]
+			title: "Unlocking Wrought Armor Plating!"
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"\"A fierce Illager assault upon a nearby village, orchestrated by Arion. Only the bravest may witness its fury, and only after Arion’s defeat will its full secrets be revealed.\""
+				""
+				"Event - Pillager Invasion"
+				"Threat Level - ☠☠"
+			]
+			hide_until_deps_complete: true
+			icon: "composite_material:primitive_totem"
+			id: "3D07DC1F86FFE9B4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1CF5A810C182E996"
+					table_id: 8468597356840442019L
+					type: "all_table"
+				}
+				{
+					id: "03B65DDD5D2E74B1"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "rsquare"
+			size: 1.0d
+			tasks: [{
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+				id: "7A93E2FB41147B39"
+				title: "Beat the Raid"
+				type: "advancement"
+			}]
+			title: "Event - The Raid"
+			x: -11.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0FFB5606107A5CFB"]
+			description: [""]
+			icon: "ancient_elements:frost_ingot"
+			id: "6273570747402F3B"
+			rewards: [{
+				id: "26AD689517B8AD9A"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			subtitle: "Netherite needed to fully unlock Frost Ore."
+			tasks: [{
+				id: "68B7441232F28AC5"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Progress on Frost Ore!"
+			x: -3.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["549ABEB50C4B50DF"]
+			description: [
+				"\"Once, the Elder Guardian was no monster, it was a sentinel bred, designed to protect their ocean temples and the relics buried within. It was replicated thrice to ensure the secrets kept sunken deep in the monument's catacombs. But the creators of them left their relics forgotten, deciding to keep them elsewhere, the monuments have been abandoned and the guardians were left to die. It strikes at any who approach, mistaking all for the traitors who left their temples to rot...\""
+				""
+				"Threat Level - ☠☠☠"
+				"Summon - Find an ancient monument in oceans."
+				"Recommended Armor: Sapphire"
+			]
+			icon: "minecraft:elder_guardian_spawn_egg"
+			id: "2C5F85A31EC38AD8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "762AF56D685E5FD3"
+					table_id: 7214383531959700360L
+					type: "all_table"
+				}
+				{
+					id: "6FC145EDD5DE30E5"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				icon: "minecraft:elder_guardian_spawn_egg"
+				id: "19AD1F1F81E10FAB"
+				type: "kill"
+				value: 3L
+			}]
+			title: "&#3D538C&lA&#3F548A&ln&#415588&le&#435686&lm&#455784&lo&#485882&ln&#4A5980&li&#4C5A7E&lc &#505C7A&lS&#525E79&le&#545F77&le&#566075&lr&#586173&l, &#5D636F&lt&#5F646D&lh&#61656B&le &#656767&lE&#676865&ll&#696964&ld&#6A6A62&le&#6C6B61&lr &#6F6C5E&lG&#716D5C&lu&#726E5B&la&#746F59&lr&#757058&ld&#777056&li&#787155&la&#7A7253&ln"
+			x: -1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["2C5F85A31EC38AD8"]
+			icon: "composite_material:guardian_elder_spike"
+			id: "510714DCE238366A"
+			rewards: [{
+				id: "3F9398EAAC405D08"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			subtitle: "You can now obtain the Elder Guardian Spike."
+			tasks: [{
+				id: "40B81B15EB3F25AA"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Progress on Primitive Materials!"
+			x: -3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["2C5F85A31EC38AD8"]
+			icon: "ancient_elements:abyssal_ingot"
+			id: "14376F2D9EFEA2AC"
+			rewards: [{
+				id: "57E7729C7CAC250E"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			subtitle: "You can now use Abyssal Ore."
+			tasks: [{
+				id: "41F03B20F73E9EDC"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Abyssal Ore!"
+			x: -3.0d
+			y: 14.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["2C52BD9175C8591C"]
+			description: [
+				"\"Stronger and rarer than its kin, the Yeti rules the highest frozen peaks. A beast of the endothermic energies, it challenges those who dare ascend the heights, leaving only stories of frostbitten bravery in its wake. The others fear these heights. Skor does not. It waits where the air itself tightens. Some say it was once a normal yeti, driven mad by hunger and cold until something broke inside it and kept breaking. Now it is less a creature and more a walking blizzard with teeth...\""
+				""
+				"Threat Level - ☠☠☠"
+				"Summon - Can be found in a Yeti Hideout structure."
+				"Recommended Armor: Titanium"
+			]
+			hide_dependency_lines: true
+			icon: "block_factorys_bosses:yeti_spawn_egg"
+			id: "0FFB5606107A5CFB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "025FF10DA675D803"
+					table_id: 1485923710498952852L
+					type: "all_table"
+				}
+				{
+					id: "7377DA75FD4E9506"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "block_factorys_bosses:yeti"
+				icon: "block_factorys_bosses:yeti_spawn_egg"
+				id: "52B9D25D23D0B784"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#00E0FF&lS&#14E2FF&lk&#27E5FF&lo&#3BE7FF&lr&#4EEAFF&l, &#76EEFF&lt&#89F1FF&lh&#9DF3FF&le &#C4F8FF&lY&#D8FAFF&le&#EBFDFF&lt&#FFFFFF&li"
+			x: -0.5d
+			y: 27.0d
+		}
+		{
+			dependencies: ["0FFB5606107A5CFB"]
+			icon: "kubejs:frigid_ingot"
+			id: "07F7534E151350D7"
+			rewards: [{
+				id: "1CBBD811FEFE8AA1"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7370279A3235B2C4"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Progress on Primitive Materials!"
+			x: -3.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["2C5F85A31EC38AD8"]
+			description: [
+				"\"It was not always a creature of the desert. Once, Sirok's kind slithered through toxic caves, breathing vapors that would kill a mortal in seconds. Then a supreme being dried those caves to dust, and the serpents were left to wither. Most died. A few adapted. They crawled into the dunes and became something new. But they never forgot their roots. They still managed to keep their poisonous and acidic abilities. It's often a prey to the Ancient Remnant, however it still sits pretty high on the food chain...\""
+				""
+				"Threat Level - ☠☠"
+				"Summon - Can be found in the deserts randomly."
+				"Recommended Armor: Sandstone/Ancient Metal"
+			]
+			icon: "block_factorys_bosses:sandworm_spawn_egg"
+			id: "2C52BD9175C8591C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0A5CD1367D5B9D9A"
+					table_id: 1381197819932710815L
+					type: "all_table"
+				}
+				{
+					id: "48695071CFE90666"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "woodtier"
+			subtitle: "\"The Desert Scourge\""
+			tasks: [{
+				entity: "block_factorys_bosses:sandworm"
+				icon: "block_factorys_bosses:sandworm_spawn_egg"
+				id: "67E60F64F0A5D322"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFF28B&lS&#F6E885&li&#EEDE7E&lr&#E5D478&lo&#DDC972&lk&#D4BF6C&l, &#C3AB5F&lt&#BAA159&lh&#B29753&le &#A08246&lS&#987840&la&#8F6E39&ln&#866433&ld&#7E5A2D&lw&#754F27&lo&#6D4520&lr&#643B1A&lm"
+			x: 0.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["2C52BD9175C8591C"]
+			icon: "ancient_elements:ancient_metal_ingot"
+			id: "5ADD19053C4B7CF4"
+			rewards: [{
+				id: "25BD765BE5F557E7"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			subtitle: "You can now use Ancient Metal (Ore)."
+			tasks: [{
+				id: "1A13A07933699FD9"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Ancient Metal!"
+			x: 2.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0FFB5606107A5CFB"]
+			description: [
+				"Threat Level - 💀"
+				"Summon - Find it with an Eye of Frost."
+				"Recommended Armor: Same as main boss"
+			]
+			hide_until_deps_complete: true
+			icon: "legendary_monsters:frostbitten_golem_spawn_egg"
+			id: "34FFCC6031846920"
+			rewards: [
+				{
+					id: "422C741D5C62D337"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 4
+					id: "456BF98480072D7F"
+					item: "legendary_monsters:primal_ice_shard"
+					type: "item"
+				}
+				{
+					id: "4D4326568ACA2FE5"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:frost_walker"
+								lvl: 2s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "legendary_monsters:frostbitten_golem"
+				icon: "legendary_monsters:frostbitten_golem_spawn_egg"
+				id: "429EED1F22A6B5E9"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#A9FCFFM&#AAFAFCi&#AAF7FAn&#ABF5F7i&#ACF2F5b&#ADF0F2o&#ADEDF0s&#AEEBEDs&#AFE8EA: &#B0E3E5F&#B1E1E3r&#B2DEE0o&#B3DCDEs&#B3DADBt&#B4D7D8b&#B5D5D6i&#B5D2D3t&#B6D0D1t&#B7CDCEe&#B8CBCBn &#B9C6C6G&#BAC3C4o&#BBC1C1l&#BBBEBFe&#BCBCBCm"
+			x: 2.5d
+			y: 27.0d
+		}
+		{
+			dependencies: ["2C52BD9175C8591C"]
+			description: [
+				"Threat Level - 💀💀"
+				"Summon - Find it with an Eye of Moss."
+				"Recommended Armor: Same as main boss"
+			]
+			hide_until_deps_complete: true
+			icon: "legendary_monsters:overgrown_colossus_spawn_egg"
+			id: "11A358DDE1550B51"
+			rewards: [
+				{
+					id: "36B6DB2AB278D46B"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 4
+					id: "5EA0C54AA48DD6AC"
+					item: "legendary_monsters:nature_crystal"
+					type: "item"
+				}
+				{
+					id: "4D72A837D21BEF3F"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "iter_rpg:blighted_blade"
+								lvl: 2s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "55FB996D4DEEB30F"
+					item: {
+						Count: 1
+						id: "endrem:rogue_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "legendary_monsters:overgrown_colossus"
+				icon: "legendary_monsters:overgrown_colossus_spawn_egg"
+				id: "42F13C96E795DBAE"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#00A720M&#04A222i&#089E25n&#0C9927i&#11942Ab&#15902Co&#198B2Fs&#1D8731s&#218234: &#2A7939O&#2E743Bv&#326F3Ee&#366B40r&#3A6643g&#3E6245r&#435D48o&#47584Aw&#4B544Dn &#4F4F4FC&#4F4F4Fo&#4F4F4Fl&#4F4F4Fo&#4F4F4Fs&#4F4F4Fs&#4F4F4Fu&#4F4F4Fs"
+			x: -3.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["1E7EF3A8D1844B68"]
+			description: [
+				"\"The King of the gnome race, who possessed an army, ruled over a civilization of gnomes. He was one of the most respected rulers within the Overworld civilizations, until he and his governors became corrupted and greedy, and so he was imprisoned in a statue by his own rebels who wanted revenge.\""
+				""
+				""
+				""
+				"Threat Level - ☠☠☠☠"
+				"Summon - Use a red gnome hat on the gnome statue in a court of gnome structure. "
+				"Recommended Armor: Netherite"
+			]
+			icon: "terramity:gob_spawn_egg"
+			id: "3BCEF2EB36A3BF00"
+			rewards: [
+				{
+					id: "3DDD78977DB9754A"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 20
+					id: "32A23F48A161410C"
+					item: "terramity_paisleys_summoning:gnome_king_soul"
+					random_bonus: 14
+					type: "item"
+				}
+			]
+			shape: "woodtier"
+			size: 1.4d
+			tasks: [{
+				entity: "terramity:gob"
+				icon: "terramity:gob_spawn_egg"
+				id: "0709A2CC350262AF"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFE300&lG&#F3E100&lo&#E7DF00&lb&#DCDD00&l, &#C4DA00&lK&#B8D800&li&#ACD600&ln&#A0D400&lg &#89D000&lo&#7DCE00&lf &#65CA00&lG&#59C900&ln&#4EC700&lo&#42C500&lm&#36C300&le&#2AC100&ls"
+			x: -0.5d
+			y: 41.5d
+		}
+		{
+			dependencies: ["3BCEF2EB36A3BF00"]
+			icon: "terramity:dimlite_ingot"
+			id: "60AC8E36ABCCC0AB"
+			shape: "hexagon"
+			subtitle: "You can now use Dimlite armor."
+			tasks: [{
+				id: "11180E8FE43B37E9"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Dimlite!"
+			x: 1.5d
+			y: 41.0d
+		}
+		{
+			dependencies: ["3BCEF2EB36A3BF00"]
+			icon: "terramity:virentium_alloy_ingot"
+			icon_scale: 1.1d
+			id: "313617F6A3E41E21"
+			shape: "hexagon"
+			subtitle: "You can now use Virentium armor."
+			tasks: [{
+				id: "596DD58493D3DF15"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Virentium!"
+			x: -2.5d
+			y: 41.0d
+		}
+		{
+			dependencies: ["0FFB5606107A5CFB"]
+			dependency_requirement: "one_completed"
+			description: [
+				"\"A drowned mortal like me and you, risen from the frozen seas, she wears a three-bolted diving helmet as her crown. The visor is cracked. The glass is fogged with breath that should have stopped long ago. She does not speak. The water speaks for her. She rules over the Ice Maze, and the disturbing, eldritch marine life she calls family...\""
+				""
+				"Threat Level - ☠☠☠"
+				"Summon - Use a shell horn near an Ice Maze structure."
+				"Recommended Armor: Sapphire"
+			]
+			icon: "aquamirae:captain_cornelia_spawn_egg"
+			id: "315796EC3257B63F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "583F69057BE87E1F"
+					table_id: 1391229212240144316L
+					type: "all_table"
+				}
+				{
+					id: "540E4C4BF493955F"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				icon: "aquamirae:captain_cornelia_spawn_egg"
+				id: "5884CDFA7EEDE1EA"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#433E2F&lF&#403E34&lo&#3E3F39&lr&#3B3F3E&lg&#393F42&lo&#374045&lt&#354049&lt&#33404C&le&#314050&ln &#2D4157&lD&#2B415A&li&#29415E&lv&#274261&le&#254265&lr&#234268&l, &#1F436F&lC&#1C4373&la&#1A4376&lp&#18447A&lt&#16447D&la&#144481&li&#124584&ln &#0E458B&lC&#0C458F&lo&#0A4692&lr&#084696&ln&#064699&le&#04469D&ll&#0247A0&li&#0047A4&la"
+			x: -0.5d
+			y: 31.0d
+		}
+		{
+			dependencies: ["315796EC3257B63F"]
+			description: [
+				"\"A former beloved king of the Nether, he ruled upon thousands. One day, everything changed. His lair was infiltrated by overworld soldiers and was threatened for not giving up his people to the superior overworldly civilizations. He had declined, and when war came, he built an emergency fortress. He was killed quickly after, and his soul, combined with the rage of the other not undead people wanted revenge. They fused into the one, the only, Nether's King, and are waiting for visitors to butcher them alive...\""
+				""
+				"Threat Level - ☠☠☠"
+				"Summon - Use a wayward compass to find the Catacombs."
+				"Recommended Armor: Lunar Stone"
+			]
+			id: "076D4A2B2CA22CF2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7F17579904EEB018"
+					table_id: 8735145854740867393L
+					type: "all_table"
+				}
+				{
+					id: "22D59F45A1A9D819"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				icon: "irons_spellbooks:dead_king_corpse_spawn_egg"
+				id: "4F9951A63C2964BB"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#797979&lN&#7E7675&la&#837370&lm&#87706C&le&#8C6E68&ll&#916B63&le&#96685F&ls&#9B655B&ls &#A45F52&lR&#A95C4E&lu&#AE5A49&ll&#B25745&le&#B75441&lr&#BC513D&l, &#C64B34&lt&#CA4830&lh&#CF462B&le &#D94023&lD&#DE3D1E&le&#E23A1A&la&#E73716&ld &#F1320D&lK&#F52F09&li&#FA2C04&ln&#FF2900&lg"
+			x: 0.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["315796EC3257B63F"]
+			icon: "aquamirae:abyssal_amethyst"
+			id: "7621AB537CFCCD8A"
+			rewards: [{
+				id: "2A2DB3D7F39F9A6B"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "2733EF6A81BE11EE"
+				title: "Abyssal Amethyst "
+				type: "checkmark"
+			}]
+			title: "Unlocking Abyssal Amethyst!"
+			x: 1.5d
+			y: 31.0d
+		}
+		{
+			dependencies: ["3BCEF2EB36A3BF00"]
+			description: [
+				"\"A cunning and territorial guardian of the deep ocean, its carapace studded with gleaming amethyst crystals. Born from the lingering magic of the Ancient Builders, it scavenges the ruins of sunken and overgrown caves and defends them fiercely against intruders. Though small compared to the guardians of land or sky, its claws can crush netherite, and its brilliance hides a feral intelligence that lures the unwary into deadly traps...\""
+				""
+				"Threat Level - 💀💀"
+				"Summoning - Can be found in cataclysm structures."
+			]
+			hide_until_deps_complete: true
+			icon: "cataclysm:amethyst_crab_meat"
+			id: "411BD7F9666A60EB"
+			rewards: [
+				{
+					id: "2A8E57DD925BEC42"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 5
+					id: "0F3968DD55EC55AE"
+					item: "traveloptics:verdant_spellweave_ingot"
+					type: "item"
+				}
+			]
+			shape: "irontier"
+			size: 1.0d
+			tasks: [{
+				entity: "cataclysm:amethyst_crab"
+				icon: "cataclysm:amethyst_crab_meat"
+				id: "1BCE17334A179DB7"
+				title: "Kill 5 Amethyst Crabs."
+				type: "kill"
+				value: 5L
+			}]
+			title: "&#676767M&#5F695Ei&#566A54n&#4E6C4Bi&#466E42b&#3E7038o&#35712Fs&#2D7325s&#25751C: &#147809A&#0C7A00m&#1F6F17e&#32642Et&#455946h&#584E5Dy&#6B4374s&#7E378Bt &#A421B9C&#B716D1r&#CA0BE8a&#DD00FFb"
+			x: -4.5d
+			y: 41.5d
+		}
+		{
+			dependencies: ["3BCEF2EB36A3BF00"]
+			description: [
+				"\"Once a war hound of Khyros, it spread terror across realms. Exiled to the End for eternity, it now guards the void, a silent reminder that some flames of conflict never die, and some wars have no end. When killed, you merely have defeated the void corruption, but have disturbed the discord in the Ender Realm...\""
+				""
+				"Race - Dragon"
+				"Type - Ender"
+				"Element - Ender"
+				"Threat Level - ☠☠☠☠☠"
+				"Summon - Enter the end and it will wait for you. Destroy all pillaring crystals to stop it from regenerating."
+				"Recommended Armor: Topaz"
+			]
+			icon: "minecraft:dragon_head"
+			id: "4E179D098A4FFCA6"
+			rewards: [{
+				id: "327D51205EE94CAF"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "woodtier"
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "71CB1D8DB8208B73"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#18002D&lD&#1E0033&lr&#240039&la&#2A0040&lg&#300046&lo&#36004C&ln &#430058&lo&#49005E&lf &#55006B&lt&#5B0071&lh&#610077&le &#6D0083&lV&#73008A&lo&#790090&li&#800096&ld&#86009C&l, &#9200A9&lt&#9800AF&lh&#9E00B5&le &#AA00C1&lE&#B000C7&ln&#B600CE&ld&#BC00D4&le&#C200DA&lr &#CF00E6&lD&#D500EC&lr&#DB00F3&la&#E100F9&lg&#E700FF&lo&#E700FF&ln"
+			x: -0.5d
+			y: 46.5d
+		}
+		{
+			dependencies: ["4E179D098A4FFCA6"]
+			description: [""]
+			icon: {
+				Count: 1
+				id: "minecraft:elytra"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "684FF13A2DBA4AB4"
+			rewards: [
+				{
+					id: "12C14AAE7A2247CA"
+					type: "xp"
+					xp: 5
+				}
+				{
+					count: 32
+					id: "5AA4135652C6E9CA"
+					item: {
+						Count: 1
+						id: "minecraft:firework_rocket"
+						tag: {
+							Fireworks: {
+								Flight: 1b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "You can now obtain the Elytra via End Cities."
+			tasks: [{
+				id: "01633502100512D1"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Flight!"
+			x: -3.0d
+			y: 46.5d
+		}
+		{
+			dependencies: ["2C5F85A31EC38AD8"]
+			description: [
+				"Threat Level - 💀"
+				"Summon - Find it with an Eye of Frost."
+				"Recommended Armor: Same as main boss"
+			]
+			hide_until_deps_complete: true
+			icon: "valoria:king_crab_spawn_egg"
+			id: "298CD855CE8998EE"
+			rewards: [
+				{
+					id: "378EC69ADE62F3FE"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 4
+					id: "7B8CC40632965BFD"
+					item: "valoria:oceanic_shell"
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "1FD9DE095ACDD32B"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:aqua_affinity"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "valoria:king_crab"
+				icon: "valoria:king_crab_spawn_egg"
+				id: "221BF2765C5D50A8"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FF0000M&#F10B0Ei&#E3151Cn&#D5202Bi&#C62B39b&#B83647o&#AA4055s&#9C4B63s&#8E5671: &#716B8EK&#63769Ci&#5581AAn&#478BB8g &#2BA1D5C&#1CACE3r&#0EB6F1a&#00C1FFb"
+			x: 1.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["076D4A2B2CA22CF2"]
+			id: "3E96316D6D7EE20A"
+			shape: "circle"
+			tasks: [{
+				entity: "legendary_monsters:skeletosaurus"
+				icon: "legendary_monsters:skeletosaurus_spawn_egg"
+				id: "0BCB98B58707C991"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFF8E2M&#F8F1DCi&#F1EBD7n&#EAE4D1i&#E3DECCb&#DCD7C6o&#D6D0C0s&#CFCABBs&#C8C3B5: &#BAB6AAS&#B3B0A5k&#ACA99Fe&#A5A299l&#9E9C94e&#97958Et&#908F89o&#8A8883s&#83817Da&#7C7B78u&#757472r&#6E6E6Du&#676767s"
+			x: -2.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["315796EC3257B63F"]
+			description: [
+				"Threat Level - 💀"
+				"Summon - Find it with an Eye of Frost."
+				"Recommended Armor: Same as main boss"
+			]
+			hide_until_deps_complete: true
+			icon: "aquamirae:eel_spawn_egg"
+			id: "325AD203446DC110"
+			rewards: [
+				{
+					id: "274794EE4A56DFCC"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 12
+					id: "7DF70F6A97A848AF"
+					item: "terramity:sapphire"
+					random_bonus: 12
+					type: "item"
+				}
+				{
+					id: "6EA5C356FD073686"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:aqua_affinity"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "aquamirae:eel"
+				icon: "aquamirae:eel_spawn_egg"
+				id: "1CF6B8BB02612F95"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#18ABFFM&#17A0F2i&#1596E6n&#148BD9i&#1280CCb&#1176C0o&#0F6BB3s&#0E60A6s&#0D569A: &#0A4080T&#083573h&#072B67e &#04154DE&#020B41e&#010034l"
+			x: -2.5d
+			y: 31.0d
+		}
+		{
+			dependencies: ["076D4A2B2CA22CF2"]
+			description: [
+				"\"Buried deep in a dungeon of crystalline geysers, it was once a soldier. Now it is a wall of hardened flesh and jagged pink shards, a tank that does not fall so much as refuse to move. The crystals grow through its bones, replacing marrow with mineral. When it slams the ground, the earth splits. Spires of salt carve upward from below the surface, impaling anything too slow to run...\""
+				""
+				""
+				""
+				"Threat Level - ☠☠☠"
+				"Summon - Can be found in a Pink Salt shrine."
+				"Recommended Armor: Titanium"
+			]
+			id: "1E7EF3A8D1844B68"
+			rewards: [
+				{
+					id: "326CFDFD3D4DF423"
+					type: "xp"
+					xp: 40
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A0D9BAA188E3AB7"
+					table_id: 1825063994207944285L
+					type: "all_table"
+				}
+			]
+			shape: "woodtier"
+			tasks: [{
+				entity: "galosphere:berserker"
+				icon: "galosphere:berserker_spawn_egg"
+				id: "06786D1EE17295AA"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#F1B9D2&lP&#EBB5CD&lr&#E5B2C8&le&#DEAEC3&ls&#D8ABBE&le&#D2A7B9&lr&#CCA4B4&lv&#C5A0AF&le&#BF9DAA&ld &#B396A1&lJ&#AC929C&lu&#A68F97&lg&#A08B92&lg&#9A888D&le&#938488&lr&#8D8183&ln&#877D7E&la&#817979&lu&#7B7674&lt&#74726F&l, &#686B65&lt&#626860&lh&#5B645B&le &#4F5D52&lB&#495A4D&le&#425648&lr&#3C5343&ls&#364F3E&le&#304C39&lr&#294834&lk&#23452F&le&#1D412A&lr"
+			x: -1.5d
+			y: 38.0d
+		}
+		{
+			dependencies: ["4E179D098A4FFCA6"]
+			description: [
+				"\"Once a war hound of Khyros, it spread terror across realms. Exiled to the End for eternity, it now guards the void, a silent reminder that some flames of conflict never die, and some wars have no end. When killed, you merely have defeated the void corruption, but have disturbed the discord in the Ender Realm...\""
+				""
+				"Race - Dragon"
+				"Type - Ender"
+				"Element - Ender"
+				"Threat Level - ☠☠☠☠☠"
+				"Summon - Enter the end and it will wait for you. Destroy all pillaring crystals to stop it from regenerating."
+				"Recommended Armor: Topaz"
+			]
+			id: "6D8D42485BA9C88D"
+			rewards: [
+				{
+					id: "1F071EC84EB07708"
+					type: "xp"
+					xp: 40
+				}
+				{
+					auto: "invisible"
+					id: "45038501A0968A9D"
+					ignore_reward_blocking: true
+					stage: "post_dryador"
+					type: "gamestage"
+				}
+			]
+			shape: "woodtier"
+			size: 2.0d
+			tasks: [{
+				entity: "valoria:dryador"
+				icon: "valoria:dryador_spawn_egg"
+				id: "29D4EB3D755B2A65"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#602300&lW&#5D2702&le&#5A2C04&li&#563007&ll&#533409&ld&#50390B&le&#4D3D0D&lr &#464611&lo&#434A14&lf &#3D5318&lH&#3A571A&la&#365B1C&lr&#33601E&lm&#306421&lo&#2D6823&ln&#2A6D25&ly&#267127&l, &#207A2B&lt&#1D7E2E&lh&#1A8230&le &#138B34&lD&#108F36&lr&#0D9438&ly&#0A983B&la&#069C3D&ld&#03A13F&lo&#00A541&lr"
+			x: 1.0d
+			y: 53.0d
+		}
+		{
+			id: "0EABE1CDBCFF4736"
+			rewards: [
+				{
+					id: "380954A064C28CA9"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "001B1D5C3DA888BA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:evoker"
+				id: "7D7092362110B69E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Evoker"
+			x: -14.0d
+			y: 14.0d
+		}
+		{
+			id: "682DE10B2A59D78B"
+			rewards: [
+				{
+					id: "0965798ADC49ECA2"
+					item: {
+						Count: 1
+						id: "terramity:handcannon"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "064C2C3C2AE0A4F5"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tasks: [{
+				entity: "raidsenhanced:raid_blimp"
+				icon: "raidsenhanced:raid_blimp_spawn_egg"
+				id: "4088E2FE370B4CBE"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Raider Blimp"
+			x: -12.5d
+			y: 14.5d
+		}
+		{
+			id: "2C676A10951A80A4"
+			rewards: [
+				{
+					count: 12
+					id: "43CDE1AD7852FBC7"
+					item: "kubejs:exotic_plating"
+					random_bonus: 12
+					type: "item"
+				}
+				{
+					id: "122F6703A7DA5F1C"
+					type: "xp"
+					xp: 75
+				}
+			]
+			tasks: [{
+				entity: "raidsenhanced:golem_of_last_resort"
+				icon: "raidsenhanced:golem_of_last_resort_spawn_egg"
+				id: "443D3F2198175162"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Golem of Last Resort"
+			x: -11.0d
+			y: 15.0d
+		}
+		{
+			id: "646018653B7AFB40"
+			rewards: [
+				{
+					id: "01A59039FB5662F6"
+					item: {
+						Count: 1
+						id: "ancient_elements:diamond_drill"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34DC76942A729B21"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "raidsenhanced:raid_drill"
+				icon: "raidsenhanced:raid_drill_spawn_egg"
+				id: "7F744407EFFD4ECD"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Raider Drill"
+			x: -9.5d
+			y: 14.5d
+		}
+		{
+			id: "2854BA866A444CF1"
+			rewards: [
+				{
+					count: 12
+					id: "201CE207D334D3E0"
+					item: "irons_spellbooks:lightning_bottle"
+					random_bonus: 12
+					type: "item"
+				}
+				{
+					id: "2C8C99CCD50FC855"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				entity: "raidsenhanced:zapper"
+				icon: "raidsenhanced:zapper_spawn_egg"
+				id: "76BA091FCD8326C1"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Zapper"
+			x: -8.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["6D8D42485BA9C88D"]
+			icon: "valoria:nature_upgrade_smithing_template"
+			id: "1417539251132BE6"
+			rewards: [{
+				id: "0258B6272935E1FB"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "10347F65401FAB84"
+				title: "Unlocking Nature Gear!"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 53.0d
+		}
+		{
+			dependencies: ["6D8D42485BA9C88D"]
+			icon: "lifefruit:life_fruit_with_vine"
+			id: "1869F396F050C5F5"
+			rewards: [{
+				id: "6B8A477FDFBEA037"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "005D809C9F453A12"
+				title: "Unlocking Life Fruits!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Life Fruit!"
+			x: -1.5d
+			y: 53.0d
+		}
+	]
+	title: "Ensemble of Fools"
+}

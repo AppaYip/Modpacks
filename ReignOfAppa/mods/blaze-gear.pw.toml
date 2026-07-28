@@ -1,0 +1,13 @@
+name = "Blaze Gear"
+filename = "blazegear-1.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0834fbfd1df5e75a54089ab3ba044c623af02e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7670703
+project-id = 418589

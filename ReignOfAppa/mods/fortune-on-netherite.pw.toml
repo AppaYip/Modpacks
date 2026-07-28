@@ -1,0 +1,13 @@
+name = "Fortune on Netherite"
+filename = "fortune_on_netherite_1.1.0_forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5d02c36342f334b1dfd40fd199dd7c8ab1c37b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5312998
+project-id = 995076

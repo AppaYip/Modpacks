@@ -1,0 +1,48 @@
+{
+	id: "1953EE087B1EBE5D"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "endrem:lost_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "ancient_elements:aurora_crystal" }
+		{
+			count: 24
+			item: {
+				Count: 1
+				id: "irons_spellbooks:scroll"
+				tag: {
+					"irons_spellbooks:spell_container": {
+						data: [{
+							id: "gtbcs_geomancy_plus:dripstone_bolt"
+							index: 0
+							level: 7
+							locked: 1b
+						}]
+						maxSpells: 1
+						mustEquip: 0b
+						spellWheel: 0b
+					}
+				}
+			}
+			random_bonus: 6
+		}
+		{
+			item: {
+				Count: 1
+				id: "undergarden:cloggrum_shield"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Galo Reward"
+}

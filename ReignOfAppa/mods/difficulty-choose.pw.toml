@@ -1,0 +1,13 @@
+name = "Difficulty Choose"
+filename = "difficultychoose-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11a58816d3afdc6fb60f4df527fffa2142030c37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7753097
+project-id = 1459390

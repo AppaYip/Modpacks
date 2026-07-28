@@ -1,0 +1,36 @@
+{
+	id: "149F0FBDEF9ED694"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ count: 32, item: "astral_calamity_extras:hardened_permafrost", random_bonus: 8 }
+		{ count: 6, item: "terramity:sapphire", random_bonus: 6 }
+		{
+			item: {
+				Count: 1
+				id: "smc:frostium_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "traveloptics:ice_echo"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "endrem:cold_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ count: 24, item: "astral_calamity_extras:arctic_fur", random_bonus: 12 }
+	]
+	title: "Frostmaw Reward"
+}

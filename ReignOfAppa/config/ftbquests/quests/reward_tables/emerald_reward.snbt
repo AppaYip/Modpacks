@@ -1,0 +1,19 @@
+{
+	id: "308A034430FC9B63"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "brutality:emerald_anklet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "irons_spellbooks:emerald_stoneplate_ring" }
+		{ count: 18, item: "minecraft:emerald", random_bonus: 18 }
+	]
+	title: "Emerald Reward"
+}

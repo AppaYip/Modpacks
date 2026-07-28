@@ -1,0 +1,13 @@
+name = "Alex's Caves: Adventure"
+filename = "alexscaves_adventure-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "606e302b6125372d27e2ab6243f64c49963e3af8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5361823
+project-id = 1022406

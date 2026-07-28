@@ -1,0 +1,706 @@
+{
+	autofocus_id: "429615CD84F1A153"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	disable_toast: true
+	filename: "other_materials"
+	group: "30D554BA21B94801"
+	icon: "kubejs:quantum_alloy"
+	id: "063F36EE44CFDAA3"
+	images: [
+		{
+			alpha: 100
+			dependency: "3435F365FE7991DD"
+			height: 1.8d
+			image: "minecraft:item/barrier"
+			rotation: 0.0d
+			width: 1.8d
+			x: 31.5d
+			y: 0.0d
+		}
+		{
+			alpha: 100
+			dependency: "4FA8821DE7ECFC7D"
+			height: 1.0d
+			image: "azurelib:icons/error"
+			rotation: 12.0d
+			width: 1.0d
+			x: 32.5d
+			y: -1.0d
+		}
+		{
+			alpha: 100
+			dependency: "4FA8821DE7ECFC7D"
+			height: 0.8d
+			image: "azurelib:icons/error"
+			rotation: -32.0d
+			width: 0.8d
+			x: 30.5d
+			y: 0.0d
+		}
+		{
+			alpha: 100
+			dependency: "4FA8821DE7ECFC7D"
+			height: 0.6d
+			image: "azurelib:icons/error"
+			rotation: 26.0d
+			width: 0.6d
+			x: 32.5d
+			y: 0.5d
+		}
+		{
+			alpha: 100
+			dependency: "3435F365FE7991DD"
+			height: 0.6d
+			image: "azurelib:icons/error"
+			rotation: 26.0d
+			width: 0.6d
+			x: 32.5d
+			y: 0.5d
+		}
+		{
+			alpha: 100
+			dependency: "3435F365FE7991DD"
+			height: 1.0d
+			image: "azurelib:icons/error"
+			rotation: 12.0d
+			width: 1.0d
+			x: 32.5d
+			y: -1.0d
+		}
+		{
+			alpha: 100
+			dependency: "3435F365FE7991DD"
+			height: 0.8d
+			image: "azurelib:icons/error"
+			rotation: -32.0d
+			width: 0.8d
+			x: 30.5d
+			y: 0.0d
+		}
+		{
+			alpha: 100
+			dependency: "4FA8821DE7ECFC7D"
+			height: 1.8d
+			image: "minecraft:item/barrier"
+			rotation: 0.0d
+			width: 1.8d
+			x: 31.5d
+			y: 0.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"This chapter revolves around guiding you through much needed materials (which some of I added myself) to endgame weapons and gear."
+				""
+				"Most of these materials are end-game with aspects of early-mid game, so I recommend checking this chapter out after finishing the modpack or so."
+			]
+			id: "429615CD84F1A153"
+			rewards: [{
+				id: "3E339D88A5155916"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "5EEA74054199DD30"
+				title: "Other Materials"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "4BF4CB329485B513"
+			shape: "gear"
+			size: 5.0d
+			subtitle: "\"The alpha and the omega\""
+			tasks: [{
+				id: "1EF598FC98EFC49D"
+				item: "kubejs:quantum_alloy"
+				type: "item"
+			}]
+			x: 22.5d
+			y: 0.0d
+		}
+		{
+			id: "59E565329054F1C4"
+			size: 2.0d
+			tasks: [{
+				id: "75ACCADD8BDBC964"
+				item: "kubejs:star_of_eternity"
+				type: "item"
+			}]
+			x: 22.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"0296DE7225324CA4"
+				"35CB1ADF9E8A67BF"
+				"65D136BD7E0A4089"
+				"17A7E151CFD58516"
+				"5F401BBC66ABF9EC"
+			]
+			id: "5678342F3072E952"
+			size: 2.0d
+			tasks: [{
+				id: "39D144F9E15BC3BC"
+				item: "ancient_elements:alloy_of_elements"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 3.5d
+		}
+		{
+			id: "01D9256341A7AA1A"
+			size: 2.0d
+			tasks: [{
+				id: "17C3A6834447A746"
+				item: "kubejs:star_of_havoc"
+				type: "item"
+			}]
+			x: 26.0d
+			y: 3.5d
+		}
+		{
+			id: "572868118BC56FEC"
+			size: 2.0d
+			tasks: [{
+				id: "5E46238FA19A0C8E"
+				item: "kubejs:star_of_the_cosmos"
+				type: "item"
+			}]
+			x: 22.5d
+			y: -5.0d
+		}
+		{
+			id: "3420BE08430C57E2"
+			size: 2.0d
+			tasks: [{
+				id: "4752867DEED79E9B"
+				item: "kubejs:star_of_spectre"
+				type: "item"
+			}]
+			x: 26.0d
+			y: -3.5d
+		}
+		{
+			id: "07FF9AD58F9EE668"
+			size: 2.0d
+			tasks: [{
+				id: "4D91220B3C6F4237"
+				item: "astral_calamity_extras:hexite_ingot"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -3.5d
+		}
+		{
+			id: "17A7E151CFD58516"
+			tasks: [{
+				id: "62DDD74D77DD3EA4"
+				item: "ancient_elements:ruined_remnant"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["2BC1253E7C660457"]
+			id: "65D136BD7E0A4089"
+			size: 1.5d
+			tasks: [{
+				id: "0DBFAB047368C54B"
+				item: "kubejs:nebulae_alloy"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2087E9D8014F14AA"]
+			id: "35CB1ADF9E8A67BF"
+			size: 1.5d
+			tasks: [{
+				id: "74F0A00032E808D2"
+				item: "lethality:pixie_alloy"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["49A5AA4F7769953B"]
+			id: "0296DE7225324CA4"
+			size: 1.5d
+			tasks: [{
+				id: "6511BD781F17D64A"
+				item: "lethality:annihilation_alloy"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["34BEA014C3CC4C01"]
+			id: "5F401BBC66ABF9EC"
+			size: 1.5d
+			tasks: [{
+				id: "66FE160220DFB7A9"
+				item: "kubejs:auric_ingot"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 14.0d
+		}
+		{
+			id: "564E6A81507D0DDD"
+			shape: "rsquare"
+			tasks: [{
+				id: "4A00B6C762A6E077"
+				item: "terramity:energized_core"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 18.0d
+		}
+		{
+			id: "34BEA014C3CC4C01"
+			shape: "rsquare"
+			tasks: [{
+				id: "0F2BF57E289D1D34"
+				item: "terramity:conductite"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 17.0d
+		}
+		{
+			id: "5EF778D4A643C003"
+			shape: "rsquare"
+			tasks: [{
+				id: "7A77C804EB195B47"
+				item: "dungeons_and_combat:essence_of_sunleia"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 17.0d
+		}
+		{
+			id: "64612FBABAB37B36"
+			shape: "rsquare"
+			tasks: [{
+				id: "5CEB171B431BB022"
+				item: "cataclysm:essence_of_the_storm"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 17.0d
+		}
+		{
+			id: "106FF8B7A17A34AB"
+			shape: "rsquare"
+			tasks: [{
+				id: "39DFD8005FB0BA54"
+				item: "terramity:reverium"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 18.0d
+		}
+		{
+			id: "02D29159074307EA"
+			shape: "rsquare"
+			tasks: [{
+				id: "0F3CCD67EB77ED2C"
+				item: "kubejs:exomechanical_ingot"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 18.0d
+		}
+		{
+			id: "69E0FA11697EDDC0"
+			shape: "rsquare"
+			tasks: [{
+				id: "6078AD72C6BC7277"
+				item: "minecraft:experience_bottle"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 19.0d
+		}
+		{
+			id: "0025FD709E271D01"
+			shape: "rsquare"
+			tasks: [{
+				id: "7049877F7DCEC297"
+				item: "composite_material:evolutium"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 19.0d
+		}
+		{
+			id: "780DAD49EAABF3FD"
+			shape: "rsquare"
+			tasks: [{
+				id: "31A4886B5BDE06BB"
+				item: "cataclysm_spellbooks:mechanical_scrap"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 19.0d
+		}
+		{
+			id: "2087E9D8014F14AA"
+			shape: "rsquare"
+			tasks: [{
+				id: "7D64D89C2C59A7F4"
+				item: "terramity:cosmilite_ingot"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 12.5d
+		}
+		{
+			id: "3934E78B18AAF3A6"
+			shape: "rsquare"
+			tasks: [{
+				id: "415801994C6D83FF"
+				item: "terramity:empty_essence"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 11.5d
+		}
+		{
+			id: "7715AF3DDE131099"
+			shape: "rsquare"
+			tasks: [{
+				id: "4A141D98986C4A6A"
+				item: "aquamirae:abyssal_amethyst"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 13.5d
+		}
+		{
+			id: "588A56F5BC4C4538"
+			shape: "rsquare"
+			tasks: [{
+				id: "5E13D9D190DB33A4"
+				item: "irons_spellbooks:arcane_ingot"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 11.5d
+		}
+		{
+			id: "396E38D72E2B3057"
+			shape: "rsquare"
+			tasks: [{
+				id: "22037F5E29887607"
+				item: "cataclysm:void_core"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 12.5d
+		}
+		{
+			id: "1CC43F6C17FDB473"
+			shape: "rsquare"
+			tasks: [{
+				id: "4B8A12FF38B3495D"
+				item: "traveloptics:abyssal_spellweave_ingot"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 13.5d
+		}
+		{
+			id: "2E35363C26298B75"
+			shape: "rsquare"
+			tasks: [{
+				id: "4E9CA4C4852E0ED4"
+				item: "terramity:fairy_dust"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 11.5d
+		}
+		{
+			id: "1D2C91FC404A1963"
+			shape: "rsquare"
+			tasks: [{
+				id: "52E6D3CDD04FF332"
+				item: "composite_material:echoium_ingot"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 12.5d
+		}
+		{
+			id: "2DDB1E5AC6EBAC42"
+			shape: "rsquare"
+			tasks: [{
+				id: "2C22E2831A47296C"
+				item: "terramity:warden_soul"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 13.5d
+		}
+		{
+			id: "2BC1253E7C660457"
+			shape: "rsquare"
+			tasks: [{
+				id: "685FDFEAA2F1D0CA"
+				item: "traveloptics:hullbreaker_steel"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 8.5d
+		}
+		{
+			id: "1281C41CC146DB5B"
+			shape: "rsquare"
+			tasks: [{
+				id: "644604AF96EEDFF1"
+				item: "cataclysm:lacrima"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.5d
+		}
+		{
+			id: "3D0DBA4DB5381C1B"
+			shape: "rsquare"
+			tasks: [{
+				id: "2A8469C7C2073535"
+				item: {
+					Count: 1
+					id: "enigmaticlegacy:earth_heart"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 8.5d
+		}
+		{
+			id: "7C9D796EEFFC52E1"
+			shape: "rsquare"
+			tasks: [{
+				id: "067A59D5C2672F99"
+				item: "traveloptics:tremor_core"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 7.5d
+		}
+		{
+			id: "4C70307BE150270C"
+			shape: "rsquare"
+			tasks: [{
+				id: "4F928663D6692D42"
+				item: "traveloptics:tectonic_ingot"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 7.5d
+		}
+		{
+			id: "05766EBC149589F4"
+			shape: "rsquare"
+			tasks: [{
+				id: "131882803652AF0F"
+				item: "cataclysm:ancient_metal_ingot"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.5d
+		}
+		{
+			id: "318A0A1CC6CF1A3C"
+			shape: "rsquare"
+			tasks: [{
+				id: "72B416D6487D9CEC"
+				item: "traveloptics:verdant_spellweave_ingot"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			id: "3D031B59C6B19ECD"
+			shape: "rsquare"
+			tasks: [{
+				id: "195F55F1546F2E8A"
+				item: "cataclysm:cursium_ingot"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 6.5d
+		}
+		{
+			id: "3FC4AEB697E074E1"
+			shape: "rsquare"
+			tasks: [{
+				id: "548AB4312840267F"
+				item: "aquamirae:ship_graveyard_echo"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 6.5d
+		}
+		{
+			id: "49A5AA4F7769953B"
+			shape: "rsquare"
+			tasks: [{
+				id: "03C98E8BF3D849E5"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 12.5d
+		}
+		{
+			id: "41B4A9D934B8D1E4"
+			shape: "rsquare"
+			tasks: [{
+				id: "00D83303D627280E"
+				item: "valoria:pain_crystal"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			id: "4FACFE8082B03A25"
+			shape: "rsquare"
+			tasks: [{
+				id: "0B6B3613C804AEF4"
+				item: "lethality:nihilite"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.5d
+		}
+		{
+			id: "18B4D79778E1A324"
+			shape: "rsquare"
+			tasks: [{
+				id: "2B9BE925DA651704"
+				item: "dungeons_and_combat:ebony_ingot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.5d
+		}
+		{
+			id: "4397819DDCF7455C"
+			shape: "rsquare"
+			tasks: [{
+				id: "173032957A615BEA"
+				item: "kubejs:wither_soul"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 11.5d
+		}
+		{
+			id: "52EFC03401AEC271"
+			shape: "rsquare"
+			tasks: [{
+				id: "0C340A4718EB088A"
+				item: "terramity:chthonian_void"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 13.5d
+		}
+		{
+			id: "4805F83F104D2A1C"
+			shape: "rsquare"
+			tasks: [{
+				id: "64EC9C9D78040AA8"
+				item: "terramity:profanum"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			id: "4798D7975821411F"
+			shape: "rsquare"
+			tasks: [{
+				id: "1453345ACB424A0B"
+				item: "terramity:raw_profanum"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 13.5d
+		}
+		{
+			id: "126DDF4FAABE95A2"
+			shape: "rsquare"
+			tasks: [{
+				id: "477B84D440E19970"
+				item: "terramity:hellspec_alloy"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["4BF4CB329485B513"]
+			hide_until_deps_complete: true
+			id: "4FA8821DE7ECFC7D"
+			subtitle: "\"Where does this go?\""
+			tasks: [{
+				id: "6DACC1E3DEE1E741"
+				item: "born_in_chaos_v1:ethereal_spirit"
+				type: "item"
+			}]
+			x: 28.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4BF4CB329485B513"]
+			hide_until_deps_complete: true
+			id: "3435F365FE7991DD"
+			subtitle: "\"Where does this go?\""
+			tasks: [{
+				id: "48EC189C4981C7AA"
+				item: "lethality:charged_redstone_piece"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"4BF4CB329485B513"
+				"4FA8821DE7ECFC7D"
+				"3435F365FE7991DD"
+			]
+			description: ["The boss rush will be an event in the future of this modpack. Not yet implemented."]
+			hide_until_deps_complete: true
+			id: "14E330CA33E2422D"
+			subtitle: "\"Do you wish to face my challange?\""
+			tasks: [{
+				id: "251F30677BC46C9B"
+				item: "born_in_chaos_v1:stop_hammer"
+				type: "item"
+			}]
+			x: 31.5d
+			y: 0.0d
+		}
+	]
+	title: "&#FF0000O&#FF2900t&#FF5300h&#FF7C00e&#FFA500r &#88E100M&#4CFF00a&#39EA40t&#26D680e&#13C1BFr&#00ACFFi&#1D76F0a&#3940E1l&#560AD2s"
+}

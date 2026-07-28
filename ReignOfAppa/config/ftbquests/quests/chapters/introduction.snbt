@@ -1,0 +1,263 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "introduction"
+	group: "23991C25692BA3B8"
+	icon: "minecraft:book"
+	id: "5FC044DB0CD34CAB"
+	images: [
+		{
+			height: 2.0d
+			image: "enigmaticlegacy:item/cosmic_heart"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.6d
+			image: "born_in_chaos_v1:item/cursing_eye"
+			rotation: 0.0d
+			width: 1.6d
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			height: 1.6d
+			image: "mmt:item/gears/silicon"
+			rotation: 0.0d
+			width: 1.6d
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			height: 1.6d
+			image: "fdbosses:textures/gui/geburah_sin_scales.png"
+			rotation: 0.0d
+			width: 1.6d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.6d
+			image: "supplementaries:item/cartographers_quill"
+			rotation: 0.0d
+			width: 1.6d
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.6d
+			image: "minecraft:item/book"
+			rotation: 0.0d
+			width: 1.6d
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			height: 1.6d
+			image: "ancient_elements:item/collapse_prism"
+			rotation: 0.0d
+			width: 1.6d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "brutality:particle/terra/terra_particle_2"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.6d
+			image: "minecraft:textures/mob_effect/glowing.png"
+			rotation: 0.0d
+			width: 1.6d
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			height: 1.56d
+			image: "smc:item/rainbow_chip"
+			rotation: 0.0d
+			width: 1.56d
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			height: 1.56d
+			image: "ftblibrary:icons/time"
+			rotation: 0.0d
+			width: 1.56d
+			x: 1.0d
+			y: 7.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Infernal Eclipse of Ragnarok is a modpack that takes heavy inspiration from the &aTerraria modpack&r also called \"Infernal Eclipse of Ragnarok\". It tries to replicate its progression and key features as well as balancing items and having Quality of Life mods. "
+				"{@pagebreak}"
+				"This modpack is heavily inspired by &cterraria, calamity&r and their lore, but altering some parts to make it compatible and make sense with the content already present in the &aminecraft modpack version.&r It is recommended to turn &akeep inventory on&r due to the sheer amount of times you will die. Some bosses are &5extremely powerful&r and require planning, strategy and loadouts to be beatable. You may find yourself fully confident after defeating a boss, and losing that confidence completely when summoning the boss after. Don't worry, it's all a part of the game. If you wish, you can lower the game's &cdifficulty,&r though for a certain price."
+				"{@pagebreak}"
+				"This world was a normal, peaceful valley, full of life and love."
+				""
+				"Until, one day, a &5massive rift&r opened up in the skies above us. This rift spat out massive fragments of unknown dimensions we have never seen before. There was this &4hellish fragment,&r that spread around hellish rocks and magma, then a &dcosmic fragment,&r that spread around moon rocks and cryptic voidic life, and a &9faerie fragment&r that spread unknown life forms and magical landscape on our world."
+				""
+				"These fragments took millenia to remove, but once they were eradicated, that plague &cnever left our realm.&r No one knows the origin of this rift, and everybody here waits for someone brave enough to enter these worlds and wipe out the source of this corruption. Entities in this world have been infected, and they turn on other passive creatures, like &byou.&r "
+				""
+				"Legends say, that this corruption is otherworldly and can only be awakened with ancient cryptic scrolls. May this be, caused by a &5sorcerer?&r Or &csorcerers...?&r Or maybe even &9both...?&r"
+			]
+			id: "34F09F22F9EA4282"
+			rewards: [{
+				id: "0B2980275113889A"
+				type: "xp"
+				xp: 5
+			}]
+			size: 1.3d
+			tasks: [{
+				id: "38104521739ED62C"
+				title: "What is this even about?"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["This item grants you &47 massive debuffs,&r but &b7 great buffs.&r Use at your own risk. Once equipped, this item &ccannot&r be removed out of your accessory slot. Unless, an unknown activity is made. It can also determine &dcertain loot items&r to drop from certain enemies/bosses, so a powerful artifact can only be obtained when the player is wearing the ring."]
+			icon: "enigmaticlegacy:cursed_ring"
+			id: "359A7FACBB85DE8E"
+			tasks: [{
+				id: "15ADF871D7C4174A"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			description: ["When you spawn and your world is laggy, either run away from spawn (if you have a good spawn) or consider &acreating a new world entirely&r&a,&r since the modpack is known to have &4heavy&r &4lagging issues&r when near massive/data overwhelming structures. The same goes for bases, I recommend making smaller bases with less stuff (&euse R. Storage instead of chests&r, spread out your crafting stations in different bases and use waystones to teleport)."]
+			id: "787FB0FDDCE55572"
+			tasks: [{
+				id: "05F70EC9CE542EB7"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			title: "First Steps"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			description: ["You may be used to some mods used in this modpack, but some bosses, items and other stuff have been &enerfed/buffed&r so it fits lore/the story's progression. Follow the guides provided in the quest chapters if you get lost. The Progression chapters are used when you're &cstuck in specific mods/don't know how to progress further.&r The other lists, such as &balloys and materials, armors, bosses are provided for further information and how to get better gear.&r"]
+			id: "0BDB0025C7527A34"
+			tasks: [{
+				id: "0B2DF48C06750B75"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			title: "Rebalancing"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			description: ["When you're lost somewhere, &cREAD THE QUEST DESCRIPTIONS CAREFULLY.&r Some may contain very useful and crucial information on progression. Also, make sure to check out every chapter for some starter gear and tips how to progress."]
+			id: "572C68B8FD9EBA43"
+			tasks: [{
+				id: "31EFDFB06180B815"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			title: "READ!!!"
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			description: ["This modpack has a story, and the progression tries to follow it based on the strength or power level of certain bosses. You don't have to read it if you don't want to, but I made a story for immersion to (almost) every boss fight."]
+			id: "35F10FCD646A4764"
+			tasks: [{
+				id: "482822DE38FEC8C8"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			title: "Story"
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			description: ["At the start of loading into your world, you will get 4 options on what difficulty you want your world on. There is either &aEasy,&r &eNormal,&r &cHard&r or &dExpert.&r This modpack is quite challanging on its own, so I recommend Normal for your first playthrough. After defeating the Trial Guardian, the first &4\"Hardmode\"&r stage will begin. Mobs will get stronger, faster, geared up but will drop more loot and more rewarding loot. After beating the Enchanters (Archmage Gundalf), your world will be permanently set into &9Nightmare mode.&r This will buff every enemy AGAIN and they will be extremely powerful, especially bosses. &4Be prepared for a challange.&r"]
+			id: "2034222F3BA7B0BB"
+			tasks: [{
+				id: "565E278D3E6974B5"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			title: "Difficulties"
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			description: ["Even if you may argue, that keep inventory is a weak move, I strongly recommend turning it on. You will die. &4MANY&r times."]
+			id: "72F401DAC71328F0"
+			tasks: [{
+				id: "6DC5369A500B75BE"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			title: "Keep Inv"
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: ["This is a repeatable quest, you can throw out every book in your inventory, as you can infinitely recollect them from this quest."]
+			id: "63B468A9BCE419DA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3176C9DF97F7D0D8"
+				table_id: 3203595871553713684L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "60546996842452F3"
+				title: "Ring of the Seven Curses"
+				type: "checkmark"
+			}]
+			title: "Guides"
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			description: [
+				"Thank you everyone for your support in the Terramity Discord server. I wouldn't have made it this far if it wasn't for your support, I really appreciate it :)"
+				""
+				"Credits to &5DM Dokuro,&r &4Machinae Supremacy,&r &6ENNWAY,&r &bPinPinNeon,&r &2RGRedsky,&r &9TheTrester,&r &1CDMusic,&r &3Gabey Garbs,&r &ctheforge129&r and &dHearts Plus Up&r for their amazing music that I've used in this modpack, I really appreciate it."
+				""
+				"&bCredits to Aurukel for the Voltaic Ingot sprite :)&r"
+			]
+			id: "63BD85DA3CC68457"
+			tasks: [{
+				id: "16AC9EDCC6FD9172"
+				title: "Credits"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			description: ["This modpack will gain updates that will either expand the quest book, lore, or the modpack's content itself. Upcoming updates will include the v1 version of Terramity, alongside the upcoming mods Malediction and Stellarbound."]
+			id: "1D4DAEE58F4F5402"
+			tasks: [{
+				id: "086FDCFBE930F619"
+				title: "Updates"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+	]
+	title: "Introduction"
+}

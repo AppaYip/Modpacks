@@ -1,0 +1,26 @@
+{
+	default_autoclaim_rewards: "disabled"
+	default_consume_items: false
+	default_quest_disable_jei: false
+	default_quest_shape: "circle"
+	default_reward_team: false
+	detection_delay: 20
+	disable_gui: false
+	drop_book_on_death: false
+	drop_loot_crates: false
+	emergency_items_cooldown: 300
+	grid_scale: 0.5d
+	hide_excluded_quests: false
+	icon: "lethality:nihilite"
+	lock_message: ""
+	loot_crate_no_drop: {
+		boss: 0
+		monster: 600
+		passive: 4000
+	}
+	pause_game: false
+	progression_mode: "linear"
+	show_lock_icons: false
+	title: "&#1C0F0F&l&o&nR&#330E13&l&o&ne&#490D18&l&o&ni&#600C1C&l&o&ng&#760C20&l&o&nn &#A30A29&l&o&no&#BA092D&l&o&nf &#D61438&l&o&nC&#DC203F&l&o&na&#E22C46&l&o&nl&#E8384D&l&o&na&#ED4453&l&o&nm&#F3505A&l&o&ni&#F95C61&l&o&nt&#FF6868&l&o&ny"
+	version: 13
+}

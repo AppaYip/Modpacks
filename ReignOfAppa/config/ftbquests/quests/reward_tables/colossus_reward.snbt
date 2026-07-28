@@ -1,0 +1,19 @@
+{
+	id: "2116229C5E1A4F54"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 8, item: "born_in_chaos_v1:pieceofdarkmetal", random_bonus: 8 }
+		{
+			item: {
+				Count: 1
+				id: "sniffsweapons:iron_great_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ count: 15, item: "create:andesite_alloy", random_bonus: 15 }
+	]
+	title: "Colossus Reward"
+}

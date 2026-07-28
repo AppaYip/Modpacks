@@ -1,0 +1,117 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "infernal_elements"
+	group: "0566FDA4895DFEF7"
+	icon: "valoria:infernal_core"
+	id: "6B455720213602F4"
+	images: [
+		{
+			height: 2.0d
+			image: "ancient_elements:particle/hellfire_explosion"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "terramity:item/chthonic_nectar"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.5d
+			y: 3.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The \"Deathlike Elements\" are three elements grouped into one, the \"Deathlike Elements\". These elements have their own magic classes, spells, armors and weapons. This chapter includes:"
+				""
+				"&6-Fire Element (Fire)&r"
+				""
+				"&c-Blood Element (Death)&r"
+				""
+				"&1-Eldritch Element (Sculk)&r"
+			]
+			id: "2C375042304A7473"
+			shape: "gear"
+			tasks: [{
+				id: "0920A060BD37D7EF"
+				title: "Primal Elements"
+				type: "checkmark"
+			}]
+			title: "Deathlike Elements"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:blood_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:blood_power"
+				}
+			}
+			id: "571B2F61FF9E36C8"
+			shape: "hexagon"
+			subtitle: "\"Become a necromancer\""
+			tasks: [{
+				id: "44C59DCEC8F9BB91"
+				type: "checkmark"
+			}]
+			title: "Blood Path"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:fire_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:fire_power"
+				}
+			}
+			id: "396293A0477EB4E2"
+			shape: "hexagon"
+			subtitle: "\"Become a pyromancer\""
+			tasks: [{
+				id: "7CB34B7753A82FC3"
+				type: "checkmark"
+			}]
+			title: "Fire Path"
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "traveloptics:eldritch_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "traveloptics:eldritch_power"
+				}
+			}
+			id: "4BADF95D575C34AF"
+			shape: "hexagon"
+			subtitle: "\"Become an omnimancer\""
+			tasks: [{
+				id: "5A1D1F3331BDAD0A"
+				type: "checkmark"
+			}]
+			title: "Eldritch Path"
+			x: 6.5d
+			y: 3.5d
+		}
+	]
+	title: "Deathlike Elements"
+}

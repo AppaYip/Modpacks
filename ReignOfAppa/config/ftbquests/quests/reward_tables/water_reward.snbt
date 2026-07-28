@@ -1,0 +1,33 @@
+{
+	id: "134EA398F4B867BC"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{
+			count: 3
+			item: {
+				Count: 1
+				id: "starcatcher:legendary_bait"
+				tag: { }
+			}
+		}
+		{ item: "enigmaticlegacy:ocean_stone" }
+		{
+			item: {
+				Count: 1
+				id: "traveloptics:aqua_echo"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "endrem:black_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Water Reward"
+}

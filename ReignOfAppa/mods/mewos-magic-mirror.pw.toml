@@ -1,0 +1,13 @@
+name = "mewo's Magic Mirror"
+filename = "magic-mirror-v1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7592a1bf47ea81e616b99ae5116d7ad411430fa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5653561
+project-id = 1088916

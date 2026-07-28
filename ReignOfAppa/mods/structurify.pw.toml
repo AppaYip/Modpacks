@@ -1,0 +1,13 @@
+name = "Structurify - Structure Control"
+filename = "structurify-forge-2.0.24+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b96d084b5c43d4555a33a6a3991fea19169c2f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8089084
+project-id = 1087551

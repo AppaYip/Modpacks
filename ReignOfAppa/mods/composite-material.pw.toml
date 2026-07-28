@@ -1,0 +1,13 @@
+name = "Composite Material"
+filename = "CompositeMaterial-Forge-1.20.1-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e05ffcfb048d07c24c7902f670b6477ab578f80d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6310307
+project-id = 982540

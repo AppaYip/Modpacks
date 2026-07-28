@@ -1,0 +1,1476 @@
+{
+	autofocus_id: "4359FC94C253A542"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "hardmode_bosses"
+	group: "7E4DAE23B4B00652"
+	icon: "born_in_chaos_v1:nightmare_stalker_skull"
+	id: "248A8CD5C8B67D7E"
+	images: [
+		{
+			dependency: "4359FC94C253A542"
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/omen.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			click: "command:/tellraw @p {\"text\":\"A faint purple light can be seen from the abyss.\",\"color\":\"#3B00F2\",\"bold\":true}"
+			dependency: "10F68BE2CAD21C5F"
+			height: 1.3d
+			image: "alexscaves:textures/misc/advancement/icon/deep_one_2.png"
+			rotation: 0.0d
+			width: 1.3d
+			x: 13.0d
+			y: 8.5d
+		}
+		{
+			dependency: "4359FC94C253A542"
+			height: 1.0d
+			hover: ["Deepling Mage"]
+			image: "traveloptics:item/armor/deepling_mage_robe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			alpha: 200
+			dependency: "4359FC94C253A542"
+			height: 2.0d
+			image: "relics:item/aqua_walker_bubble"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.5d
+			y: 8.0d
+		}
+		{
+			dependency: "10F68BE2CAD21C5F"
+			height: 1.0d
+			image: "ancient_elements:item/meteorite_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			alpha: 180
+			height: 2.0d
+			image: "brutality:textures/particle/enraged/enraged_particle_5.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			click: "command:/tellraw @p {\"text\":\"Stygian Blood is boiling with fury unlike ever before...\",\"color\":\"#B80F0F\",\"bold\":true}"
+			dependency: "52C255F1978ABAB3"
+			height: 1.0d
+			image: "brutality:item/curio/charm/rage_stone/rage_stone_inventory"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			hover: ["Nether Steel (Enraged Dead King)"]
+			image: "ancient_elements:item/nether_steel_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			alpha: 200
+			color: 16774136
+			dependency: "52C255F1978ABAB3"
+			height: 2.0d
+			image: "iter_rpg:item/air_fragment"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.0d
+			y: 15.0d
+		}
+		{
+			click: "command:/tellraw @p {\"text\":\"The skies have been cleared, and the sun grows restless...\",\"color\":\"#B8F9FF\",\"bold\":true}"
+			dependency: "0ECB2EBB07620232"
+			height: 1.0d
+			image: "legendary_monsters:item/eye_of_air"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 15.0d
+		}
+		{
+			dependency: "52C255F1978ABAB3"
+			height: 1.0d
+			hover: ["Aetherium"]
+			image: "ancient_elements:item/aetherium_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 13.0d
+		}
+		{
+			dependency: "75E54365308CF5B7"
+			height: 1.0d
+			image: "cataclysm:textures/mob_effect/monstrous.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 17.0d
+		}
+		{
+			dependency: "0ECB2EBB07620232"
+			height: 2.4d
+			image: "cataclysm:item/monstrous_eye"
+			rotation: 0.0d
+			width: 2.4d
+			x: -1.5d
+			y: 18.0d
+		}
+		{
+			alpha: 130
+			dependency: "75E54365308CF5B7"
+			height: 2.0d
+			image: "terramity:particle/cosmicboom"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 22.0d
+		}
+		{
+			click: "command:/tellraw @p {\"text\":\"The sniffer and its massive amount of energy has been shut down, and sent back into the endless cosmos. It is yet to be fought again... \",\"color\":\"#FFD221\",\"bold\":true}"
+			dependency: "64D459F378CEDB10"
+			height: 1.0d
+			image: "terramity:item/super_sniffers_pelt"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 21.0d
+		}
+		{
+			dependency: "75E54365308CF5B7"
+			height: 1.0d
+			image: "terramity:item/virentium_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 22.0d
+		}
+		{
+			dependency: "75E54365308CF5B7"
+			height: 1.0d
+			image: "terramity:item/dimlite_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 22.0d
+		}
+		{
+			dependency: "64D459F378CEDB10"
+			height: 2.0d
+			image: "born_in_chaos_v1:textures/mob_effect/dark_ward.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			alpha: 155
+			dependency: "3166B0C0FFA3F559"
+			height: 0.9d
+			image: "brutality:item/curio/head/trial_guardian_hands/trial_guardian_hands_inventory"
+			rotation: 180.0d
+			width: 0.9d
+			x: -1.5d
+			y: 28.0d
+		}
+		{
+			alpha: 155
+			dependency: "3166B0C0FFA3F559"
+			height: 0.9d
+			image: "brutality:item/curio/head/trial_guardian_hands/trial_guardian_hands_inventory"
+			rotation: 0.0d
+			width: 0.9d
+			x: 0.5d
+			y: 26.0d
+		}
+		{
+			dependency: "755CF48351AF7624"
+			height: 2.0d
+			image: "ieor:textures/ftbquesttitles/calamity.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: 31.0d
+		}
+		{
+			alpha: 167
+			click: "command:/tellraw @p {\"text\":\"Otherworldly voices linger around you...\",\"color\":\"#0C2F49\",\"bold\":true}"
+			color: 16774136
+			dependency: "3166B0C0FFA3F559"
+			height: 1.5d
+			image: "composite_material:item/warden_hand"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.5d
+			y: 24.0d
+		}
+		{
+			click: "command:/tellraw @p {\"text\":\"Otherworldly voices linger around you...\",\"color\":\"#0C2F49\",\"bold\":true}"
+			dependency: "3DD14B5CD5A9BA0B"
+			height: 3.0d
+			image: "deeperdarker:item/heart_of_the_deep"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.0d
+			y: 24.0d
+		}
+		{
+			dependency: "3DD14B5CD5A9BA0B"
+			height: 2.0d
+			image: "dungeons_and_combat:item/kamath_oath_alternative"
+			rotation: -45.0d
+			width: 2.0d
+			x: 2.5d
+			y: 9.0d
+		}
+		{
+			dependency: "755CF48351AF7624"
+			height: 2.0d
+			image: "traveloptics:item/smithing_template/tectonic_upgrade_smithing_template"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 34.5d
+		}
+		{
+			alpha: 200
+			dependency: "1261384A8F0362DC"
+			height: 1.8d
+			image: "cataclysm:textures/entity/soul_flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 1.8d
+			x: 1.5d
+			y: 38.0d
+		}
+		{
+			click: "command:/tellraw @p {\"text\":\"The otherworldly voices are guiding you to the broken portal...\",\"color\":\"#073C40\",\"bold\":true}"
+			dependency: "1261384A8F0362DC"
+			height: 1.4d
+			image: "legendary_monsters:item/eye_of_soul2"
+			rotation: 0.0d
+			width: 1.4d
+			x: -0.5d
+			y: 38.0d
+		}
+		{
+			dependency: "64C604010683712A"
+			height: 2.0d
+			image: "iter_rpg:item/ametrine_geode"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: 40.5d
+		}
+		{
+			dependency: "5C107B3C459B0883"
+			height: 3.0d
+			image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.75d
+			y: 11.75d
+		}
+		{
+			dependency: "5C1B5B56C010D055"
+			height: 1.3d
+			image: "enlightened_end:particle/nuclear_explosion"
+			rotation: 0.0d
+			width: 1.3d
+			x: 1.5d
+			y: 42.0d
+		}
+		{
+			dependency: "7266894061BC1832"
+			height: 5.0d
+			image: "kubejs:item/wither_soul"
+			rotation: 0.0d
+			width: 5.0d
+			x: 1.0d
+			y: 51.0d
+		}
+		{
+			dependency: "5986590B73F1D105"
+			height: 2.0d
+			image: "irons_spellbooks:item/upgrade_orb_holy"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			height: 1.4d
+			image: "terramity:item/chronoseraph_clock"
+			rotation: 0.0d
+			width: 1.4d
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			image: "valoria:item/unstable_core"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.5d
+			y: 46.0d
+		}
+		{
+			height: 3.0d
+			image: "ancient_elements:particle/elemental_glint"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.5d
+			y: 46.0d
+		}
+		{
+			dependency: "1261384A8F0362DC"
+			height: 2.0d
+			image: "eidolon:item/gold_inlay"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5d
+			y: 11.5d
+		}
+		{
+			dependency: "5C107B3C459B0883"
+			height: 1.0d
+			image: "legendary_monsters:item/ancient_spike"
+			rotation: 25.0d
+			width: 1.0d
+			x: -4.0d
+			y: 34.0d
+		}
+		{
+			dependency: "5C107B3C459B0883"
+			height: 1.0d
+			image: "legendary_monsters:item/ancient_spike"
+			rotation: -80.0d
+			width: 1.0d
+			x: -5.0d
+			y: 34.25d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5B35AFDC35F7F461"]
+			description: [
+				"\"An ancient fish type that has existed for hundereds of thousands years, it lurks within the dark thermal vents and hunts its prey if it has any presence of light...\""
+				""
+				"Threat Level - 💀💀"
+				"Summon - Spawns naturally in the Abyssal Chasm biome. Use a submarine to explore the biome better."
+				"Recomended Armor: Deepling Mage"
+			]
+			icon: "alexscaves:spawn_egg_hullbreaker"
+			id: "10F68BE2CAD21C5F"
+			rewards: [{
+				id: "79821C039C0C8B2C"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "irontier"
+			subtitle: "\"There's always a bigger fish\""
+			tasks: [{
+				entity: "alexscaves:hullbreaker"
+				icon: "alexscaves:spawn_egg_hullbreaker"
+				id: "7FE64FBA94DEE7AC"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#000330M&#000A39i&#001041n&#00174Ai&#001E53b&#00245Bo&#002B64s&#00316Cs&#003875: &#004586T&#004C8Fh&#005398e &#0060A9H&#0066B1u&#006DBAl&#0074C3l&#007ACBb&#0081D4r&#0088DDe&#008EE5a&#0095EEk&#009BF6e&#00A2FFr"
+			x: 9.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["52C255F1978ABAB3"]
+			description: [
+				"\"A sunken zombie, reshaped to be a supreme soldier of the oceans, guards the sea's gates of any threats along with his army of drowned. There is not much known about this foe, only that he used to weild the Trident as a former legendary weapon...\""
+				""
+				"Threat Level - ☠☠"
+				"Summon - Use a Seven Seas Concoction anywhere."
+			]
+			hide_until_deps_complete: true
+			id: "5BDA650BF33EADEC"
+			rewards: [
+				{
+					id: "5B9F9B407ABA0FA2"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "6F17336772E88829"
+					item: {
+						Count: 1
+						id: "traveloptics:aqua_echo"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "0E93A78AC9937229"
+					item: "iter_rpg:water_ingot"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					count: 7
+					id: "22D96807D18513E3"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "traveloptics:hydroshot"
+									index: 0
+									level: 2
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "irontier"
+			tasks: [{
+				entity: "iter_rpg:insatiable"
+				icon: "iter_rpg:insatiable_spawn_egg"
+				id: "2A56BEE5BA81B5DD"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#00FFE0M&#00F5DAi&#00EBD5n&#00E1CFi&#00D7C9b&#00CDC4o&#00C3BEs&#00B9B9s&#00AFB3: &#009BA8I&#0091A2n&#00879Cs&#007D97a&#007391t&#00698Ci&#005F86a&#005580b&#004B7Bl&#004175e"
+			x: -7.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["10F68BE2CAD21C5F"]
+			icon: "traveloptics:hullbreaker_steel"
+			id: "213C179DFDB778EF"
+			shape: "hexagon"
+			subtitle: "You can now obtain Hullbreaker Steel."
+			tasks: [{
+				id: "5C0B5D906A56A015"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Hullbreaker Steel!"
+			x: 13.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4E179D098A4FFCA6"]
+			description: ["This chapter will include bosses from hardmode, simply bosses after the Ender Dragon until the Primordial Elemental."]
+			id: "4359FC94C253A542"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "0B051300DA72F644"
+				title: "Hardmode Bosses"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["331AA02E14F4EFDF"]
+			description: [
+				"\"A former beloved king of the Caverns, he ruled upon thousands. One day, everything changed. His lair was infiltrated by surface dwellers and was threatened for not giving up his people to the superior surface civilizations. He had declined, and when a war came, he built emergency exits in the catacombs, he was captured and executed quickly after, and his soul, combined with the rage of the other undead forces wanted revenge. They fused into one, a corpse of the king, with fury of the undead. They await miners to walk by and mercilessly slaughter them...\""
+				""
+				"Race - Skeleton"
+				"Type - Necromantic"
+				"Element - Blood"
+				"Threat Level - 💀💀💀💀"
+				"Summon - Use a \"Call forth the Dead King\" scroll found in Catacomb chests."
+			]
+			id: "52C255F1978ABAB3"
+			rewards: [
+				{
+					id: "74F2B2A37B0DFBFE"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "6494B62B95EE16F4"
+					item: "terramity:famine_gauntlet"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "5E09348CB0EA2D36"
+					item: "brutality:unbridled_rage"
+					random_bonus: 6
+					type: "item"
+				}
+				{
+					id: "7B083DA335616D26"
+					item: {
+						Count: 1
+						id: "brutality:rampage_clock"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6385BF99EF472154"
+					item: "irons_spellbooks:blood_rune"
+					type: "item"
+				}
+			]
+			shape: "irontier"
+			subtitle: "\"They say lightning doesn't strike twice...\""
+			tasks: [{
+				entity: "traveloptics:enraged_dead_king"
+				icon: "traveloptics:enraged_dead_king_spawn_egg"
+				id: "0838AA7AFDC7044D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#C8C8C8&lA&#C6C3C2&lw&#C5BEBC&la&#C3B8B6&lk&#C2B3B0&le&#C0AEAB&ln&#BFA9A5&le&#BDA49F&ld &#BA9993&lM&#B9948D&lo&#B78F87&ln&#B68A81&la&#B4857C&lr&#B38076&lc&#B17A70&lh&#B0756A&l, &#AC6B5E&lE&#AB6658&ln&#A96052&lr&#A85B4C&la&#A65647&lg&#A55141&le&#A34C3B&ld &#A0412F&lD&#9F3C29&le&#9D3723&la&#9C321D&ld &#992812&lK&#97220C&li&#961D06&ln&#941800&lg"
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["64D459F378CEDB10"]
+			description: [
+				"\"He guards the gates from any threats. He never forgets the former king. He stands there, unfazed, with no sole purpose other than protecting the one thing that gave him a purpose, as he stands in denial for the loss of his great king...\""
+				""
+				"Threat Level - 💀💀"
+			]
+			hide_until_deps_complete: true
+			id: "45BB229525AD50D7"
+			rewards: [
+				{
+					id: "1C87DB74530D42AA"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "719160257819245C"
+					item: "terramity:chthonic_crystal_block"
+					type: "item"
+				}
+				{
+					id: "60CBD8B1A63C0C52"
+					item: {
+						Count: 1
+						id: "relics:magma_walker"
+						tag: {
+							abilities: {
+								pace: {
+									points: 0
+									stats: {
+										time: 29.16113d
+									}
+								}
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 18
+					id: "494DECDCE316AB04"
+					item: "irons_spellbooks:fire_rune"
+					type: "item"
+				}
+			]
+			shape: "irontier"
+			tasks: [{
+				entity: "terramity:hellrok"
+				icon: "terramity:hellrok_spawn_egg"
+				id: "0B461FDD6143A31C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FF0000M&#FF0E00i&#FF1B00n&#FF2900i&#FF3600b&#FF4400o&#FF5100s&#FF5F00s&#FF6D00: &#FF8800H&#FF9500e&#FFA300l&#FFB000l&#FFBE00r&#FFCB00o&#FFD900k"
+			x: 5.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["0BF32725EB149EC4"]
+			description: [
+				"\"A sentient mass of air and wind, the Cumulonimbus is the elevated form of life of the Air Elemental, after its defeat, the Ancient Elemental shall be summoned...\""
+				""
+				"Threat Level - 💀💀💀💀"
+				"Summon - Use an eye of Air to locate a structure where its fought."
+			]
+			icon: "legendary_monsters:cloud_golem_spawn_egg"
+			id: "0ECB2EBB07620232"
+			rewards: [
+				{
+					auto: "invisible"
+					id: "07EDD111A3FB10D6"
+					ignore_reward_blocking: true
+					stage: "aetherium_age"
+					type: "gamestage"
+				}
+				{
+					id: "7000DDDA192B103D"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "irontier"
+			tasks: [{
+				entity: "legendary_monsters:cloud_golem"
+				icon: "legendary_monsters:cloud_golem_spawn_egg"
+				id: "53B8E8D510B2615B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFFFFF&lT&#FCFFFF&le&#F8FFFF&lm&#F4FFFE&lp&#F0FFFE&le&#ECFFFE&ls&#E8FFFD&lt &#E0FFFD&lG&#DCFFFC&lo&#D8FFFC&ll&#D4FFFC&le&#D0FFFB&lm&#CCFFFB&l, &#C3FFFB&lC&#BFFFFA&lu&#BBFFFA&lm&#B7FFFA&lu&#B3FFF9&ll&#AFFFF9&lo&#ABFFF9&ln&#A7FFF8&li&#A3FFF8&lm&#9FFFF8&lb&#9BFFF7&lu&#97FFF7&ls"
+			x: -8.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0ECB2EBB07620232"]
+			description: [
+				"\"The piglins captured something in the aftermath of the Great Nether Invasion, not a defender, just a creature that happened to be in the wrong place. They experimented on it with fire and metals, searching for reactions that never came. When it gave them nothing, they threw it into a deep lava pit to be rid of it. It did not die. The heat melted its form into a grotesque sludge of netherite and blackstone, cooling down and forming into something new. Now it sits motionless in a soul blacksmith structure, fused with lava and broken machines, too scared to move and too terrified to trust. It will attack anything that disturbs its stillness...\""
+				""
+				"Threat Level - 💀💀💀💀"
+			]
+			icon: "cataclysm:netherite_monstrosity_spawn_egg"
+			id: "75E54365308CF5B7"
+			rewards: [{
+				id: "7100379611D2D2B3"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "irontier"
+			subtitle: "\"Isn't there a redstone version of this thing?\""
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: "cataclysm:netherite_monstrosity_spawn_egg"
+				id: "01182220C3287373"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FF6700&lP&#F96501&ly&#F36301&lr&#ED6102&lo &#E15C03&lC&#DB5A04&lr&#D55805&lu&#CF5605&lc&#C95406&li&#C35107&lb&#BD4F07&ll&#B74D08&le&#B14B09&l, &#A5470A&lt&#9F440B&lh&#99420B&le &#8E3E0D&lN&#883C0E&le&#823A0E&lt&#7C370F&lh&#763510&le&#703310&lr&#6A3111&li&#642F12&lt&#5E2D12&le &#522814&lM&#4C2614&lo&#462415&ln&#402216&ls&#3A2016&lt&#341D17&lr&#2E1B18&lo&#281918&ls&#221719&li&#1D151A&lt&#17131A&ly"
+			x: -1.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["75E54365308CF5B7"]
+			icon: "cataclysm:lava_power_cell"
+			id: "01052AC51DC9600D"
+			tasks: [{
+				id: "4FE77EFFB55ADFA9"
+				title: "Unlocking Lava Power Cells!"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["75E54365308CF5B7"]
+			id: "0F2797D913AFFB95"
+			subtitle: "Can be used to make Infernal Armor and some other useful stuff."
+			tasks: [{
+				id: "4DBB2540E2DFDA95"
+				item: "traveloptics:pyro_spellweave_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Pyro Ingots!"
+			x: 0.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["75E54365308CF5B7"]
+			description: [
+				"\"A wandering creature powered by a beacon of dimensional electric light which has charged it to the point where it's so strong, it can withstand nuclear bombs and galactic death rays...\""
+				""
+				""
+				"Race - Sniffer"
+				"Type - ???"
+				"Element - Enchantment"
+				"Threat Level - &c☠☠☠☠☠☠☠&r"
+				"Summon - Strike a sniffer with lightning."
+			]
+			icon: "terramity:super_sniffer_spawn_egg"
+			id: "64D459F378CEDB10"
+			rewards: [
+				{
+					id: "0FC7A0179C6CB4C1"
+					type: "xp"
+					xp: 80
+				}
+				{
+					count: 20
+					id: "5796BD37E7BF3DD1"
+					item: "terramity:iridium"
+					type: "item"
+				}
+			]
+			shape: "irontier"
+			size: 1.2d
+			subtitle: "\"This is what happens when you dose an animal with V1... apparently...\""
+			tasks: [{
+				entity: "terramity:super_sniffer"
+				icon: "terramity:super_sniffer_spawn_egg"
+				id: "73BE9194C9C61ECB"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#730000&lP&#770500&lr&#7B0A00&li&#7F0F00&lm&#831400&le&#871900&lv&#8B1E00&la&#8F2300&ll &#972D00&lD&#9B3200&le&#9F3700&lv&#A33C00&lo&#A74100&lu&#AB4600&lr&#AF4B00&le&#B35000&lr&#B75500&l, &#BF6000&lt&#C36500&lh&#C76A00&le &#CF7400&lS&#D37900&lu&#D77E00&lp&#DB8300&le&#DF8800&lr &#E79200&lS&#EB9700&ln&#EF9C00&li&#F3A100&lf&#F7A600&lf&#FBAB00&le&#FFB000&lr"
+			x: 2.5d
+			y: 22.0d
+		}
+		{
+			dependencies: ["64D459F378CEDB10"]
+			icon: "terramity:cosmilite_ingot"
+			id: "3D4156E3097EFCB2"
+			shape: "hexagon"
+			subtitle: "You can now use Cosmilite armor."
+			tasks: [{
+				id: "63F9622F5DD9AC7C"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Cosmilite!"
+			x: 0.5d
+			y: 22.0d
+		}
+		{
+			dependencies: ["331AA02E14F4EFDF"]
+			description: [
+				"The Forsaken is the strongest entity in the Forlorn Hollows. It resembles a Cerberus and it attacks everything it sees."
+				""
+				"Race - Beast"
+				"Type - Dark"
+				"Element - Darkness"
+				"Threat Level - &a☠☠&r"
+			]
+			icon: "alexscaves:spawn_egg_forsaken"
+			id: "3DD14B5CD5A9BA0B"
+			rewards: [
+				{
+					id: "22B844E82D685C0F"
+					type: "xp"
+					xp: 80
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60D879EDDB35CCD0"
+					type: "all_table"
+				}
+			]
+			shape: "irontier"
+			tasks: [{
+				entity: "alexscaves:forsaken"
+				icon: "alexscaves:spawn_egg_forsaken"
+				id: "39F2BAB9C1DD4AF6"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#0C0C0CM&#180B0Bi&#230B0Bn&#2F0A0Ai&#3A0A0Ab&#460909o&#510909s&#5D0808s&#690707: &#800606T&#8B0606h&#970505e &#AE0404F&#BA0303o&#C50303r&#D10202s&#DC0202a&#E80101k&#F30101e&#FF0000n"
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3DD14B5CD5A9BA0B"]
+			id: "79084ABBC30DF3BA"
+			subtitle: "A crafting material used in many recipes along with needing to be used in the recipe of darkness cloth."
+			tasks: [{
+				id: "4108216E2449BF3A"
+				item: "alexscaves:pure_darkness"
+				type: "item"
+			}]
+			title: "Unlocking Pure Darkness!"
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3166B0C0FFA3F559"]
+			description: [
+				"\"One offspring from creations of Erebus, yet unfinished, the Trial Guardian is a metallic, spire, bodyless golem whom is fueled by lost souls trapped in the Deep Dark. Scrapped and thrown into the trial spire by Erebus himself, along with its other spire-related sentinels, for their lack of efficiency. Erebus created three alloys that are related to it, later scrapping them too for their instability. After its defeat, the bedrock shell starts to shatter, and the world's order cracks...\""
+				""
+				"Race - Golem"
+				"Type - Trial"
+				"Element - Death"
+				"Threat Level - &6☠☠☠☠&r"
+				"Summon - Unlock the guardian's padlock in a Trial Spire structure with a Spire Key."
+			]
+			hide_until_deps_complete: true
+			icon: "terramity:trial_guardian_spawn_egg"
+			id: "755CF48351AF7624"
+			rewards: [
+				{
+					id: "6A33746ECDE42D4B"
+					type: "xp"
+					xp: 40
+				}
+				{
+					auto: "no_toast"
+					command: "/difficulty3"
+					id: "2A4CC221AFD74257"
+					title: "Hardmode"
+					type: "command"
+				}
+			]
+			shape: "irontier"
+			size: 2.0d
+			subtitle: "\"This guy's getting a rework!\""
+			tasks: [{
+				entity: "terramity:trial_guardian"
+				icon: "terramity:trial_guardian_spawn_egg"
+				id: "591D7E08D0645467"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#AEAEAE&lB&#AAB0B0&lu&#A6B2B2&ll&#A1B4B4&lw&#9DB6B5&la&#98B8B7&lr&#94BAB9&lk &#8BBFBD&lo&#86C1BF&lf &#7DC5C2&lt&#79C7C4&lh&#74C9C6&le &#6BCDC9&lS&#67CFCB&lp&#62D1CD&li&#5ED3CF&lr&#59D5D1&le&#55D8D3&l, &#4CDCD6&lt&#48DED8&lh&#43E0DA&le &#3AE4DD&lT&#36E6DF&lr&#31E8E1&li&#2DEAE3&la&#28ECE5&ll &#1FF0E8&lG&#1BF3EA&lu&#16F5EC&la&#12F7EE&lr&#0DF9F0&ld&#09FBF1&li&#04FDF3&la&#00FFF5&ln"
+			x: -0.5d
+			y: 27.0d
+		}
+		{
+			dependencies: ["1EB31D8DF7B9D895"]
+			icon: "terramity:void_alloy"
+			id: "2084E63D5BC595A5"
+			shape: "hexagon"
+			subtitle: "You can now obtain Void Alloy."
+			tasks: [{
+				id: "317584D187B4EB97"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Void Alloy!"
+			x: -3.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["1EB31D8DF7B9D895"]
+			icon: "terramity:conductite"
+			id: "392810ECA9B0559E"
+			shape: "hexagon"
+			subtitle: "You can now obtain Conductite."
+			tasks: [{
+				id: "64EC9B646043550D"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Conductite!"
+			x: 2.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["1EB31D8DF7B9D895"]
+			icon: "terramity:hellspec_alloy"
+			id: "5822F940EB4B3163"
+			shape: "hexagon"
+			subtitle: "You can now obtain Hellspec."
+			tasks: [{
+				id: "53E71656D961AABF"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Hellspec!"
+			x: -3.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["755CF48351AF7624"]
+			hide_dependent_lines: true
+			id: "1EB31D8DF7B9D895"
+			subtitle: "A key element to other materials."
+			tasks: [{
+				id: "6E26AEC4BDB59D99"
+				item: "terramity:black_matter"
+				type: "item"
+			}]
+			title: "Unlocking Black Matter!"
+			x: 2.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["64D459F378CEDB10"]
+			description: [
+				"Health: 500"
+				"Damage: 30"
+				""
+				"\"A deadly amalgamation of the hive mind's occupants, it has grown so much so that its power has far surpassed golems and colosses. It lurks beneath the sculk floor in the deep dark and awaits its next visitor...\""
+				""
+				"Race - Golem"
+				"Type - Corrupted"
+				"Element - Corruption"
+				"Threat Level - &c☠☠☠☠☠&r"
+				"Summon - Alert 3 Sculk Sensors and Sculk Shriekers in an Ancient City in the caves."
+				""
+				""
+				"-Remember to set a spawnpoint near it because you WILL most certainly die even with higher tier armor, that's why It's ranked so low. If you're playing on hardcore, it's recommended to be fought right before/after Ignis."
+			]
+			hide_until_deps_complete: false
+			icon: "minecraft:warden_spawn_egg"
+			id: "3166B0C0FFA3F559"
+			rewards: [
+				{
+					id: "0EF047AD330CF185"
+					type: "xp"
+					xp: 40
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D28ACFC560F3B6C"
+					type: "all_table"
+				}
+			]
+			shape: "irontier"
+			size: 1.4d
+			subtitle: "\"Rising Lava\""
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "5919AFB260F165E7"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#0E424E&lH&#0E414C&le&#0D3F4A&la&#0D3E48&lr&#0D3C46&lt &#0C3943&lo&#0C3841&lf &#0C353D&lt&#0B333B&lh&#0B3239&le &#0A2F36&lH&#0A2D34&li&#0A2C32&lv&#0A2A30&le&#09292E&l-&#09272C&lM&#09262A&li&#092428&ln&#082327&ld&#082125&l, &#071E21&lt&#071D1F&lh&#071B1D&le &#061819&lW&#061718&la&#061516&lr&#061414&ld&#051212&le&#051110&ln"
+			x: -3.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["3166B0C0FFA3F559"]
+			icon: "composite_material:echoium_ingot"
+			id: "204454F213EF05AE"
+			shape: "hexagon"
+			subtitle: "You can now obtain Hullbreaker Steel."
+			tasks: [{
+				id: "3C6175DE358D7658"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Echoium!"
+			x: -5.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["3166B0C0FFA3F559"]
+			icon: "minecraft:sculk_shrieker"
+			id: "6D6F45CAF8C20B4F"
+			shape: "hexagon"
+			subtitle: "You can now enter the Otherside."
+			tasks: [{
+				id: "4240494242F7D261"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking The Otherside dimension!"
+			x: -5.5d
+			y: 24.0d
+		}
+		{
+			dependencies: ["3166B0C0FFA3F559"]
+			icon: "terramity:warden_soul"
+			id: "2A1FB37AD7D63498"
+			shape: "hexagon"
+			subtitle: "You can now use Warden Souls to craft powerful weapons."
+			tasks: [{
+				id: "2CC8D955804FBF38"
+				title: "Unlocking Iron!"
+				type: "checkmark"
+			}]
+			title: "Unlocking Warden Souls!"
+			x: -5.0d
+			y: 25.0d
+		}
+		{
+			dependencies: ["52C255F1978ABAB3"]
+			description: [
+				"\"A fierce warrior possessed by the souls of the Nether along with the corruption of the Deep Dark, its a powerful mutation and is one of the strongest knight variants that have ever existed. Its restless soul along with the spire's imprisoned souls are holding the bedrock shell together, after his defeat, one may find themselves standing on the bottom of the bedrock shell for a while, slowly decaying and shifting through reality itself...\""
+				""
+				"Race - Knight"
+				"Type - Corrupted"
+				"Element - Corruption"
+				"Threat Level - &e☠☠☠&r"
+				""
+				"Aftermath: N/A"
+			]
+			icon: "dungeons_and_combat:kamath_spawn_egg"
+			id: "5B35AFDC35F7F461"
+			rewards: [{
+				id: "4BF7487DA894FBA6"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "irontier"
+			tasks: [{
+				entity: "block_factorys_bosses:underworld_knight"
+				icon: "dungeons_and_combat:kamath_spawn_egg"
+				id: "2FC6FBE3E41CC327"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#171B21&lS&#16222A&lo&#152A34&lu&#14313D&ll&#133946&lb&#124050&lo&#114859&lu&#104F62&ln&#0F566C&ld &#0D657E&lR&#0C6D88&le&#0B7491&la&#0A7C9B&lp&#0983A4&le&#088BAD&lr&#0792B7&l, &#05A1C9&lK&#04A8D3&la&#03B0DC&lm&#02B7E5&la&#01BFEF&lt&#00C6F8&lh"
+			x: 2.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5B35AFDC35F7F461"]
+			id: "1631DCB9D6BCC0D4"
+			subtitle: "Can be traded to obtain Kamath armor."
+			tasks: [{
+				id: "76A4F94B77C11806"
+				item: "dungeons_and_combat:essence_of_kamath"
+				type: "item"
+			}]
+			title: "Unlocking Kamath Essence!"
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["755CF48351AF7624"]
+			description: [
+				"\"When the golden ages of our Jungles were upon us, the caverns below rumbled. An underground eruption occured, and our villages were molten down to ash. The reason for this apocalypse were the Luxtrisaur species, whom dwelt beneath our mountains and fed on primal magma. We had to eradicate these beasts, yet some survived. This beast, the Luxtructosaurus, an evolved version of the ones we exterminated ages ago. A result of poor foresight...\""
+				""
+				"Threat Level - ☠☠"
+			]
+			hide_dependency_lines: true
+			icon: "alexscaves:spawn_egg_luxtructosaurus"
+			id: "5C107B3C459B0883"
+			rewards: [
+				{
+					id: "3E92EF7FA40D83CE"
+					type: "xp"
+					xp: 80
+				}
+				{
+					exclude_from_claim_all: true
+					id: "09D6513958122FE8"
+					type: "all_table"
+				}
+			]
+			shape: "goldtier"
+			tasks: [{
+				entity: "alexscaves:luxtructosaurus"
+				icon: "alexscaves:spawn_egg_luxtructosaurus"
+				id: "57B86E6DEB9241CE"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FF3E00&lT&#F83D00&le&#F13B01&lc&#EA3A01&lt&#E33901&lo&#DC3702&ln&#D53602&li&#CE3402&lc &#C03203&lR&#B93003&la&#B22F04&lv&#AB2E04&la&#A42C04&lg&#9D2B05&le&#962905&lr&#8F2806&l, &#812506&lL&#7A2407&lu&#732307&lx&#6C2107&lt&#652008&lr&#5E1E08&lu&#571D08&lc&#501C09&lt&#491A09&lo&#421909&ls&#3B180A&la&#34160A&lu&#2D150A&lr&#26130B&lu&#1F120B&ls"
+			x: -1.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["5C107B3C459B0883"]
+			id: "1421CA74CE0E4762"
+			tasks: [{
+				id: "2880BA295228E4D0"
+				item: "alexscaves:tectonic_shard"
+				type: "item"
+			}]
+			title: "Unlocking Tectonic Shards!"
+			x: 0.5d
+			y: 33.5d
+		}
+		{
+			dependencies: ["1421CA74CE0E4762"]
+			id: "164F9487E0B1037B"
+			subtitle: "Can be used to make magic and non-magic tectonic armor."
+			tasks: [{
+				id: "0DAE372C0B4DF7FA"
+				item: "traveloptics:tectonic_ingot"
+				type: "item"
+			}]
+			title: "Unlocking Tectonite!"
+			x: 2.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["5B35AFDC35F7F461"]
+			description: [
+				"The Void Worm is a long ender themed worm that when killed, will split into more and more parts of itself. It can also create portals and teleport through them. It's weak point is it's head."
+				""
+				"Threat Level - &a☠☠&r"
+				"Theme - Scourge of the Universe Type W &e(DMDokuro)&r"
+			]
+			icon: "alexsmobs:spawn_egg_void_worm"
+			id: "1261384A8F0362DC"
+			rewards: [{
+				id: "480FC3BBF52E872D"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "goldtier"
+			subtitle: "\"The Conceited\""
+			tasks: [{
+				entity: "alexsmobs:void_worm"
+				icon: "alexsmobs:spawn_egg_void_worm"
+				id: "7E1C98FE29D0A7EC"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#0300FF&lR&#0B05FF&li&#120AFE&lf&#1A0EFE&lt &#2918FD&lW&#301DFC&le&#3821FC&la&#3F26FB&lv&#472BFB&le&#4E30FA&lr&#5634FA&l, &#653EF9&lt&#6C43F8&lh&#7447F8&le &#8351F7&lV&#8A56F6&lo&#925AF6&li&#995FF5&ld &#A869F4&lW&#B06DF4&lo&#B772F3&lr&#BF77F3&lm"
+			x: 5.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["5C107B3C459B0883"]
+			description: [
+				"\"A fierce warrior possessed by the souls of the Nether along with the corruption of the Deep Dark, its a powerful mutation and is one of the strongest knight variants that have ever existed. Its restless soul along with the spire's imprisoned souls are holding the bedrock shell together, after his defeat, one may find themselves standing on the bottom of the bedrock shell for a while, slowly decaying and shifting through reality itself...\""
+				""
+				"Threat Level - ☠☠☠"
+			]
+			icon: "block_factorys_bosses:underworld_knight_spawn_egg"
+			id: "64C604010683712A"
+			rewards: [{
+				id: "5651CE24B518DE91"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "goldtier"
+			tasks: [{
+				entity: "block_factorys_bosses:underworld_knight"
+				icon: "block_factorys_bosses:underworld_knight_spawn_egg"
+				id: "4DAD16742A2E064C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#07072F&lH&#071036&le&#07193E&ll&#062245&lv&#062A4D&la&#063354&lr&#063C5C&l, &#054E6A&lt&#055772&lh&#056079&le &#047188&lU&#047A90&ln&#048397&ld&#038C9E&le&#0395A6&lr&#039EAD&lw&#03A6B5&lo&#02AFBC&lr&#02B8C4&ll&#02C1CB&ld &#01D3DA&lK&#01DCE1&ln&#01E4E9&li&#01EDF0&lg&#00F6F8&lh&#00FFFF&lt"
+			x: 1.5d
+			y: 38.0d
+		}
+		{
+			dependencies: ["64C604010683712A"]
+			id: "00749AB07C81D2B0"
+			rewards: [{
+				id: "16441F8A66BC4CE6"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Can be used to make armor."
+			tasks: [{
+				id: "246FEF914074E948"
+				item: "astral_calamity_extras:resistant_subspace_fabric"
+				type: "item"
+			}]
+			title: "Unlocking R.S.F.!"
+			x: 3.5d
+			y: 38.0d
+		}
+		{
+			dependencies: ["64C604010683712A"]
+			description: [
+				"\"This sealed structure of restless ghouls sits chained in the Sorrow Spires, forgotten, stuck in the flames of the Nether. Its creation followed after the End and Nether intertwined. This collapse also created the Blackstone Basin biomes. Not much is known about this creature, as its imprisoned still for centuries as of now. Only thing all know, is that its waiting for something, or someone, to end its suffering...\""
+				""
+				"Threat Level - ☠"
+			]
+			icon: "iter_rpg:sorrowsealed_spawn_egg"
+			id: "5C1B5B56C010D055"
+			rewards: [{
+				id: "0524446D2E8032C3"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "goldtier"
+			tasks: [{
+				entity: "iter_rpg:sorrowsealed"
+				icon: "iter_rpg:sorrowsealed_spawn_egg"
+				id: "6A8EF1016569C996"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#08002D&lG&#0C0033&lh&#100039&lo&#140040&lu&#180046&ll&#1D004C&li&#210052&ls&#250058&lh &#2D0065&lC&#31006B&la&#350071&lu&#390077&ll&#3E007D&ld&#420083&lr&#46008A&lo&#4A0090&ln&#4E0096&l, &#5600A2&lt&#5A00A9&lh&#5E00AF&le &#6700BB&lS&#6B00C1&lo&#6F00C7&lr&#7300CE&lr&#7700D4&lo&#7B00DA&lw&#7F00E0&ls&#8400E6&le&#8800EC&la&#8C00F3&ll&#9000F9&le&#9400FF&ld"
+			x: -3.0d
+			y: 40.5d
+		}
+		{
+			dependencies: ["5C1B5B56C010D055"]
+			description: [
+				"\"This genetically modified Luxtrisaur was experimented on by Erebus. I believed in his ways. Some were rather concerning, and this one, no exception. After seeing what he's capable of, of this tyranny, this torture, I stopped his aid. Let him do his own, while I finish the work we started. After all, when I ascend, he will listen. Although the Tremorzilla was only experimental, its immense power proves that Erebus is flawless...\""
+				""
+				"Threat Level - ☠☠☠"
+			]
+			icon: "alexscaves:spawn_egg_tremorzilla"
+			id: "7266894061BC1832"
+			rewards: [{
+				id: "3D55B123C06F83F5"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "goldtier"
+			subtitle: "\"I've lost all ambition, of worldly aclaim\""
+			tasks: [{
+				entity: "alexscaves:tremorzilla"
+				icon: "alexscaves:spawn_egg_tremorzilla"
+				id: "130D685E88DD0287"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#001102&lN&#051A02&lu&#092302&lc&#0E2B02&ll&#133402&le&#183D02&la&#1C4602&lr &#265801&lM&#2B6001&lu&#2F6901&lt&#347201&la&#397B01&lg&#3E8401&le&#428C01&ln&#479501&l, &#51A701&lT&#55B001&lr&#5AB801&le&#5FC101&lm&#64CA00&lo&#68D300&lr&#6DDC00&lz&#72E500&li&#77ED00&ll&#7BF600&ll&#80FF00&la"
+			x: 1.5d
+			y: 42.5d
+		}
+		{
+			dependencies: ["7C52385E8FD4C8BD"]
+			description: [
+				"\"A powered apocalyptic murder weapon, filled with the energy of a null-star. It was created as a secret super-weapon, made to aid me and Erebus in the ordering. It's a cataclysmic abomination forged to destroy, annihilate, terrorize, and all of the above. Unlike the Tremorzilla, this experiment was tested for years. Always getting fixed, tweaked, and perfected to ensure its power is unleashed upon its full potential. It's terrifying of course, but only proves that we did only what we deemed to be necessary...\""
+				""
+				"Threat Level - ☠☠☠☠☠"
+			]
+			icon: "netherexp:wither_skull_block"
+			id: "0AD693933FBD66D2"
+			rewards: [{
+				id: "57786AFF9695ED83"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "goldtier"
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: "minecraft:wither_skeleton_spawn_egg"
+				id: "36F03FE0556CCE81"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#111111&lA&#161717&lp&#1B1C1C&lo&#202222&lc&#252727&la&#2A2D2D&ll&#2F3232&ly&#343838&lp&#393D3D&lt&#3E4343&li&#434848&lc &#4D5353&lA&#525959&ln&#575E5E&ln&#5C6464&li&#61696A&lh&#666F6F&li&#6B7475&ll&#707A7A&la&#757F80&lt&#7A8585&lo&#7E8A8B&lr&#839090&l, &#8D9B9B&lW&#92A0A1&li&#97A6A6&lt&#9CABAC&lh&#A1B1B2&le&#A6B6B7&lr &#B0C1C2&lR&#B5C7C8&le&#BACCCD&li&#BFD2D3&ln&#C4D7D8&lc&#C9DDDE&la&#CEE2E3&lr&#D3E8E9&ln&#D8EDEE&la&#DDF3F4&lt&#E2F8F9&le&#E7FEFF&ld"
+			x: 1.0d
+			y: 51.0d
+		}
+		{
+			dependencies: ["0AD693933FBD66D2"]
+			id: "08EE06D880CC0863"
+			subtitle: "\"The source of the beacon energy\""
+			tasks: [{
+				id: "2AC1125101DE5711"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			title: "Unlocking Nether Stars!"
+			x: 4.0d
+			y: 51.0d
+		}
+		{
+			dependencies: ["75E54365308CF5B7"]
+			description: [
+				"\"He guards the gates from any threats. He never forgets the former king. He stands there, unfazed, with no sole purpose other than protecting the one thing that gave him a purpose, as he stands in denial for the loss of his great king...\""
+				""
+				"Threat Level - 💀💀"
+			]
+			hide_until_deps_complete: true
+			id: "4F18E468846A152A"
+			rewards: [{
+				id: "3B022BBC9E6849EA"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "irontier"
+			tasks: [{
+				entity: "legendary_monsters:lava_eater"
+				icon: "legendary_monsters:lava_eater_spawn_egg"
+				id: "17A4FCC9E140B977"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#0B0A0EM&#180F0Di&#25140Dn&#32190Ci&#3E1E0Bb&#4B220Ao&#58270As&#652C09s&#723108: &#8B3B07L&#984006a&#A54505v&#B24A04a &#CC5303E&#D85802a&#E55D01t&#F26201e&#FF6700r"
+			x: -4.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["3166B0C0FFA3F559"]
+			description: [
+				"Health: 500"
+				"Damage: 30"
+				""
+				"\"A deadly amalgamation of the hive mind's occupants, it has grown so much so that its power has far surpassed golems and colosses. It lurks beneath the sculk floor in the deep dark and awaits its next visitor...\""
+				""
+				"Race - Golem"
+				"Type - Corrupted"
+				"Element - Corruption"
+				"Threat Level - &c☠☠☠☠☠&r"
+				"Summon - Alert 3 Sculk Sensors and Sculk Shriekers in an Ancient City in the caves."
+				""
+				""
+				"-Remember to set a spawnpoint near it because you WILL most certainly die even with higher tier armor, that's why It's ranked so low. If you're playing on hardcore, it's recommended to be fought near the ignis-stage."
+			]
+			hide_until_deps_complete: true
+			icon: "deeperdarker:stalker_spawn_egg"
+			id: "3796F0C5BDB1C0DD"
+			rewards: [{
+				id: "408CD528E1F84E4F"
+				type: "xp"
+				xp: 40
+			}]
+			shape: "irontier"
+			size: 1.0d
+			tasks: [{
+				entity: "deeperdarker:stalker"
+				icon: "deeperdarker:stalker_spawn_egg"
+				id: "3645376BFD3B6988"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#00DDC2&lS&#00D8C1&li&#00D2C0&ld&#00CDBF&le&#00C7BE&lb&#00C2BD&lo&#00BCBC&ls&#00B7BB&ls&#00B2BA&l: &#00A7B8&lS&#00A1B7&li&#009CB6&ll&#0096B5&le&#0091B4&ln&#008CB4&lc&#0086B3&le&#0081B2&lr&#007BB1&l, &#0070AF&lt&#006BAE&lh&#0065AD&le &#005BAB&lS&#0055AA&lt&#0050A9&la&#004AA8&ll&#0045A7&lk&#003FA6&le&#003AA5&lr"
+			x: 2.5d
+			y: 24.0d
+		}
+		{
+			dependencies: ["755CF48351AF7624"]
+			description: ["After defeating the Trial Guardian, hardmode will begin, buffing mobs and making them drop better gear. &cGood luck.&r"]
+			icon: "born_in_chaos_v1:ethereal_spirit"
+			icon_scale: 1.5d
+			id: "29A1AA9D7CA12D88"
+			shape: "none"
+			tasks: [{
+				id: "64F543BD07444576"
+				title: "A new era..."
+				type: "checkmark"
+			}]
+			title: "&cA new era...&r"
+			x: -0.5d
+			y: 29.0d
+		}
+		{
+			dependencies: ["0ECB2EBB07620232"]
+			icon: "ancient_elements:aetherium_ingot"
+			id: "3CA54BDDB4EDE6EC"
+			tasks: [{
+				id: "7992055B5F6193C5"
+				title: "Unlocking Aetherium!"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["4359FC94C253A542"]
+			description: [
+				"The Ender Guardian was the first shulker who looked an enderman in the eyes. However he didn't look a NORMAL enderman in the eyes. It was Vaedric, the fallen wanderer. Vaedric got angry and basically threw him into the void. The shulker was falling and falling, but when he finally had the cooldown to teleport, he teleported into an end lab where they studied him and made him into a giant endstone golem. They installed mental blocks so he couldn't teleport away, and now he's known as the Astral Wrath."
+				""
+				"Race - Golem"
+				"Type - Shulker"
+				"Element - Ender"
+				"Threat Level - &a☠☠&r"
+			]
+			hide_dependency_lines: true
+			icon: "dungeons_and_combat:sunleia_spawn_egg"
+			id: "331AA02E14F4EFDF"
+			rewards: [{
+				id: "70C4F3A08BF7CF65"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "diamondtier"
+			tasks: [{
+				entity: "dungeons_and_combat:sunleia"
+				icon: "dungeons_and_combat:sunleia_spawn_egg"
+				id: "195C3A755DA02E6D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFFFFF&lH&#FFFEF7&le&#FFFDEE&la&#FFFBE4&lv&#FFFADB&le&#FFF8D1&ln&#FFF7C8&l-&#FFF5BE&lS&#FFF4B5&le&#FFF3AB&ln&#FFF1A2&lt &#FFEE8F&lE&#FFED85&lm&#FFEC7C&lp&#FFEA72&lr&#FFE969&le&#FFE75F&ls&#FFE656&ls&#FFE44C&l, &#FFE239&lS&#FFE030&lu&#FFDF26&ln&#FFDD1D&ll&#FFDC13&le&#FFDA0A&li&#FFD900&la"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["331AA02E14F4EFDF"]
+			id: "14BFBE163352E1DA"
+			subtitle: "Essence of the empress herself."
+			tasks: [{
+				id: "7F0CF158AB4639DD"
+				item: "dungeons_and_combat:essence_of_sunleia"
+				type: "item"
+			}]
+			title: "Unlocking Sunleia Essence!"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7266894061BC1832"]
+			description: [
+				"\"Elementals are beings who harbor the world's capabilities. The Boulders harbor Earth, the Ents, nature, blazes and devils fire, and so on. However, they all have a source. The Ancient Elemental. This is the strongest elemental by far, controlling each and every element, and holds the world together. Upon its defeat, the world's order cracks once again, and you can continue to follow up to challange the Null-Star Abomination...\""
+				""
+				"Threat Level - ☠☠☠☠"
+			]
+			id: "7C52385E8FD4C8BD"
+			rewards: [{
+				id: "7F1E0A6C2ABB21E4"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "goldtier"
+			subtitle: "\"All elements lived in harmony\""
+			tasks: [{
+				entity: "ancient_elements:ancient_elemental"
+				icon: "ancient_elements:ancient_elemental_spawn_egg"
+				id: "4C5223CF46197DF7"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#EF0A00&lB&#DF2405&le&#CE3E0A&la&#BE580F&lr&#AE7214&le&#9D8B19&lr &#7DBF23&lo&#6CD928&lf &#69D944&lA&#76BF5C&ll&#83A573&ll&#908B8A&l, &#AB58B9&lt&#B83ED0&lh&#C524E8&le &#D823E2&lA&#DD3CC4&ln&#E355A7&lc&#E96F8A&li&#EE886C&le&#F4A14F&ln&#F9BA31&lt &#E3C12E&lE&#C6AF48&ll&#AA9D62&le&#8E8B7C&lm&#717897&le&#5566B1&ln&#3954CB&lt&#1C42E5&la&#0030FF&ll"
+			x: -1.5d
+			y: 46.0d
+		}
+		{
+			dependencies: ["1261384A8F0362DC"]
+			description: [
+				"The Void Worm is a long ender themed worm that when killed, will split into more and more parts of itself. It can also create portals and teleport through them. It's weak point is it's head."
+				""
+				"Threat Level - &a☠☠&r"
+				"Theme - Scourge of the Universe Type W &e(DMDokuro)&r"
+			]
+			icon: "valoria:firron_spawn_egg"
+			id: "0BF32725EB149EC4"
+			rewards: [{
+				id: "2B6756C781CBF2F2"
+				type: "xp"
+				xp: 80
+			}]
+			shape: "goldtier"
+			tasks: [{
+				entity: "valoria:firron"
+				icon: "valoria:firron_spawn_egg"
+				id: "4CA29A98A7741AE2"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#FFBA00&lA&#FAB20A&lu&#F5AA14&lr&#F1A11E&le&#EC9928&la&#E79132&ll &#DD8145&lB&#D9784F&lr&#D47059&lu&#CF6863&lt&#BA5E5B&le&#A65454&l, &#7C4045&lF&#68373D&li&#532D36&lr&#3E232E&lr&#2A1927&lo&#150F1F&ln"
+			x: -2.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["5C107B3C459B0883"]
+			id: "46EA5612B7E186BB"
+			rewards: [{
+				id: "489ED097472ED27F"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			tasks: [{
+				entity: "legendary_monsters:ancient_guardian"
+				icon: "legendary_monsters:ancient_guardian_spawn_egg"
+				id: "1813AEA083C8453E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "&#78859DM&#758198i&#737D93n&#70788Ei&#6E7489b&#6B7084o&#696C7Fs&#66677As&#646375: &#5F5B6BA&#5C5666n&#5A5261c&#574E5Ci&#554A57e&#524552n&#50414Dt &#4B3943G&#48343Eu&#463039a&#432C34r&#41282Fd&#3E232Ai&#3C1F25a&#391B20n"
+			x: -4.5d
+			y: 34.5d
+		}
+	]
+	title: "Onslaught of Beasts"
+}

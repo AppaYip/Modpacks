@@ -1,0 +1,167 @@
+{
+  "config_version": "2.0.24",
+  "config_datetime": "2026-05-16_12-02-43",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "duneons:abyssal_monument_boss",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:arena_eye",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:boat",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:corrupted_cauldron_boss",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:crypt",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:desertpuzzle",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:desertstatue",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:deserttemple",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:fieryruins",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:fierysnowpeaks",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:goldgolemboss",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:gravestone",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:highland",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:jungle_ruins",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:monstrosity_boss",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:monstrosityfiery",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:pastures_outpost",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:pastures_ruin",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:pasturesbellvillage",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:pillagerpost",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:pumpkinvillage",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:pyromid",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:raviantruine",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:redstonegolemsruins",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:redstonemineshaft",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:redstoneroad",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:redstoneroad_2",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:redstoneroad_3",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:rune_room",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:runebeacons",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:snowfortress",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:swampvillage",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:templebeacon",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:tower",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:town_plains",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:village_creeperforest",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:vulkan",
+      "is_disabled": true
+    },
+    {
+      "name": "duneons:wretchwraithiceberg",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

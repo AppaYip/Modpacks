@@ -1,0 +1,13 @@
+name = "Rappenem's Reforge"
+filename = "Rappenem's Reforge v1.12.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e2cac4155879a9ab9d309e12ac39d65586ff64d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8052901
+project-id = 1244413

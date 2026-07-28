@@ -1,0 +1,21 @@
+{
+	id: "641EA3994FE2CB88"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ item: "artifacts:snorkel" }
+		{ count: 6, item: "minecraft:prismarine_shard", random_bonus: 12 }
+		{ count: 6, item: "iter_rpg:water_fragment", random_bonus: 6 }
+		{ count: 6, item: "composite_material:guardian_elder_spike", random_bonus: 6 }
+		{
+			item: {
+				Count: 1
+				id: "endrem:exotic_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Guardian Reward"
+}

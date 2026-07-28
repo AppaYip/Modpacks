@@ -1,0 +1,176 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "music"
+	group: "30D554BA21B94801"
+	icon: "terramity:tome_of_commotion"
+	id: "17E870D9A0C1141C"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "3127AAB0FB78B1C4"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "tellraw @a [{\"text\":\"A rift somewhere deep below the surface has been opened.\",\"bold\":true,\"color\":\"#1c4f5a\"}]"
+					id: "1D3CE5288D07C5DE"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/playsound calamitymusicdisc:hadopelagicpressure master @s ~ ~ ~ 50000"
+					id: "3A42ABCE20F8D05D"
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/time set midnight"
+					id: "14742771D513662C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "53983178D04ECEF3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "746F082EFB5A8059"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/playsound calamitymusicdisc:eulogyfortheego master @s ~ ~ ~ 50000"
+					id: "0F177AFA3D79DC56"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @a [{\"text\":\"The Abyss is silenced for now, yet its energy source is still used somewhere else...\",\"bold\":true,\"color\":\"#7300ff\"}]"
+					id: "2934100628765DC6"
+					type: "command"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				id: "3D61F3EBD4C2B479"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "247648A1D9698DB7"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/playsound calamitymusicdisc:signalreceived master @s ~ ~ ~ 50000"
+					id: "190D0DC00B0B6663"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @s [{\"text\":\"First the Wither, then, his mechanical upgrade, and now, even the Lord of Fire. May you be tested with my final upgrade, in the End dimension. It will await your arrival...\",\"bold\":true,\"color\":\"#006134\"}]"
+					id: "533A855DAA8F5382"
+					type: "command"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "34D26E31A54FCDED"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			id: "02700BE1ABBE1AAD"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/playsound calamitymusicdisc:catastrophesbeforethecalamity master @s ~ ~ ~ 50000"
+					id: "5B763984F6DE78EF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @s [{\"text\":\"The long lost draconic energies have grown in the caverns. Auric ore is now available.\",\"bold\":true,\"color\":\"#ffbb00\"}]"
+					id: "2600CA1C9DE21352"
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7A23CECA59C1DFAF"
+				item: "block_factorys_bosses:dragon_skull"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			id: "02E61AD3C5BE8F6A"
+			rewards: [
+				{
+					command: "/playsound calamitymusicdisc:makeyourchoice master @s ~ ~ ~ 50000"
+					id: "710A21E264587758"
+					silent: true
+					type: "command"
+				}
+				{
+					command: "/tellraw @a [{\"text\":\"Very well, mortal. You've located the station. Pursue the construct. Good luck.\",\"bold\":true,\"color\":\"#367856\"}]"
+					id: "671CBFE2EA281407"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "27425E63DAFBF04B"
+				structure: "legendary_monsters:space_station"
+				type: "structure"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "6D256C1DEADC0E78"
+			rewards: [
+				{
+					command: "/playsound calamitymusicdisc:heavenshellsentgift master @s ~ ~ ~ 50000"
+					id: "6FE70EB490904393"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "tellraw @a [{\"text\":\"A new technological material is now in your hands. You can now fuse certain weapons together.\",\"bold\":true,\"color\":\"#D92727"
+					id: "1B33F6A1261635BF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "4A3578C581E3F60B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+	title: "Commands"
+}

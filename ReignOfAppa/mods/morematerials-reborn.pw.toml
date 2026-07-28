@@ -1,0 +1,13 @@
+name = "Morematerials Reborn"
+filename = "mmt-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c11f1b3c8536f1ea7a62ebf32465ae7018a83c31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7914945
+project-id = 1511836

@@ -1,0 +1,13 @@
+name = "Terramity: Paisley's Summoning"
+filename = "terramity_paisleys_summoning-0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "148df10b005be69cdd1d854c9ffceb01da4877d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7879142
+project-id = 1482185

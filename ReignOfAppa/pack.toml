@@ -1,0 +1,11 @@
+name = "Reign of Calamity"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00d95c78fbc03c699e6c4f0be5ae3c4e502daba37b1bdb1924347fdc49953b77"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

@@ -1,0 +1,593 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "technology"
+	group: "30D554BA21B94801"
+	icon: "terramity:circuit_board"
+	id: "555457A796A528A8"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "iter_rpg:cog_heart"
+			id: "425B87C7C067FF36"
+			shape: "gear"
+			tasks: [{
+				id: "0DF8D630A79D91DB"
+				title: "Tech"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "628446B11CB05BA2"
+			rewards: [{
+				id: "5332BABF2B87FCA4"
+				type: "xp"
+				xp: 5
+			}]
+			shape: "hexagon"
+			subtitle: "The first key material in create's tech."
+			tasks: [{
+				id: "001E1F4503C169BB"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "69DA8275B4BFB4F7"
+			subtitle: "Mechanical Press is used to squish items such as iron to iron sheets or other materials."
+			tasks: [{
+				id: "3E3D1C07684E91A3"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5BEFA695DEE6B99F"]
+			id: "57C44817606E684E"
+			subtitle: "Mixers are used with basins to mix materials together."
+			tasks: [{
+				id: "25A0D52F9C1C893F"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -3.5d
+		}
+		{
+			id: "5A844C1BB72134D5"
+			subtitle: "Basins are used to compact or mix together stuff, possibly used in alloying."
+			tasks: [{
+				id: "2DD24EC66AAD1006"
+				item: "create:basin"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -2.5d
+		}
+		{
+			id: "76FAAF125C42DA1A"
+			shape: "rsquare"
+			tasks: [{
+				id: "312904A89E7C572B"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5BEFA695DEE6B99F"]
+			id: "1577AD4179DCBBE5"
+			subtitle: "Fans are used to wash, smelt, haunt items depending on what fluid/block is in front of it."
+			tasks: [{
+				id: "5A3BFE4CD130BC4A"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.5d
+		}
+		{
+			id: "41A842DB61A6F959"
+			subtitle: "Cogwheels are used to transport rotational energy."
+			tasks: [{
+				id: "57B4A3C7680690CD"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["69DA8275B4BFB4F7"]
+			id: "02260E8D152699A5"
+			shape: "hexagon"
+			tasks: [{
+				id: "24EC3EC51791D787"
+				item: "create:copper_sheet"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["69DA8275B4BFB4F7"]
+			id: "5BEFA695DEE6B99F"
+			shape: "hexagon"
+			tasks: [{
+				id: "75CA6C94BBC7C346"
+				item: "create:iron_sheet"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5BEFA695DEE6B99F"]
+			id: "340FBB486A58F562"
+			tasks: [{
+				id: "537DD0E6028618AD"
+				item: "create:item_vault"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BEFA695DEE6B99F"]
+			id: "7B118213D3E0F09D"
+			rewards: [{
+				id: "5024A0A3A5A7016E"
+				item: "create:blaze_cake"
+				type: "item"
+			}]
+			tasks: [{
+				id: "17020BB90E310E13"
+				item: "create:empty_blaze_burner"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"1B6993F3D012CD1E"
+				"480D7F34E371868A"
+			]
+			id: "36E7EE1E58A08B3E"
+			rewards: [{
+				id: "6EB100DDE1A07E59"
+				item: "create:blaze_cake"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3843DB1A1482C778"
+				item: "create:blaze_cake"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1EF44575D939F397"]
+			id: "1B6993F3D012CD1E"
+			tasks: [{
+				id: "1663512F858CEABA"
+				item: "create:blaze_cake_base"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"5A844C1BB72134D5"
+				"57C44817606E684E"
+				"30A0E3667464C1F5"
+			]
+			id: "2100BB935B7ECDC5"
+			shape: "hexagon"
+			tasks: [{
+				id: "03468176E23AFF47"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			title: "Brass"
+			x: 18.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02260E8D152699A5"]
+			id: "2F3CFE0BB1CBCA6E"
+			tasks: [{
+				id: "2F6C1C847F3B3F08"
+				item: "create:fluid_tank"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02260E8D152699A5"]
+			id: "2923A91D8C030399"
+			tasks: [{
+				id: "4E9A645E39EBCC7C"
+				item: "create:fluid_pipe"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"2923A91D8C030399"
+				"41A842DB61A6F959"
+			]
+			hide_dependency_lines: true
+			id: "55AE7C9CADFCE714"
+			tasks: [{
+				id: "5CE20C221AB4F939"
+				item: "create:mechanical_pump"
+				type: "item"
+			}]
+			x: 15.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["69DA8275B4BFB4F7"]
+			id: "71EC9ACEF05C107C"
+			shape: "hexagon"
+			tasks: [{
+				id: "3F220DAD6D2A1F18"
+				item: "create:golden_sheet"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["71EC9ACEF05C107C"]
+			id: "7C3A89931AFF83AA"
+			rewards: [{
+				count: 3
+				id: "36B37042C9A7E9E3"
+				item: "create:blaze_cake"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54D36BD483FF20E0"
+				item: "create:steam_engine"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["15AADAD1A2B7CB73"]
+			id: "627F16806D094729"
+			tasks: [{
+				id: "08793DFAF3431961"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2006F01D9FF1533C"]
+			id: "76168B14A650C3C5"
+			tasks: [{
+				id: "40C64F5CC26FABFB"
+				item: "create:mechanical_arm"
+				type: "item"
+			}]
+			x: 24.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2100BB935B7ECDC5"]
+			id: "15AADAD1A2B7CB73"
+			tasks: [{
+				id: "44A51088B8EE1F35"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["627F16806D094729"]
+			id: "783F3780145357C6"
+			tasks: [{
+				count: 2L
+				id: "024EFF1E79215172"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["783F3780145357C6"]
+			id: "1EF44575D939F397"
+			tasks: [{
+				id: "35BBB3D454BFAD01"
+				item: "create:cinder_flour"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A00FB139F4C0BAC"]
+			id: "480D7F34E371868A"
+			tasks: [{
+				id: "2C1C922DA8973BA6"
+				item: "create:spout"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["02260E8D152699A5"]
+			id: "0A00FB139F4C0BAC"
+			tasks: [{
+				id: "6EA5151415475D3C"
+				item: "create:copper_casing"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0A00FB139F4C0BAC"]
+			id: "7868EC0B70352D8B"
+			tasks: [{
+				id: "6BB2F211E00DFBEE"
+				item: "create:item_drain"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["15AADAD1A2B7CB73"]
+			id: "63DCE5FDA32E4B7D"
+			tasks: [{
+				id: "780A84413C26E217"
+				item: "create:elevator_pulley"
+				type: "item"
+			}]
+			x: 20.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["783F3780145357C6"]
+			id: "129258ED8AC43527"
+			tasks: [{
+				id: "29B32B863EE8E422"
+				item: "create:powdered_obsidian"
+				type: "item"
+			}]
+			x: 22.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"129258ED8AC43527"
+				"480D7F34E371868A"
+			]
+			id: "2F54DC7866EFB6F5"
+			shape: "hexagon"
+			tasks: [{
+				id: "30301504F4379617"
+				item: "create:sturdy_sheet"
+				type: "item"
+			}]
+			x: 24.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2F54DC7866EFB6F5"]
+			id: "762BC6BDE92350A6"
+			rewards: [{
+				id: "317CC9D54ECF6B5F"
+				item: "create:blaze_cake"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6EE5BD8C7C29C99B"
+				item: "create:railway_casing"
+				type: "item"
+			}]
+			x: 24.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["762BC6BDE92350A6"]
+			id: "66B8D82559C19782"
+			tasks: [{
+				id: "427F6F544A15BB62"
+				item: "create:track_station"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["762BC6BDE92350A6"]
+			id: "6287386C90416A9E"
+			tasks: [{
+				id: "4ACF047F702C244C"
+				item: "create:controls"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7B118213D3E0F09D"]
+			id: "30A0E3667464C1F5"
+			tasks: [{
+				id: "688AC41620B76572"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -6.0d
+		}
+		{
+			description: ["Make a 3x3 hole and in the middle, place a small water-wheel (If you're using the large version, make a bigger hole) in the middle, place a block in the center-top of the hole and place a water in 1 corner next to that block. Or, you can place them on a wall normally and make water flow on the platforms that turn the wheel."]
+			id: "18A67EE00F235FF4"
+			rewards: [{
+				id: "7D9DA6B7DA0BA9B1"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "create:water_wheel"
+				criterion: ""
+				id: "0F17387674E52CE3"
+				type: "advancement"
+			}]
+			title: "First source of RE: Water Wheels"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7C3A89931AFF83AA"
+				"2F3CFE0BB1CBCA6E"
+				"2923A91D8C030399"
+				"30A0E3667464C1F5"
+				"36E7EE1E58A08B3E"
+				"55AE7C9CADFCE714"
+			]
+			id: "310FCCCD15F66A20"
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				advancement: "create:steam_engine"
+				criterion: ""
+				id: "238A15C48BAB143E"
+				type: "advancement"
+			}]
+			title: "Third source of RE: Steam Engines"
+			x: 13.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2100BB935B7ECDC5"]
+			id: "2006F01D9FF1533C"
+			shape: "hexagon"
+			tasks: [{
+				id: "748F06D80E261B76"
+				item: "create:brass_sheet"
+				type: "item"
+			}]
+			x: 20.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2E31FC8F2AFF9431"]
+			id: "5D713690E74FFE12"
+			tasks: [{
+				id: "36B646E2548D2CC3"
+				item: "refinedstorage:disk_drive"
+				type: "item"
+			}]
+			x: 20.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["2E31FC8F2AFF9431"]
+			id: "1A6DABEE2032266F"
+			tasks: [{
+				id: "1186A02407D2E2C9"
+				item: "refinedstorage:crafting_grid"
+				type: "item"
+			}]
+			x: 16.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["2E31FC8F2AFF9431"]
+			id: "74F29024868DB652"
+			tasks: [{
+				id: "17FD77CD6108FDD3"
+				item: "refinedstorage:controller"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -10.5d
+		}
+		{
+			dependencies: [
+				"74F29024868DB652"
+				"5D713690E74FFE12"
+				"1A6DABEE2032266F"
+			]
+			id: "09C20E442AA63197"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "45DCB87F9C83FC0C"
+				table_id: 7417713662232307191L
+				type: "random"
+			}]
+			tasks: [{
+				id: "208B3021454A408B"
+				title: "Refined Storage"
+				type: "checkmark"
+			}]
+			x: 18.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["69DA8275B4BFB4F7"]
+			id: "50A6C89F0452BA6F"
+			shape: "hexagon"
+			tasks: [{
+				id: "01CDFF6D75726B32"
+				item: "createaddition:zinc_sheet"
+				type: "item"
+			}]
+			x: 17.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["50A6C89F0452BA6F"]
+			id: "43F964BD3BD95CD5"
+			tasks: [{
+				id: "12BEB73D489BA7C6"
+				item: "createaddition:capacitor"
+				type: "item"
+			}]
+			x: 16.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"43F964BD3BD95CD5"
+				"627F16806D094729"
+			]
+			id: "2E31FC8F2AFF9431"
+			tasks: [{
+				id: "0B6139B112DCAAF0"
+				item: "createaddition:alternator"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -8.0d
+		}
+	]
+	title: "&#21451FTechnology&r"
+}

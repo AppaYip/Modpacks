@@ -1,0 +1,13 @@
+name = "Life Fruits"
+filename = "LifeFruit-1.0.9-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e64e0c73712da614aa9d4f37dcfcb0244d8d995"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6007946
+project-id = 1138387

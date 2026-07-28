@@ -1,0 +1,13 @@
+name = "Deeper and Darker to Cataclysm Progression"
+filename = "deeper_and_darker_to_cataclysm-withtools-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd197fcd920dffddbbdd928464a70af4dda075e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6245509
+project-id = 1207952

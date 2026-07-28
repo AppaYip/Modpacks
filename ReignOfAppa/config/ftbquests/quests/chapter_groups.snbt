@@ -1,0 +1,10 @@
+{
+	chapter_groups: [
+		{ id: "23991C25692BA3B8", title: "Welcome!" }
+		{ id: "7E4DAE23B4B00652", title: "Boss Progression" }
+		{ id: "05D993FF468F0B18", title: "Campaign" }
+		{ id: "0566FDA4895DFEF7", title: "Magic" }
+		{ id: "30D554BA21B94801", title: "Lists" }
+		{ id: "2638C4868A19C93C", title: "Exploration" }
+	]
+}

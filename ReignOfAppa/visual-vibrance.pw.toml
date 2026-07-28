@@ -1,0 +1,13 @@
+name = "Visual Vibrance"
+filename = "Visual-Vibrance-v0.3.5a.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e60e5c1ea1243bf93798ddd34b4a70202781cab8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7558230
+project-id = 1244801

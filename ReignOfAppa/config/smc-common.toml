@@ -1,0 +1,117 @@
+
+[LuckyClover]
+	#If it's true, Lucky Clover will drop banned items (like Debug and Creative items)
+	LuckyCloverCreative = false
+	#If it's true, Lucky Clover will get random stack size of item (depends on the max stack size of this item)
+	LuckyCloverStack = false
+	#Define the cooldown of Lucky Clover (in MC tick)
+	#Range: > 0
+	LuckyCloverCD = 20
+	#A list of items which can never be obtained from Lucky Clover.
+	LuckyCloverBlacklistItems = ["minecraft:bedrock", "minecraft:command_block", "minecraft:repeating_command_block", "minecraft:chain_command_block", "minecraft:command_block_minecart", "minecraft:jigsaw", "minecraft:structure_block", "minecraft:structure_void", "minecraft:barrier", "minecraft:light", "minecraft:potion", "minecraft:knowledge_book", "minecraft:end_portal_frame", "create:handheld_worldshaper", "enigmaticlegacy:enigmatic_item", "enigmaticlegacy:the_judgement"]
+	#A list of keywords. Items ID with those keywords can never be obtained from Lucky Clover.
+	#If you want to ban all items from one mod, write "mod_id:", example: "avaritia:"
+	LuckyCloverBlacklistKeywords = ["creative", "debug"]
+	#(Not recommended!) A list of items which Lucky Clover can only contain. Empty means no whitelist.
+	LuckyCloverWhitelistItems = []
+	#A list of keywords. Lucky Clover can only contain Items which their ID with those keywords. Empty means no whitelist.
+	#If you want to add all items from one mod or only from minecraft, write "mod_id:", example: "minecraft:", "farmersdelight:"
+	LuckyCloverWhitelistKeywords = []
+	#If it's true, Lucky Clover will lose the ability of dropping items.
+	LuckyCloverDisable = false
+
+[LuckyNugget]
+	#Define the duration of effects which gives by Lucky Nugget (in tick)
+	#Range: > 0
+	LuckyNuggetDuration = 6000
+	#Define the amplifier (level) of effects which gives by Lucky Nugget (0 means I, 1 means II and so on.)
+	#Range: 0 ~ 100
+	LuckyNuggetAmp = 0
+	#If it's true, the duration of effects gives by Lucky Nugget will be infinite.
+	LuckyNuggetInfinite = false
+
+[BadApple]
+	#Define the possibility of obtaining bad apple item after you ate an apple.
+	#Range: 0 ~ 100
+	BadAppleRate = 15
+
+[DevourSword]
+	#Whether to enable the capability of shooting sword.
+	ShootingSwords = true
+	#Define the amount of damage increased by each sword.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	DamageAdd = 0.5
+	#Define the percentage of damage inherited from Devour Sword (Devoured sword number * damage inherit * damage add).
+	#Range: 0.0 ~ 1.7976931348623157E308
+	DamageInherit = 0.5
+	#Define the sword amount requirement for increase the shooting sword amount.
+	#Range: > 0
+	UpgradeAmount = 9
+
+[TemplateShroud]
+	#Whether to enable the capability of providing absorption hearts.
+	AbsorbAbility = true
+	#Define the amount of armor increased by each template.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ArmorAdd = 1.0
+	#Define the cooldown of the capability of providing absorption hearts.
+	#Range: > 0
+	AbsorbCooldown = 15
+
+[WateringCan]
+	#Whether to enable the infinite enchantment on watering can.
+	WateringCanInfinite = true
+
+[HeirloomKnife]
+	#Define the min damage provided by sword from Heirloom Knife.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MinDamageRage = 5.0
+	#Define the max damage provided by sword from Heirloom Knife.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MaxDamageRage = 8.0
+	#A list of sword items which Heirloom Knife can only contain. Empty means no whitelist.
+	#If anything in this list, it will not be limited by the blacklist from Lucky Clover.
+	HeirloomKnifeWhitelistItems = []
+	#A list of sword items which can never be obtained from Heirloom Knife.
+	#This list is based on the Lucky Clover blacklist.
+	HeirloomKnifeBlacklistItems = ["smc:devour_sword"]
+
+[CoffeeItem]
+	#Define the cooldown of Java Coffee (in MC tick)
+	#Range: > 0
+	CoffeeCD = 200
+
+[Excalibur]
+	#Define the base damage of sword aura from Excalibur.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	AuraBaseDamage = 15.0
+	#Define the extra damage of sword aura from Excalibur. This number is the percentage of damage based on the percentage of target's current health.
+	#Range: 0.0 ~ 100.0
+	AuraExtraDamage = 15.0
+	#Define the Divine Judgement enchantment provided minimum percentage of damage for sword aura (the larger value between AuraBaseDamage * DivinePercentage and AuraExtraDamage)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	DivinePercentage = 0.3
+
+[RainBow]
+	#Define the number of falling arrows when raining.
+	#Range: > 0
+	ArrowNumberRain = 10
+	#Define the number of falling arrows when thundering.
+	#Range: > 0
+	ArrowNumberThunder = 15
+
+[PerkinWand]
+	#Define the base damage of perkin wand bullet.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MagicBulletDamage = 6.0
+	#Define the extra damage of perkin wand bullet from Damage Spell.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	DamageSpellDamage = 1.2
+
+[MiniBedrock]
+	#Define the probability of popping Mini Bedrock item on bedrock explosion (probability is 1 / x)
+	#Range: > 0
+	BedrockPopRate = 128000
+	#Whether to enable the Mini Bedrock ability and obtaining.
+	EnableMiniBedrock = true
+

@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "valoria"
+	group: "2638C4868A19C93C"
+	icon: "valoria:suspicious_gem"
+	id: "42CBD6D1DB4CE2C4"
+	images: [
+		{
+			height: 2.0d
+			image: "irons_spellbooks:particle/ender_slash_2"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "irons_spellbooks:particle/ender_slash_2"
+			rotation: 180.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "5B8F4D571CF78134"
+		rewards: [{
+			id: "1502084100899841"
+			type: "xp"
+			xp: 45
+		}]
+		shape: "diamond"
+		tasks: [{
+			dimension: "valoria:the_valoria"
+			icon: "valoria:suspicious_gem"
+			id: "1E24CDC4CB8E9DDC"
+			type: "dimension"
+		}]
+		title: "Valoria Dimension"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Valoria"
+}

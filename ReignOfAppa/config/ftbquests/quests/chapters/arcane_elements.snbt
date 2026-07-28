@@ -1,0 +1,118 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "arcane_elements"
+	group: "0566FDA4895DFEF7"
+	icon: "valoria:void_core"
+	id: "56170A990AE5C964"
+	images: [
+		{
+			height: 2.0d
+			image: "terramity:particle/cosmicboom"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			color: 5635925
+			height: 2.0d
+			image: "dungeons_and_combat:item/soul"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "ancient_elements:item/collapse_prism"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.5d
+			y: 3.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The \"Arcane Elements\" are three elements grouped into one, the \"Arcane Elements\". These elements have their own magic classes, spells, armors and weapons. This chapter includes:"
+				""
+				"&d-Ender Element (Ender)&r"
+				""
+				"&a-Evocation Element (Evocation)&r"
+				""
+				"&5-Abyssal Element (Abyss)&r"
+			]
+			id: "23D400C87726F470"
+			shape: "gear"
+			tasks: [{
+				id: "797B2BB0ABC86AA8"
+				title: "Primal Elements"
+				type: "checkmark"
+			}]
+			title: "Arcane Elements"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:evocation_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:evocation_power"
+				}
+			}
+			id: "32FB9C4FC51B9E9B"
+			shape: "hexagon"
+			subtitle: "\"Become an evoker\""
+			tasks: [{
+				id: "0548CFC295B9354D"
+				type: "checkmark"
+			}]
+			title: "Evocation Path"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:ender_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "irons_spellbooks:ender_power"
+				}
+			}
+			id: "7261EBA2B3112053"
+			shape: "hexagon"
+			subtitle: "\"Become an outermancer\""
+			tasks: [{
+				id: "40B75A7F5721027E"
+				type: "checkmark"
+			}]
+			title: "Ender Path"
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "cataclysm_spellbooks:abyssal_upgrade_orb"
+				tag: {
+					"irons_spellbooks:upgrade_orb_type": "cataclysm_spellbooks:abyssal_power"
+				}
+			}
+			id: "3B811352164348F3"
+			shape: "hexagon"
+			subtitle: "\"Become a deltamancer\""
+			tasks: [{
+				id: "620C8FFC181C9A1E"
+				type: "checkmark"
+			}]
+			title: "Abyssal Path"
+			x: 6.5d
+			y: 3.5d
+		}
+	]
+	title: "Arcane Elements"
+}

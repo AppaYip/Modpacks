@@ -1,0 +1,13 @@
+name = "Armory of Remnants"
+filename = "armor_of_remnants-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c24c109e99c6df8e0bd0371aab0e3660736c3bf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8168085
+project-id = 1508722

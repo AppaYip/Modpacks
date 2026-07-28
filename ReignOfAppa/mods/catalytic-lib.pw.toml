@@ -1,0 +1,13 @@
+name = "Catalytic Lib"
+filename = "catalytic_library-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be49e340f254709ef97d21e3fa0a7a8bb56c8ef4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7933946
+project-id = 1506798
