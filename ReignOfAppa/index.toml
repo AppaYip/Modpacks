@@ -4173,7 +4173,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-abyss-chapter-ii.pw.toml"
-hash = "7adc5939c0cc93637bb1429992cbfeedcf2d4d50524b70ff9e2e8a74e3cf3b29"
+hash = "822f11bcde41071d6bc0d38b8eedfd4478fc108ab2e10da131d6034d539d7a5c"
 metafile = true
 
 [[files]]
@@ -4193,7 +4193,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "526453853869bc143351aa6847a504a5beb15572e979ad21a1d7bbf6e45f7613"
+hash = "626f0ea226f55c453930ef387b32ad090c8defdd07792fe0aefc4b5afa87cb46"
 metafile = true
 
 [[files]]
