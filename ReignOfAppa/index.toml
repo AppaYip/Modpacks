@@ -3662,6 +3662,16 @@ hash = "aa2ee25935ff64f2626023b07c4a5eb750e3ea4a6225dc028d5fbe503d01e9c1"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "05f0aaf63c00487b7e7744c940dc5e4aacdf5843fe6368c3ac22ab07b52f3124"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-spellbooks.pw.toml"
 hash = "cc32aa4ef01da1b3f16b3bec4bba92ba0fa9de63e12ade47032f6d670df3bb6f"
 metafile = true
@@ -3704,6 +3714,11 @@ metafile = true
 [[files]]
 file = "mods/incision.pw.toml"
 hash = "b36b5d8404f2d2993a9a271376aa674220d977e15e33e9a633ab67f9f2849bd8"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
 metafile = true
 
 [[files]]
@@ -3917,6 +3932,11 @@ hash = "c2d4e0f4c71992d795116e94eeba7bc93ff67f8a1a167912f6c5f7a2d6ff00fc"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "bc35b92acb8d4d4eb0939e55a59b9005f50a812779f4c39b48bd2aa02d0d498d"
+metafile = true
+
+[[files]]
 file = "mods/morematerials-reborn.pw.toml"
 hash = "4f89168c0510d7ea74a2e2000788045888b0a0fb3b7718c7705c82d2a3c8d6d4"
 metafile = true
@@ -3984,6 +4004,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
 
 [[files]]
