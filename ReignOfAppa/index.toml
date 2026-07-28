@@ -3183,7 +3183,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-gold-equipment.pw.toml"
-hash = "e7f99d604635e5bfffda67c58aec62ccc52fe1f2939465aa7e0694599078ff5f"
+hash = "c31964ac5b217b11399261b3ecf815ef343e917808c2f1b3c4e14d850b0d4df3"
 metafile = true
 
 [[files]]
@@ -3253,7 +3253,7 @@ metafile = true
 
 [[files]]
 file = "mods/call-from-the-depths.pw.toml"
-hash = "b0ca506fad150e5741c7e68b3ed2c60bf6078a5d704d13e4592e73f827c353ea"
+hash = "0716ac808c014492df8a38e01452f3518b94553fcadb52e0e08ff939a983e331"
 metafile = true
 
 [[files]]
@@ -3373,7 +3373,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "c20d7c1668075552c464d873be49e4e4cc3102720bd80fef436821f99bcbf10b"
+hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
 metafile = true
 
 [[files]]
@@ -3973,7 +3973,7 @@ metafile = true
 
 [[files]]
 file = "mods/persistent-creative-inventory.pw.toml"
-hash = "704d13c68d80f1757251058d99f70c872d94b8b68937cb9a0b153f166d969bc4"
+hash = "ac76eab95067b041e906cefd78367138dfc810177553858e66796507f10981a0"
 metafile = true
 
 [[files]]
@@ -4188,7 +4188,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "e7674a7157a5dd92e0a92cb0b2d7e39bf2bd46852ce5d0768cf793d62ebbf67a"
+hash = "1603a2d57a71762925e57c61ae45649bf6aab128295a31efec214b0676c79024"
 metafile = true
 
 [[files]]
@@ -4198,7 +4198,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-innovation.pw.toml"
-hash = "9679eed7787432867cee6227afd067672cc01fa50910a9be5983fd663c835878"
+hash = "d0d2d356f1a5015e354516ed99549815b3dac67307c1374cf5b87e2333afaa62"
 metafile = true
 
 [[files]]
