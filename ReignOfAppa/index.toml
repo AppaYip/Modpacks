@@ -3045,6 +3045,11 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "17318ef5ef0121949acfccca9c76c160395dfa1722a8935375a04fffe04689f9"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "3e36b6df867cf7a3aa9fc03398a6bf885c10bcf0f47d4ea9bff0bfa99b5362ff"
 metafile = true
@@ -3211,7 +3216,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
 
 [[files]]
@@ -3965,8 +3970,13 @@ hash = "e625183e07f91ea177313ed09badf12d44b5e5556b9768bd68a6d39c8c3ee268"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "8bcac14e9d9de7789277a7c48b7c05c3f79618dfee5c6e7002c165dfcdae58f2"
+metafile = true
+
+[[files]]
 file = "mods/origins-forge.pw.toml"
-hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
+hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
 metafile = true
 
 [[files]]
@@ -3992,6 +4002,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
 
 [[files]]
@@ -4157,6 +4172,11 @@ metafile = true
 [[files]]
 file = "mods/starcatcher.pw.toml"
 hash = "66cfe773f8a9bfb1487976bb249c1596c4c76751aa1b177c8c40479457a25460"
+metafile = true
+
+[[files]]
+file = "mods/strictly-origins.pw.toml"
+hash = "4c6ee2b82f845767e62409bb6489bf4af890e7b71a14c1bd9f267a8cf7a04f99"
 metafile = true
 
 [[files]]
