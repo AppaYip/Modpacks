@@ -1606,8 +1606,8 @@ file = "config/raidsenhanced/raidsenhanced.json"
 hash = "06b5173418f8eb69cedce846190d8d1158d58b38aeb516082bf70b2a91f51d6e"
 
 [[files]]
-file = "config/refinedstorage-client.toml"
-hash = "1688fbd31e8cd3a63f9ca3f5aa407dc4c5725bb727e450df69a24fd45418181a"
+file = "config/rats-common.toml"
+hash = "90ba24870f8c4dc885c6a85c34b27733d7c62fc40a479c0f97189943254632a4"
 
 [[files]]
 file = "config/regions_unexplored/ru-common.toml"
@@ -4198,11 +4198,6 @@ metafile = true
 [[files]]
 file = "mods/the-abyss-chapter-ii.pw.toml"
 hash = "822f11bcde41071d6bc0d38b8eedfd4478fc108ab2e10da131d6034d539d7a5c"
-metafile = true
-
-[[files]]
-file = "mods/the-deep-void.pw.toml"
-hash = "e1167f93270b84ac441a87b8eefa87043ec2e050c5eb64104eb89a2ffa76efcc"
 metafile = true
 
 [[files]]
