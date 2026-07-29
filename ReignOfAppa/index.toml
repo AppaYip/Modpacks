@@ -3426,6 +3426,11 @@ hash = "9085071da51ad9cf0865d7294c42a850389c34933845aeede842c43326a69307"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "2e5cf666dac091c3a687d3b0e38954bbf80408a7f7bfadc68b4159cde91b0291"
+metafile = true
+
+[[files]]
 file = "mods/eidolon-repraised.pw.toml"
 hash = "92cace5c060fda4888a56b38312d2ff937770c9cdbf297b93285ba6c2c2b5553"
 metafile = true
