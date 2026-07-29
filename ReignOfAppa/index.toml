@@ -874,6 +874,10 @@ file = "config/easymagic-server.toml"
 hash = "7dbf42819b121001c76e06c07994c363d316ce110f7b06dd032687f4099d5687"
 
 [[files]]
+file = "config/eccentrictome-common.toml"
+hash = "d5180847dea61419d4c046515c808edf8f9d3477ceaec7e7be8810ed53f8136e"
+
+[[files]]
 file = "config/eidolon-client.toml"
 hash = "802d1db17dc65a2d9ce09d3177fcb9c74e2766b9304926f3e9072158e530c411"
 
