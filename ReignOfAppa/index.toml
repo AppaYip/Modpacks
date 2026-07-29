@@ -3207,7 +3207,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
@@ -3921,6 +3921,11 @@ hash = "69c100deb9011e828b3f11a0df754316829b751833ac30bc4726710c082f9808"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "2b8f42e2738eee168da78318c19249f78a546dd3f0a08084afcb7ddacc0144b4"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "937c7ae4c8274ee0717546a2ca736099b1640a178b8f06027f62ca310517e413"
 metafile = true
@@ -3948,6 +3953,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "e625183e07f91ea177313ed09badf12d44b5e5556b9768bd68a6d39c8c3ee268"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
 metafile = true
 
 [[files]]
@@ -4022,7 +4032,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
@@ -4126,6 +4136,11 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
+file = "mods/spartan-weaponry.pw.toml"
+hash = "2245f3d120ab366a525dd63f07d83bcb879a410fe973db60c189d24395212279"
+metafile = true
+
+[[files]]
 file = "mods/star-meow-craft.pw.toml"
 hash = "205b8a89f52b52d7d6b00bf404e855142257116c7c51ac03e9bf1410945c426d"
 metafile = true
@@ -4178,6 +4193,11 @@ metafile = true
 [[files]]
 file = "mods/the-abyss-chapter-ii.pw.toml"
 hash = "822f11bcde41071d6bc0d38b8eedfd4478fc108ab2e10da131d6034d539d7a5c"
+metafile = true
+
+[[files]]
+file = "mods/the-deep-void.pw.toml"
+hash = "e1167f93270b84ac441a87b8eefa87043ec2e050c5eb64104eb89a2ffa76efcc"
 metafile = true
 
 [[files]]
