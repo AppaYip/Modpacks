@@ -3185,11 +3185,6 @@ hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
 metafile = true
 
 [[files]]
-file = "mods/born-in-chaos.pw.toml"
-hash = "d61aee2e0abf58c9a923bfebd86b9b1e88e8001164c2ebf2ac4c96842acc7423"
-metafile = true
-
-[[files]]
 file = "mods/boss-checklist.pw.toml"
 hash = "b179a1351967b57e80ca4e884e45101373b359e32c2ea47f0e9cd540bfbc3df6"
 metafile = true
