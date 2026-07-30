@@ -3045,11 +3045,6 @@ hash = "13a74eff0c872f47e65d895515baaee94b74539c07d271fdff15452365b54471"
 metafile = true
 
 [[files]]
-file = "mods/ancient-elements.pw.toml"
-hash = "58da9a52b7a554bb08189664a8c9b54ec422ee8a51dc40b39d6e9fac33fdb5a3"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "892330f5c44888f1fbdd552b728acf89af7bc32a8cbb9ff5cd17c4a453508fc4"
 metafile = true
@@ -3732,11 +3727,6 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "41ccf0ad69630060d38686ff155c73446be62b2c77cf5c25707f880c9802c697"
-metafile = true
-
-[[files]]
-file = "mods/klsts-rebalance.pw.toml"
-hash = "91d6be34e343a8e47a3f7bf87d66249d4714afcf90e3bae2c4a7f75b43913243"
 metafile = true
 
 [[files]]
