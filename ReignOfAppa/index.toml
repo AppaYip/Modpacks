@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
-metafile = true
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -3010,11 +3005,6 @@ file = "kubejs/startup_scripts/new items/solaralloy.js"
 hash = "cd93cd84f205c3f4d2ed317887c3d109e7967ec29ba793f1d010a2cb1a14f303"
 
 [[files]]
-file = "mellow.pw.toml"
-hash = "6794b46f86357ac00e4d74f1e466cc0b45a18fea2db938aa362b119b126b61b5"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
@@ -4343,6 +4333,14 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
+
+[[files]]
+file = "packexports/Reign of Appa(CURSEFORGE).zip"
+hash = "f0f9c8ec917b385e89028c3d7701e6cbc2ec8c109a282b7ea6c9ba4d31167ce6"
+
+[[files]]
+file = "packexports/Reign of Appa(PRISM).zip"
+hash = "6f49207f90e9b254d7e3bd6a33180fa200384fdae5755be963b788b1c438448a"
 
 [[files]]
 file = "resourcepacks/IEOR Music/assets/alexs_mobs_extra_music/sounds/void_worm_triumph.ogg"
@@ -34969,10 +34967,20 @@ file = "shaderpacks/Visual-Vibrance-v0.3.5a.zip.txt"
 hash = "f894f58d2b4a4725d6206aaf168f9f746353c83151698c872c57d1e461bb2fd7"
 
 [[files]]
-file = "unsup.ini"
-hash = "29d0ac7d3f368edb5ab053dbb96db9834d80d14a850e85bcb221995b3013d425"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "c5bc3ca7208ce354e61a0827ee83ab6e5cdd27341e7f8bfe4ca033ce35a08192"
+metafile = true
 
 [[files]]
-file = "visual-vibrance.pw.toml"
-hash = "c12007553937cee811337b3c338fa657abd217e950ec4e3d059c28d83004a69a"
+file = "shaderpacks/mellow.pw.toml"
+hash = "a59ddb3ea59cf6a37401c12b818e20220ceb81d566ba038983ba381b47cc74e0"
 metafile = true
+
+[[files]]
+file = "shaderpacks/visual-vibrance.pw.toml"
+hash = "a833f9fc0ed3b16a586d95f9edb7181222286573ca2d1f5b0fb61b1d04fd7ba2"
+metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "29d0ac7d3f368edb5ab053dbb96db9834d80d14a850e85bcb221995b3013d425"

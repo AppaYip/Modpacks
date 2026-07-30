@@ -1,6 +1,6 @@
 name = "Visual Vibrance"
 filename = "Visual-Vibrance-v0.3.5a.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
