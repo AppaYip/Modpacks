@@ -4335,14 +4335,6 @@ hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
 
 [[files]]
-file = "packexports/Reign of Appa(CURSEFORGE).zip"
-hash = "f0f9c8ec917b385e89028c3d7701e6cbc2ec8c109a282b7ea6c9ba4d31167ce6"
-
-[[files]]
-file = "packexports/Reign of Appa(PRISM).zip"
-hash = "6f49207f90e9b254d7e3bd6a33180fa200384fdae5755be963b788b1c438448a"
-
-[[files]]
 file = "resourcepacks/IEOR Music/assets/alexs_mobs_extra_music/sounds/void_worm_triumph.ogg"
 hash = "130f7f6f2aaeca9f29daf2331bf82e16872fa65fa3e966304b8deadae34aa56b"
 
